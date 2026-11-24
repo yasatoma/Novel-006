@@ -1,0 +1,13 @@
+{
+  "workId": "Novel-006",
+  "title": "十三番線に、朝は来ない",
+  "engineVersion": "1.1",
+  "entryScenario": "scenario/main.txt",
+  "titleImage": "title.webp",
+  "titleLayout": "left",
+  "saveKey": "Novel-006",
+  "presentation": {
+    "defaultCharacterPosition": "right"
+  },
+  "titleBgm": "B018.dat"
+}

@@ -1,0 +1,10 @@
+{
+  "workId": "Novel-006",
+  "repository": "yasatoma/Novel-006",
+  "engine": {
+    "repository": "yasatoma/ChappyNovelEngine",
+    "revision": "920685ea41a3cfb03a0d8b4f3b3af6fd1898d95f",
+    "branch": "main",
+    "version": "1.1"
+  }
+}

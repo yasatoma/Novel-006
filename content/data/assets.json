@@ -1,0 +1,118 @@
+{
+  "backgrounds": {
+    "BG_001": "BG_001.webp",
+    "BG_002": "BG_002.webp",
+    "BG_003": {
+      "base": "BG_003.webp",
+      "return_dark": "BG_003_return_dark.webp"
+    },
+    "BG_004": {
+      "base": "BG_004.webp",
+      "seat_depressed": "BG_004_seat_depressed.webp"
+    },
+    "BG_005": {
+      "base": "BG_005.webp",
+      "fallen": "BG_005_fallen.webp"
+    },
+    "BG_006": "BG_006.webp",
+    "BG_007": "BG_007.webp",
+    "BG_008": "BG_008.webp",
+    "BG_009": {
+      "base": "BG_009.webp",
+      "past": "BG_009_past.webp"
+    },
+    "BG_010": "BG_010.webp",
+    "BG_011": {
+      "base": "BG_011.webp",
+      "past": "BG_011_past.webp"
+    },
+    "BG_012": "BG_012.webp",
+    "BG_013": {
+      "base": "BG_013.webp",
+      "broken_ledge": "BG_013_broken_ledge.webp"
+    },
+    "BG_014": {
+      "base": "BG_014.webp",
+      "ladder_reached": "BG_014_ladder_reached.webp"
+    },
+    "BG_015": "BG_015.webp",
+    "BG_016": {
+      "base": "BG_016.webp",
+      "collapse_progress": "BG_016_collapse_progress.webp",
+      "rear_broken": "BG_016_rear_broken.webp"
+    },
+    "BG_017": "BG_017.webp",
+    "BG_018": "BG_018.webp"
+  },
+  "characters": {
+    "CH_000": {
+      "name": "直人",
+      "color": "#4F7FCB",
+      "expressions": {}
+    },
+    "CH_001": {
+      "name": "綾乃",
+      "color": "#C85A6A",
+      "expressions": {
+        "基本": "CH_001_基本.webp",
+        "微笑み": "CH_001_微笑み.webp",
+        "戸惑い": "CH_001_戸惑い.webp",
+        "悲しみ": "CH_001_悲しみ.webp",
+        "決意": "CH_001_決意.webp",
+        "驚き": "CH_001_驚き.webp",
+        "照れ": "CH_001_照れ.webp"
+      }
+    },
+    "CH_002": {
+      "name": "大庭",
+      "color": "#4F7FCB",
+      "expressions": {
+        "基本": "CH_002_基本.webp",
+        "不安": "CH_002_不安.webp",
+        "威嚇": "CH_002_威嚇.webp"
+      }
+    },
+    "CH_003": {
+      "name": "黒川",
+      "color": "#4F7FCB",
+      "expressions": {
+        "基本": "CH_003_基本.webp",
+        "真剣": "CH_003_真剣.webp"
+      }
+    },
+    "CH_004": {
+      "name": "久我",
+      "color": "#4F7FCB",
+      "expressions": {
+        "基本": "CH_004_基本.webp",
+        "不機嫌": "CH_004_不機嫌.webp"
+      }
+    },
+    "CH_005": {
+      "name": "桐生",
+      "color": "#C85A6A",
+      "expressions": {
+        "基本": "CH_005_基本.webp",
+        "真剣": "CH_005_真剣.webp",
+        "疲労": "CH_005_疲労.webp"
+      }
+    },
+    "CH_006": {
+      "name": "村瀬",
+      "color": "#4F7FCB",
+      "expressions": {
+        "基本": "CH_006_基本.webp",
+        "厳しい": "CH_006_厳しい.webp"
+      }
+    },
+    "CH_007": {
+      "name": "すず",
+      "color": "#C85A6A",
+      "expressions": {
+        "基本": "CH_007_基本.webp",
+        "不安": "CH_007_不安.webp",
+        "微笑み": "CH_007_微笑み.webp"
+      }
+    }
+  }
+}

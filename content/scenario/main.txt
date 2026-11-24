@@ -1,0 +1,6016 @@
+@chapter start id=CH01 title="第一章　案内の先"
+@textbox hide
+@scene start id=SC01_001
+@bg show id=BG_001 transition=fade duration_ms=1000
+@bgm play file=B001.dat fade_ms=2000
+@ambient play file=A001.dat volume=0.3 fade_ms=2000
+@chapter_title show chapter="第一章" title="案内の先"
+@wait sync
+@location show text="駅の連絡通路／冬の夜"
+@textbox show
+@text show id=TX01_001_0001 speaker=narration
+雨で列車が遅れている。
+@text show id=TX01_001_0002 speaker=narration
+改札の前でそう聞いた時には、まだ、母に帰りが遅くなると伝えれば済む話だった。
+@text show id=TX01_001_0003 speaker=CH_000
+……十三番線？
+@text show id=TX01_001_0004 speaker=narration
+普段使う乗り場へ向かいかけた時、構内放送が帰宅方向の行き先を告げた。
+@text show id=TX01_001_0005 speaker=narration
+雨のため、臨時の乗り場へ変更するという。
+@text show id=TX01_001_0006 speaker=narration
+人の流れを追えばいいと思ったが、近くにいた数人は別の出口へ向かった。俺は放送が聞こえた方へ一度戻り、壁の案内を探した。
+@text show id=TX01_001_0007 speaker=narration
+通路の突き当たりに、黄色い矢印が貼られている。
+@text show id=TX01_001_0008 speaker=narration
+紙は新しい。端まできれいにテープで留めてあって、急に設けた乗り場の案内にも見えた。
+@text show id=TX01_001_0009 speaker=narration
+けれど、この駅にそんな番号があっただろうか。
+@text show id=TX01_001_0010 speaker=narration
+ポケットから携帯を出した。
+@text show id=TX01_001_0011 speaker=narration
+さっきまで見ていた路線案内は、白い画面の中央で読み込み続けている。
+@text show id=TX01_001_0012 speaker=narration
+母へのメッセージにも、送信中を示す小さな印がついたままだった。
+@text show id=TX01_001_0013 speaker=narration
+『雨で遅れてる。先に寝てて』
+@text show id=TX01_001_0014 speaker=narration
+文章をもう一度押しても、表示は変わらない。
+@text show id=TX01_001_0015 speaker=narration
+地下の通路だからだろう。そう思って、携帯をしまった。
+@text show id=TX01_001_0016 speaker=narration
+同僚の顔が、ふと浮かんだ。
+@text show id=TX01_001_0017 speaker=narration
+遅くなったついでに何か食べて帰ると言っていた。俺は早く帰りたいと答えた。
+@text show id=TX01_001_0018 speaker=narration
+その時から、まだそんなに時間は経っていない。
+@text show id=TX01_001_0019 speaker=narration
+さっきまでいた明るい駅の広間には、濡れた傘を畳む人も、売店へ並ぶ人もいた。
+@text show id=TX01_001_0020 speaker=narration
+今いる通路には、俺の靴音しか聞こえなかった。
+@text show id=TX01_001_0021 speaker=narration
+急に人の少ない方へ来たことが気になり、肩越しに一度振り返った。
+@text show id=TX01_001_0022 speaker=narration
+戻る道は見えている。階段の先で向きが変わっているだけだ。
+@text show id=TX01_001_0023 speaker=narration
+そんなことで足を止めるのも変だと思い、案内へ従った。
+@text show id=TX01_001_0024 speaker=narration
+仕事の鞄を持ち直す。
+@text show id=TX01_001_0025 speaker=narration
+濡れた袖口が手首に貼りついていた。早く帰って、風呂に入りたい。それから何か温かいものを食べたい。
+@text show id=TX01_001_0026 speaker=narration
+それだけを考えて階段へ向かった。
+@ambient play file=A001.dat volume=1
+@text show id=TX01_001_0027 speaker=narration
+下りた先で、雨の音が急に近くなった。
+@text show id=TX01_001_0028 speaker=narration
+通路は外へつながっていたらしい。冷たい風に押され、首をすくめる。
+@scene end id=SC01_001
+@scene start id=SC01_002
+@bg show id=BG_002
+@location show text="十三番線ホーム／雨"
+@text show id=TX01_002_0001 speaker=narration
+屋根の下にも雨が吹き込んでいた。
+@text show id=TX01_002_0002 speaker=narration
+細いホームの向こうに、古い列車が止まっている。
+@text show id=TX01_002_0003 speaker=narration
+窓の明かりは点いているのに、行き先の表示が見当たらない。車体の色も、濡れた闇の中では判然としなかった。
+@text show id=TX01_002_0004 speaker=narration
+柱に取りつけられた看板だけが、妙にはっきり見えた。
+@text show id=TX01_002_0005 speaker=narration
+十三番線。
+@text show id=TX01_002_0006 speaker=narration
+間違えてはいない。
+@text show id=TX01_002_0007 speaker=narration
+そう分かっても、安心できなかった。
+@char show id=CH_001 expression=基本
+@text show id=TX01_002_0008 speaker=CH_001
+直人？
+@text show id=TX01_002_0009 speaker=narration
+列車を見上げていた女性が、こちらを向いた。
+@text show id=TX01_002_0010 speaker=narration
+アイボリーの長いコート。その襟元に、深い赤のストールが巻かれている。
+@text show id=TX01_002_0011 speaker=narration
+風に乱れた髪を耳へ寄せ、彼女は一歩近づいてきた。
+@text show id=TX01_002_0012 speaker=CH_001
+やっぱり。直人だよね
+@text show id=TX01_002_0013 speaker=narration
+迷いのない呼び方だった。
+@text show id=TX01_002_0014 speaker=narration
+その声を聞いて、自分の苗字を言う必要がない相手なのだと分かった。
+@text show id=TX01_002_0015 speaker=narration
+分かったのに、名前が出てこない。
+@text show id=TX01_002_0016 speaker=CH_000
+あの……ごめん。どこかで
+@char change id=CH_001 expression=戸惑い
+@text show id=TX01_002_0017 speaker=narration
+彼女の唇が、少しだけ開いた。
+@text show id=TX01_002_0018 speaker=narration
+言おうとした言葉をのみ込むまでの間が、雨音の中に残った。
+@text show id=TX01_002_0019 speaker=CH_001
+水城綾乃。覚えてないかな
+@text show id=TX01_002_0020 speaker=narration
+水城。
+@text show id=TX01_002_0021 speaker=narration
+綾乃。
+@text show id=TX01_002_0022 speaker=narration
+頭の中で繰り返した。学校、以前の勤め先、友人の知り合い。思い当たる顔を探しても、目の前の女性へ結びつかない。
+@text show id=TX01_002_0023 speaker=CH_000
+……ごめん
+@char change id=CH_001 expression=微笑み
+@text show id=TX01_002_0024 speaker=CH_001
+ううん。急に声を掛けたから
+@text show id=TX01_002_0025 speaker=narration
+笑ってくれた。
+@text show id=TX01_002_0026 speaker=narration
+けれど、その前に彼女がストールの端を握り直したことを見てしまった。
+@text show id=TX01_002_0027 speaker=narration
+こちらの返事は、彼女が待っていたものとは違ったのだ。
+@text show id=TX01_002_0028 speaker=CH_000
+人違い、じゃないんだよね
+@text show id=TX01_002_0029 speaker=CH_001
+相沢直人。二十七歳
+@text show id=TX01_002_0030 speaker=CH_000
+うん。合ってる
+@text show id=TX01_002_0031 speaker=CH_001
+じゃあ、私が合ってる
+@text show id=TX01_002_0032 speaker=narration
+少しだけ得意そうに言う。
+@text show id=TX01_002_0033 speaker=narration
+俺もつられて笑いかけたが、それで済ませてはいけない気がした。
+@text show id=TX01_002_0034 speaker=CH_000
+どこで会ったか、聞いてもいい？
+@text show id=TX01_002_0035 speaker=CH_001
+昔。同じ学校だったの
+@text show id=TX01_002_0036 speaker=CH_000
+小学校？
+@text show id=TX01_002_0037 speaker=CH_001
+うん
+@char change id=CH_001 expression=基本 crop=face
+@text show id=TX01_002_0038 speaker=narration
+俺は彼女の顔を、あらためて見た。
+@text show id=TX01_002_0039 speaker=narration
+髪に留めた金色の花と、そこから下がる赤いリボン。化粧をした目元。声を掛けた時より、少しだけ抑えた表情。
+@text show id=TX01_002_0040 speaker=narration
+子どもの頃と大人になってからでは、見た目も変わる。思い出せないこと自体は、珍しくないはずだった。
+@text show id=TX01_002_0041 speaker=narration
+それでも彼女は、俺にはすぐ気づいていた。
+@text show id=TX01_002_0042 speaker=narration
+昔の友達なら覚えているつもりだった。
+@text show id=TX01_002_0043 speaker=narration
+卒業前に転校したから、疎遠になった相手も多い。それでも、名前を聞けば何か出てくるはずだと思っていた。
+@char change id=CH_001 expression=基本 crop=bust
+@text show id=TX01_002_0044 speaker=narration
+綾乃は俺を見ていたが、答えを急がせなかった。
+@text show id=TX01_002_0045 speaker=narration
+その待ち方にまで覚えがないことが、なぜか気まずかった。
+@text show id=TX01_002_0046 speaker=CH_000
+俺、途中で引っ越して……
+@text show id=TX01_002_0047 speaker=CH_001
+知ってる
+@text show id=TX01_002_0048 speaker=narration
+短い返事だった。
+@text show id=TX01_002_0049 speaker=narration
+どこまで説明すればいいのか分からなくなり、俺は列車へ目を戻した。
+@text show id=TX01_002_0050 speaker=CH_000
+これ、乗っていいのかな
+@text show id=TX01_002_0051 speaker=CH_001
+私も迷ってた。駅の人に、ここで待つように言われて
+@text show id=TX01_002_0052 speaker=CH_000
+代わりの列車って？
+@text show id=TX01_002_0053 speaker=CH_001
+ううん。雨が落ち着くまで待ってください、って
+@text show id=TX01_002_0054 speaker=narration
+俺が聞いたのは、臨時の列車へ案内するという放送だった。
+@text show id=TX01_002_0055 speaker=narration
+彼女は駅員から、待つ場所として教えられている。
+@text show id=TX01_002_0056 speaker=narration
+同じ場所へ来たのに、目的が違っていた。
+@text show id=TX01_002_0057 speaker=narration
+綾乃は携帯を出し、もう一度画面を確かめた。
+@text show id=TX01_002_0058 speaker=narration
+手袋を外した指先が少し赤い。画面へ触れる動作は手慣れていて、俺と同じように路線の案内を見ようとしているらしかった。
+@text show id=TX01_002_0059 speaker=CH_001
+こっちも読み込まない。先に知らせておけばよかった
+@text show id=TX01_002_0060 speaker=CH_000
+俺も。送れたつもりで、見直したら止まってた
+@text show id=TX01_002_0061 speaker=CH_001
+電波が戻ったら、もう一度試そう
+@text show id=TX01_002_0062 speaker=narration
+彼女は携帯を鞄へ戻し、持ち手を手首へ掛け直した。
+@text show id=TX01_002_0063 speaker=narration
+昔の同級生だという言葉だけが宙に浮いている。俺は続きを聞きたかったが、思い出せないまま彼女に説明ばかり求めるのは、悪い気がした。
+@text show id=TX01_002_0064 speaker=narration
+落ち着ける所へ着いたら、きちんと聞こうと思った。
+@text show id=TX01_002_0065 speaker=CH_000
+案内が混乱してるのかも
+@text show id=TX01_002_0066 speaker=CH_001
+そうかもしれないね。誰か来たら聞こうと思ってたんだけど
+@text show id=TX01_002_0067 speaker=narration
+ホームの奥を見る。
+@text show id=TX01_002_0068 speaker=narration
+人影はない。屋根を打つ雨と、線路の側から吹き上げてくる風だけがある。
+@text show id=TX01_002_0069 speaker=narration
+車内に駅員がいるかもしれない。けれど開いている扉は、一番後ろの一か所だけだった。
+@text show id=TX01_002_0070 speaker=narration
+そこに小さく、８、と書かれている。
+@text show id=TX01_002_0071 speaker=CH_000
+八号車。八両あるのか
+@text show id=TX01_002_0072 speaker=narration
+前方はホームから外れ、闇へ延びていた。
+@text show id=TX01_002_0073 speaker=narration
+光る窓がいくつか見え、その先は雨に遮られている。歩いて先頭へ回れるほどの通路もなかった。
+@text show id=TX01_002_0074 speaker=CH_001
+来た方、もう一度見てみる？
+@text show id=TX01_002_0075 speaker=CH_000
+うん。一度戻って——
+@text show id=TX01_002_0076 speaker=narration
+足を向けかけた時、通路の方から靴音がした。
+@char show id=CH_003 expression=基本 position=left
+@text show id=TX01_002_0077 speaker=CH_003
+お、いた。よかった。間違って関係者用のところに入ったかと思ったよ
+@text show id=TX01_002_0078 speaker=narration
+背の高い男が、肩の鞄を押さえながらやってきた。
+@text show id=TX01_002_0079 speaker=narration
+コートの肩が濡れ、首から下げたカメラを片手でかばっている。
+@text show id=TX01_002_0080 speaker=narration
+彼は看板を見上げると、さほど安心していない顔で口の端を上げた。
+@text show id=TX01_002_0081 speaker=CH_003
+十三ねえ。番号まで合ってるのが、かえって困るな
+@text show id=TX01_002_0082 speaker=CH_000
+案内を見て来たんですか
+@text show id=TX01_002_0083 speaker=CH_003
+そう。手書きのやつ。走り書きで矢印があってさ。ここまで歩かせるなら、もうちょっと丁寧に書いてほしいよね
+@text show id=TX01_002_0084 speaker=narration
+俺が見たのは、印刷された黄色い案内だった。
+@text show id=TX01_002_0085 speaker=narration
+口にしようとして、やめた。
+@text show id=TX01_002_0086 speaker=narration
+入口が違えば、貼ってある紙も違う。それだけのことだ。
+@text show id=TX01_002_0087 speaker=narration
+男は黒川と名乗った。
+@text show id=TX01_002_0088 speaker=narration
+俺たちが名前を返すと、列車の窓へ顔を近づけ、中に誰かいないか確かめた。
+@text show id=TX01_002_0089 speaker=CH_003
+照明は点いてるんだけどね。中で待てってことかな
+@text show id=TX01_002_0090 speaker=CH_001
+駅員さんはいませんでした？
+@text show id=TX01_002_0091 speaker=CH_003
+俺は会ってない。通路に誰もいなくて、ちょっと心細かったところ
+@text show id=TX01_002_0092 speaker=narration
+言い方が軽くて、救われた。
+@text show id=TX01_002_0093 speaker=narration
+自分だけが変なところへ来てしまったわけではない。
+@text show id=TX01_002_0094 speaker=narration
+それを他人の声で確認したかったのだと思う。
+@char hide id=ALL
+@text show id=TX01_002_0095 speaker=narration
+続いて、年配の男性と女性が姿を見せた。
+@text show id=TX01_002_0096 speaker=narration
+二人連れではないらしい。男性が足を緩めて、後ろから来る制服姿の少女を待っていた。
+@char show id=CH_006 expression=基本
+@text show id=TX01_002_0097 speaker=CH_006
+ここでよさそうですか
+@text show id=TX01_002_0098 speaker=CH_003
+俺たちも、それを相談してたところで
+@text show id=TX01_002_0099 speaker=CH_006
+そうですか。では、いったん雨の当たらない所へ寄りましょう
+@text show id=TX01_002_0100 speaker=narration
+男性の声に従って、俺たちは柱の側へ移った。
+@text show id=TX01_002_0101 speaker=narration
+少女は鞄を胸元へ引きつけていた。マフラーの上から見える頬が、寒さのせいか白い。
+@text show id=TX01_002_0102 speaker=narration
+女性が自分の傘を少し傾け、吹き込む雨から少女をかばった。
+@text show id=TX01_002_0103 speaker=narration
+通路には、まだ人がいるらしい。
+@text show id=TX01_002_0104 speaker=narration
+靴底が水を鳴らす音と、苛立った舌打ちが近づいてきた。
+@char hide id=ALL
+@wait sync
+@char show id=CH_004 expression=不機嫌 position=left
+@text show id=TX01_002_0105 speaker=CH_004
+どこまで歩かせんだよ。駅員、いねえの？
+@text show id=TX01_002_0106 speaker=narration
+金髪の若い男が俺たちを見回した。
+@text show id=TX01_002_0107 speaker=narration
+薄い上着の前を合わせ、寒そうに肩を上げている。
+@text show id=TX01_002_0108 speaker=narration
+その後ろから、会社帰りらしい男が小走りで追いついてきた。
+@char show id=CH_002 expression=基本 position=right
+@text show id=TX01_002_0109 speaker=CH_002
+すみません、ここ……あ、列車、来てるんですね
+@text show id=TX01_002_0110 speaker=narration
+彼はほっとしたように息をついた。
+@text show id=TX01_002_0111 speaker=narration
+腕を上げた拍子に、銀色の細い飾りが袖口で触れ合った。
+@text show id=TX01_002_0112 speaker=narration
+いま来た人たちまで数えると、全部で八人だった。
+@char hide id=ALL
+@wait sync
+@char show id=CH_006 expression=基本
+@text show id=TX01_002_0113 speaker=CH_006
+まだ乗らない方がよいという案内は、どなたか聞いていますか
+@text show id=TX01_002_0114 speaker=narration
+誰も答えない。
+@text show id=TX01_002_0115 speaker=narration
+反対に、発車するという確かな案内もない。
+@text show id=TX01_002_0116 speaker=narration
+雨が強くなった。
+@text show id=TX01_002_0117 speaker=narration
+柱のそばにいても、足元へ水が散ってくる。少女が靴を引き、年配の男性が場所を譲った。
+@char hide id=ALL
+@wait sync
+@char show id=CH_001 expression=基本
+@text show id=TX01_002_0118 speaker=CH_001
+とりあえず、扉のところまで行こうか
+@text show id=TX01_002_0119 speaker=CH_000
+そうだね
+@text show id=TX01_002_0120 speaker=narration
+黒川が先に歩き、俺も鞄を持ち替えた。
+@text show id=TX01_002_0121 speaker=narration
+指が濡れていて、持ち手がうまく収まらない。
+@text show id=TX01_002_0122 speaker=narration
+直して顔を上げると、綾乃が一歩先で待っていた。
+@text show id=TX01_002_0123 speaker=CH_001
+大丈夫？
+@text show id=TX01_002_0124 speaker=CH_000
+うん
+@text show id=TX01_002_0125 speaker=narration
+俺が歩き出すのに合わせて、彼女も足を出した。
+@text show id=TX01_002_0126 speaker=narration
+急がなくていいとも、待っていたとも言わない。
+@text show id=TX01_002_0127 speaker=narration
+二人で並んだ時、俺の歩幅は自然に少し狭くなった。
+@text show id=TX01_002_0128 speaker=narration
+濡れた所を避けるため、同時に内側へ寄る。
+@text show id=TX01_002_0129 speaker=narration
+肩が近づいたのに、よけようとは思わなかった。
+@text show id=TX01_002_0130 speaker=narration
+ほとんど初対面の相手と歩くなら、もっと距離を測るはずだった。
+@text show id=TX01_002_0131 speaker=CH_000
+……水城さん
+@text show id=TX01_002_0132 speaker=CH_001
+綾乃でいいよ
+@text show id=TX01_002_0133 speaker=narration
+言ってから、彼女はこちらを見た。
+@text show id=TX01_002_0134 speaker=narration
+今の俺には急だったかもしれないと、確かめるような目だった。
+@text show id=TX01_002_0135 speaker=CH_000
+じゃあ、綾乃
+@char change id=CH_001 expression=微笑み
+@text show id=TX01_002_0136 speaker=narration
+名前は、ためらったほど不自然には聞こえなかった。
+@text show id=TX01_002_0137 speaker=narration
+彼女の表情が、そこで初めてはっきり緩んだ。
+@text show id=TX01_002_0138 speaker=CH_001
+うん
+@text show id=TX01_002_0139 speaker=narration
+なぜ、それだけで嬉しそうなのだろう。
+@text show id=TX01_002_0140 speaker=narration
+覚えていないと告げられた後でも、隣を歩いてくれるのだろう。
+@text show id=TX01_002_0141 speaker=narration
+聞こうと思った時には、八号車の扉が目の前にあった。
+@text show id=TX01_002_0142 speaker=narration
+車内から、ホームよりも少し温かい空気が流れてくる。
+@char hide id=ALL
+@wait sync
+@char show id=CH_007 expression=不安
+@text show id=TX01_002_0143 speaker=narration
+先に着いた少女が、扉の前で立ち止まっていた。
+@text show id=TX01_002_0144 speaker=narration
+中へ入らず、通路の方を何度も振り返っている。
+@text show id=TX01_002_0145 speaker=CH_007
+……あの。私、もう少し、ここで
+@text show id=TX01_002_0146 speaker=narration
+背後で、若い男が舌打ちした。
+@scene end id=SC01_002
+@chapter end id=CH01
+
+@chapter start id=CH02 title="第二章　八人目"
+@textbox hide
+@scene start id=SC02_001
+@chapter_title show chapter="第二章" title="八人目"
+@wait sync
+@location show text="十三番線ホーム／八号車の扉前"
+@textbox show
+@text show id=TX02_001_0001 speaker=CH_007
+友達と、待ち合わせしてて。まだ来てないので
+@text show id=TX02_001_0002 speaker=narration
+少女は横へ避けようとした。
+@text show id=TX02_001_0003 speaker=narration
+鞄についた二つのぬいぐるみが、扉の縁で揺れた。
+@text show id=TX02_001_0004 speaker=CH_004
+じゃあ、どけよ
+@char hide id=ALL
+@text show id=TX02_001_0005 speaker=narration
+男の脚が上がった。
+@text show id=TX02_001_0006 speaker=narration
+靴底が、少女の腰のあたりを押す。
+@effect play id=shake
+@se play file=S001.dat
+@text show id=TX02_001_0007 speaker=narration
+避けようとしていた身体が前へ投げ出され、膝の落ちる音が車内に響いた。
+@char show id=CH_001 expression=決意 position=right
+@char show id=CH_004 expression=不機嫌 position=left
+@text show id=TX02_001_0008 speaker=CH_001
+何してるの！
+@text show id=TX02_001_0009 speaker=narration
+綾乃が俺の隣から飛び出した。
+@text show id=TX02_001_0010 speaker=narration
+男の前に立ち、車内へ進もうとするのを遮る。
+@text show id=TX02_001_0011 speaker=CH_004
+邪魔だったんだよ。大げさに転びやがって
+@text show id=TX02_001_0012 speaker=CH_001
+自分で蹴ったでしょう
+@text show id=TX02_001_0013 speaker=CH_004
+押しただけだって
+@text show id=TX02_001_0014 speaker=CH_001
+足で、人を押していいと思ってるの？
+@text show id=TX02_001_0015 speaker=narration
+彼女の声は強かった。けれど言葉は乱れず、男が笑って済ませようとするたび、正面から視線を戻した。
+@bg show id=BG_003
+@ambient play file=A001.dat volume=0.3
+@text show id=TX02_001_0016 speaker=narration
+俺は車内へ上がり、鞄を脇へよけて、少女のそばにしゃがんだ女性へ近づいた。
+@text show id=TX02_001_0017 speaker=CH_000
+何か、手伝います
+@text show id=TX02_001_0018 speaker=CH_005
+扉から離すので、そちら、空けてもらえますか
+@text show id=TX02_001_0019 speaker=narration
+女性は少女の膝を確かめ、立てるかと静かに尋ねていた。
+@text show id=TX02_001_0020 speaker=narration
+少女が返事をすると、腕を引っ張ることなく、立ち上がるのを横から支える。
+@text show id=TX02_001_0021 speaker=CH_005
+痛いところは？
+@text show id=TX02_001_0022 speaker=CH_007
+手……ちょっと。でも、平気です
+@text show id=TX02_001_0023 speaker=CH_005
+平気かどうかは、ゆっくり見ましょう。ここへ座って
+@text show id=TX02_001_0024 speaker=narration
+男が綾乃の肩へ手を伸ばしかけた。
+@char hide id=CH_001
+@wait sync
+@char show id=CH_003 expression=真剣 position=right
+@text show id=TX02_001_0025 speaker=narration
+黒川が、その間に身体を差し入れる。
+@text show id=TX02_001_0026 speaker=CH_003
+そこまでにしよう。乗りたいんなら、もう誰も邪魔してない
+@text show id=TX02_001_0027 speaker=CH_004
+おっさんに関係ねえだろ
+@text show id=TX02_001_0028 speaker=CH_003
+目の前で見たら関係あるよ
+@text show id=TX02_001_0029 speaker=narration
+軽口はなかった。
+@text show id=TX02_001_0030 speaker=narration
+年配の男性も扉のところへ来て、男の顔を見た。
+@char hide id=CH_003
+@wait sync
+@char show id=CH_006 expression=厳しい position=right
+@text show id=TX02_001_0031 speaker=CH_006
+あなたがしたことです。人のせいにして終わりにはできません
+@text show id=TX02_001_0032 speaker=narration
+声を荒らげない分、言葉がはっきり届いた。
+@text show id=TX02_001_0033 speaker=narration
+男は三人を順に見て、口を曲げた。
+@text show id=TX02_001_0034 speaker=CH_004
+……うっぜえ
+@text show id=TX02_001_0035 speaker=narration
+謝りはしなかった。
+@char hide id=ALL
+@text show id=TX02_001_0036 speaker=narration
+ただ、綾乃たちを押しのけるのはやめ、反対側の座席へ乱暴に腰を下ろした。
+@scene end id=SC02_001
+@scene start id=SC02_002
+@location show text="八号車／発車前"
+@text show id=TX02_002_0001 speaker=narration
+少女は制服の膝を両手で覆っていた。
+@text show id=TX02_002_0002 speaker=narration
+黒い布についた水と汚れを、何度も同じ所だけ払っている。
+@text show id=TX02_002_0003 speaker=CH_001
+鞄、ここでいい？
+@text show id=TX02_002_0004 speaker=CH_007
+……ありがとうございます
+@text show id=TX02_002_0005 speaker=narration
+綾乃が鞄を渡すと、少女はそれを抱えて顔を伏せた。
+@text show id=TX02_002_0006 speaker=narration
+俺には、何と声を掛ければいいのか分からなかった。
+@text show id=TX02_002_0007 speaker=narration
+蹴った相手がすぐそこにいる。気にしなくていいと簡単に言うのも違う気がした。
+@char show id=CH_002 expression=基本
+@text show id=TX02_002_0008 speaker=CH_002
+あの。これ、よかったら
+@text show id=TX02_002_0009 speaker=narration
+会社帰りらしい男が、袋からポケットティッシュを出した。
+@text show id=TX02_002_0010 speaker=narration
+少女へ直接差し出すか迷い、手当てをしていた女性に渡す。
+@text show id=TX02_002_0011 speaker=CH_005
+助かります
+@text show id=TX02_002_0012 speaker=CH_002
+いえ。水、拭くだけでも
+@char hide id=ALL
+@text show id=TX02_002_0013 speaker=narration
+ようやく八人とも車内へ入った。
+@text show id=TX02_002_0014 speaker=narration
+それでも扉は開いたままだった。
+@text show id=TX02_002_0015 speaker=narration
+発車を知らせる音もなく、車体は少しも動かない。
+@text show id=TX02_002_0016 speaker=narration
+誰かが先に答えを見つけてくれるのを、皆が待っているようだった。
+@text show id=TX02_002_0017 speaker=narration
+村瀬はホームの方を見て、黒川は前の連結扉を見ている。大庭は座りかけてやめ、俺も窓と携帯を交互に見た。
+@text show id=TX02_002_0018 speaker=narration
+今ならまだ、駅の対応が遅れているだけだと思えた。
+@text show id=TX02_002_0019 speaker=narration
+誰か一人、制服を着た人が来て事情を説明してくれれば、この居心地の悪さは終わるはずだった。
+@char show id=CH_003 expression=基本
+@text show id=TX02_002_0020 speaker=CH_003
+運転士さん、休憩中かな。呼び出しボタンとかない？
+@text show id=TX02_002_0021 speaker=narration
+扉のそばを見たが、見慣れた車内とは細部が違っていた。
+@text show id=TX02_002_0022 speaker=narration
+停車駅を示す表示はなく、路線図の枠には何も入っていない。
+@text show id=TX02_002_0023 speaker=narration
+探す途中で、黒川が携帯を耳から離した。
+@text show id=TX02_002_0024 speaker=CH_003
+だめだ。つながらない
+@text show id=TX02_002_0025 speaker=CH_000
+俺も、さっきから送れないです
+@char show id=CH_002 expression=基本 position=left
+@text show id=TX02_002_0026 speaker=CH_002
+私も圏外で……ここ、屋外なんですけどね
+@text show id=TX02_002_0027 speaker=narration
+三人の画面を見ても、通信が戻るわけではない。
+@text show id=TX02_002_0028 speaker=narration
+年配の男性は、ホームに出て駅員を呼んでみると言った。
+@text show id=TX02_002_0029 speaker=narration
+黒川もついていき、開いた扉から二人で通路へ声を投げた。
+@text show id=TX02_002_0030 speaker=narration
+返ってくるのは、雨の音だけだった。
+@wait beat
+@char hide id=ALL
+@wait sync
+@char show id=CH_006 expression=基本
+@text show id=TX02_002_0031 speaker=CH_006
+せめて、互いの名前を知っておきませんか。呼び掛けるのに困りますから
+@text show id=TX02_002_0032 speaker=narration
+戻ってきた男性が、自分は村瀬義雄だと名乗った。
+@text show id=TX02_002_0033 speaker=narration
+女性は桐生沙耶。少女は少し間を置いて、宮野すず、と答えた。
+@text show id=TX02_002_0034 speaker=narration
+ティッシュをくれた男は大庭靖彦。若い男は名前を聞かれても無視し、村瀬が再び尋ねると、久我、とだけ言った。
+@text show id=TX02_002_0035 speaker=CH_004
+蓮。これでいいだろ
+@text show id=TX02_002_0036 speaker=narration
+親しくなったわけではない。
+@text show id=TX02_002_0037 speaker=narration
+それでも、さっきまでひとまとめだった人影に、呼ぶための名前がついた。
+@text show id=TX02_002_0038 speaker=CH_007
+友達、ここまで来たら……私が乗ったって、分からないから
+@text show id=TX02_002_0039 speaker=narration
+すずは扉を見つめていた。
+@char hide id=ALL
+@wait sync
+@char show id=CH_001 expression=基本
+@text show id=TX02_002_0040 speaker=narration
+その横で、綾乃がすずの膝についた汚れを気にしていた。
+@text show id=TX02_002_0041 speaker=narration
+すず自身が拭こうとするのを見て、手元のティッシュを一枚増やす。
+@text show id=TX02_002_0042 speaker=CH_007
+私、入口にずっと立ってたから……
+@text show id=TX02_002_0043 speaker=CH_001
+横に避けようとしてたよね。見てた
+@text show id=TX02_002_0044 speaker=narration
+すずの手が止まった。
+@text show id=TX02_002_0045 speaker=narration
+綾乃は久我へ聞かせるために声を大きくせず、彼女にだけ届く声で続けた。
+@char change id=CH_001 expression=微笑み
+@text show id=TX02_002_0046 speaker=CH_001
+入るか迷ってただけ。蹴られていいことは、してないよ
+@text show id=TX02_002_0047 speaker=narration
+すずは目を伏せ、今度は汚れをこするのではなく、湿った膝へそっとティッシュを当てた。
+@text show id=TX02_002_0048 speaker=narration
+俺はそのやり取りを聞きながら、彼女を助け起こすことだけでは足りなかったのだと気づいた。
+@char hide id=ALL
+@text show id=TX02_002_0049 speaker=narration
+村瀬が一席あけて腰を下ろし、顔を向ける。
+@text show id=TX02_002_0050 speaker=CH_006
+連絡はつきませんか
+@text show id=TX02_002_0051 speaker=CH_007
+既読にも、ならなくて
+@text show id=TX02_002_0052 speaker=CH_006
+ここで待っていたいんですね
+@text show id=TX02_002_0053 speaker=narration
+すずが小さく頷いた。
+@text show id=TX02_002_0054 speaker=narration
+村瀬はすぐに先頭へ行こうとは言わず、扉から見える範囲を一緒に確かめた。
+@text show id=TX02_002_0055 speaker=narration
+その間、久我は窓を指で叩いていた。
+@se play file=S001.dat
+@text show id=TX02_002_0056 speaker=narration
+駅員が気づくはずもない音だったが、彼はだんだん強く叩き、ついには拳を一度打ちつけた。
+@char show id=CH_004 expression=不機嫌
+@text show id=TX02_002_0057 speaker=CH_004
+いつまで待つんだよ
+@text show id=TX02_002_0058 speaker=CH_005
+叩いても早くならないわ
+@text show id=TX02_002_0059 speaker=CH_004
+あんたも偉そうだな
+@text show id=TX02_002_0060 speaker=narration
+沙耶は返さず、すずの濡れた手袋を外すのを手伝った。
+@text show id=TX02_002_0061 speaker=narration
+すずの手のひらには、薄い擦り傷があった。
+@char hide id=ALL
+@text show id=TX02_002_0062 speaker=narration
+俺は通路へ目を戻した。
+@text show id=TX02_002_0063 speaker=narration
+さっき通った階段の入口まで、ここから十数歩ある。
+@bg show id=BG_003 image=return_dark
+@text show id=TX02_002_0064 speaker=narration
+屋根の照明が一つ明滅し、その奥の灯りが消えた。
+@text show id=TX02_002_0065 speaker=CH_000
+……黒川さん
+@text show id=TX02_002_0066 speaker=narration
+呼んだ直後だった。
+@bgm stop
+@effect play id=shake
+@se play file=S002.dat
+@text show id=TX02_002_0067 speaker=narration
+低い音がして、ホームが足の下で震えた。
+@text show id=TX02_002_0068 speaker=narration
+どこかで大きな物が崩れる、重く、長い音だった。
+@text show id=TX02_002_0069 speaker=CH_007
+っ……！
+@text show id=TX02_002_0070 speaker=narration
+すずが沙耶の袖を掴んだ。
+@text show id=TX02_002_0071 speaker=narration
+黒川と俺が扉から身を乗り出す。通路の入口へ、細かな灰色の煙のようなものが流れてきた。
+@text show id=TX02_002_0072 speaker=narration
+雨に叩かれてすぐ薄まったが、奥の照明は戻らなかった。
+@text show id=TX02_002_0073 speaker=CH_006
+戻らないでください。そこから先は見えない
+@text show id=TX02_002_0074 speaker=narration
+ホームに下りかけた俺の肩を、村瀬が止めた。
+@text show id=TX02_002_0075 speaker=narration
+雨がさらに横殴りになり、黒川も顔をかばって車内へ引いた。
+@text show id=TX02_002_0076 speaker=CH_003
+駅の工事で出るような音じゃなかったな
+@text show id=TX02_002_0077 speaker=CH_002
+通路、塞がったんですか
+@text show id=TX02_002_0078 speaker=CH_000
+ここからは分かりません。でも……
+@text show id=TX02_002_0079 speaker=narration
+確かめに行こうと言える景色ではなかった。
+@text show id=TX02_002_0080 speaker=narration
+床へ吹き込んだ雨が、扉の前に溜まり始めている。
+@text show id=TX02_002_0081 speaker=narration
+ほんの数分前まで、帰る道だと思っていた方角が、黒い穴に変わっていた。
+@char show id=CH_004 expression=不機嫌
+@text show id=TX02_002_0082 speaker=CH_004
+だったら前、行けばいいだろ
+@text show id=TX02_002_0083 speaker=narration
+久我が立ち上がった。
+@text show id=TX02_002_0084 speaker=narration
+連結扉の上にある矢印を指さす。
+@text show id=TX02_002_0085 speaker=CH_004
+電車なんだから先頭に運転席あんだろ。そこで呼べよ
+@text show id=TX02_002_0086 speaker=narration
+誰もすぐには答えなかった。
+@text show id=TX02_002_0087 speaker=narration
+言い方には腹が立つ。それでも、運転台を探すという案には意味があった。
+@text show id=TX02_002_0088 speaker=narration
+車掌室らしい場所も、この八号車では見当たらない。
+@char hide id=ALL
+@wait sync
+@char show id=CH_003 expression=真剣
+@bgm play file=B002.dat
+@text show id=TX02_002_0089 speaker=CH_003
+無線か、外へ通じる電話があるかもしれないね
+@text show id=TX02_002_0090 speaker=CH_006
+どなたか、鉄道に詳しい方は
+@text show id=TX02_002_0091 speaker=narration
+手は挙がらなかった。
+@text show id=TX02_002_0092 speaker=narration
+村瀬は頷いてから、すずへ視線を戻した。
+@text show id=TX02_002_0093 speaker=CH_006
+ここで一人で待つのは心配です。助けを呼べる人を探しに、一緒に行きませんか
+@text show id=TX02_002_0094 speaker=CH_007
+でも……
+@text show id=TX02_002_0095 speaker=CH_005
+もしご友人が来たら、車内の灯りは見えるわ。私たちも、戻れるように道を見て行くから
+@text show id=TX02_002_0096 speaker=narration
+すずは携帯を見た。
+@text show id=TX02_002_0097 speaker=narration
+画面をつけ直してから、膝の上の鞄へしまう。
+@text show id=TX02_002_0098 speaker=CH_007
+……一人には、なりたくないです
+@text show id=TX02_002_0099 speaker=CH_006
+ええ。それなら、一緒に
+@text show id=TX02_002_0100 speaker=narration
+その返事を聞いて、大庭が立ち上がった。
+@text show id=TX02_002_0101 speaker=CH_002
+私も行きます。ここにいても、何もできませんし
+@text show id=TX02_002_0102 speaker=CH_003
+八人まとまって動こう。途中で駅員を見つけたら、そこで聞けばいい
+@text show id=TX02_002_0103 speaker=narration
+俺も頷いた。
+@text show id=TX02_002_0104 speaker=narration
+ホームへ戻れないのなら、前へ進む。助けを呼べるものを探す。
+@text show id=TX02_002_0105 speaker=narration
+今できることは、ほかに思いつかなかった。
+@char show id=CH_002 expression=基本 position=left
+@text show id=TX02_002_0106 speaker=CH_002
+先に二人くらいで、見てきてもらうのは……どうでしょう。皆で行くより、早いかと
+@text show id=TX02_002_0107 speaker=narration
+大庭の言葉にも、一理あった。
+@text show id=TX02_002_0108 speaker=narration
+俺は前の車両へ目を向けた。明るく見えるが、何両先まで人がいないのかは分からない。
+@text show id=TX02_002_0109 speaker=CH_003
+見つからなかったら、どこまで探す？　三両先で戻るのか、先頭まで行くのか。その間、こっちへ連絡もできない
+@text show id=TX02_002_0110 speaker=CH_002
+そう、ですね。携帯がだめですから
+@text show id=TX02_002_0111 speaker=CH_006
+ここで待つ方が安心という方はいますか
+@text show id=TX02_002_0112 speaker=narration
+村瀬は久我だけでなく、すずにも顔を向けた。
+@text show id=TX02_002_0113 speaker=narration
+すずは答えを急がずに待ってもらい、やがて首を振った。
+@text show id=TX02_002_0114 speaker=CH_007
+歩くのは、できます。……一緒なら
+@text show id=TX02_002_0115 speaker=narration
+それが決め手になった。
+@text show id=TX02_002_0116 speaker=narration
+大庭も自分の案へ固執せず、鞄を持ち上げた。
+@text show id=TX02_002_0117 speaker=narration
+今の俺たちには、離れた相手が無事か確かめる方法がない。同じ場所で声を掛けられることを、先に選んだ。
+@text show id=TX02_002_0118 speaker=narration
+綾乃がすずの前にしゃがみ、落ちたままになっていた鞄の留め具を拾った。
+@text show id=TX02_002_0119 speaker=narration
+渡す手の動きは、さっき怒っていた時よりずっとゆっくりだった。
+@text show id=TX02_002_0120 speaker=CH_001
+歩ける？
+@text show id=TX02_002_0121 speaker=CH_007
+はい
+@text show id=TX02_002_0122 speaker=CH_001
+痛くなったら、途中でも言ってね
+@text show id=TX02_002_0123 speaker=narration
+すずは小さく礼を言って立った。
+@text show id=TX02_002_0124 speaker=narration
+久我のいる方は見なかった。
+@char hide id=ALL
+@text show id=TX02_002_0125 speaker=narration
+黒川が連結扉を開けた。
+@text show id=TX02_002_0126 speaker=narration
+先の七号車にも照明は点いている。少なくとも、真っ暗な通路へ戻るよりは明るかった。
+@char show id=CH_001 expression=基本
+@text show id=TX02_002_0127 speaker=CH_000
+綾乃
+@text show id=TX02_002_0128 speaker=CH_001
+ん？
+@text show id=TX02_002_0129 speaker=CH_000
+さっき、すぐ止めてくれて、よかった
+@text show id=TX02_002_0130 speaker=narration
+彼女は久我を一度見て、それから俺へ顔を戻した。
+@char change id=CH_001 expression=戸惑い
+@text show id=TX02_002_0131 speaker=CH_001
+考えるより先に言っちゃった。あとから、少し怖くなったけど
+@text show id=TX02_002_0132 speaker=narration
+指先が、まだかすかに震えていた。
+@text show id=TX02_002_0133 speaker=narration
+怖くなかったわけではないのだ。
+@text show id=TX02_002_0134 speaker=CH_000
+……俺も、ちゃんと見てる
+@char change id=CH_001 expression=微笑み
+@text show id=TX02_002_0135 speaker=CH_001
+うん。お願い
+@char hide id=ALL
+@text show id=TX02_002_0136 speaker=narration
+彼女はそれだけ言い、すずたちの後ろへついた。
+@text show id=TX02_002_0137 speaker=narration
+俺は最後にホームを振り返った。
+@text show id=TX02_002_0138 speaker=narration
+十三番線の看板は、雨の向こうでまだ白く光っている。
+@text show id=TX02_002_0139 speaker=narration
+発車しない列車の中を、八人で前へ歩き始めた。
+@scene end id=SC02_002
+@chapter end id=CH02
+
+@chapter start id=CH03 title="第三章　置いていったもの"
+@textbox hide
+@scene start id=SC03_001
+@bgm stop
+@bg hide
+@wait sync
+@bg show id=BG_004 transition=fade duration_ms=1000
+@bgm play file=B003.dat fade_ms=2000
+@chapter_title show chapter="第三章" title="置いていったもの"
+@wait sync
+@location show text="七号車／夜"
+@textbox show
+@text show id=TX03_001_0001 speaker=narration
+七号車へ入って最初に見えたのは、座席の端に置かれた帽子だった。
+@text show id=TX03_001_0002 speaker=narration
+茶色の柔らかい布地が、持ち主の頭の形を残している。
+@text show id=TX03_001_0003 speaker=narration
+すぐ隣には、口の開いたバッグがあった。
+@char show id=CH_003 expression=基本
+@text show id=TX03_001_0004 speaker=CH_003
+すみませーん。どなたか、いませんか
+@text show id=TX03_001_0005 speaker=narration
+声は前方まで通った。
+@text show id=TX03_001_0006 speaker=narration
+答えはなかった。
+@text show id=TX03_001_0007 speaker=narration
+吊り革が並ぶ、古いだけの車両に見える。
+@text show id=TX03_001_0008 speaker=narration
+八号車と同じ高さの床、長い座席、左右の窓。けれど窓の外にホームはなく、雨粒の向こうは黒かった。
+@text show id=TX03_001_0009 speaker=narration
+こちら側には、下りられる場所もなさそうだった。
+@text show id=TX03_001_0010 speaker=CH_004
+誰か忘れてったんだろ。いちいち止まんなよ
+@text show id=TX03_001_0011 speaker=narration
+久我が帽子の前を通り過ぎる。
+@text show id=TX03_001_0012 speaker=narration
+村瀬はそれを拾わず、座席から滑り落ちそうになっていたバッグだけ奥へ寄せた。
+@text show id=TX03_001_0013 speaker=CH_006
+通る所は空けておきましょう
+@char hide id=ALL
+@text show id=TX03_001_0014 speaker=narration
+床には小さなグローブが転がっていた。
+@text show id=TX03_001_0015 speaker=narration
+革が使い込まれ、指の先だけ色が薄くなっている。
+@text show id=TX03_001_0016 speaker=narration
+その向こうに落ちた写真を踏みそうになり、俺は足を止めた。
+@text show id=TX03_001_0017 speaker=CH_000
+あ、これ
+@overlay show id=I001
+@text show id=TX03_001_0018 speaker=narration
+しゃがんで拾うと、三人の家族が写っていた。
+@text show id=TX03_001_0019 speaker=narration
+子どもの顔の前にピントの合っていない指が入り、隣の女性が笑っている。
+@text show id=TX03_001_0020 speaker=narration
+写真館で撮ったものではない。休日に、何枚も撮ったうちの一枚らしかった。
+@text show id=TX03_001_0021 speaker=CH_001
+バッグから落ちたのかな
+@text show id=TX03_001_0022 speaker=CH_000
+かもしれない。ここに置いておく？
+@text show id=TX03_001_0023 speaker=narration
+綾乃が帽子の隣を示した。
+@text show id=TX03_001_0024 speaker=narration
+俺は写真の水気を袖で拭き、そこへ表向きに置いた。
+@text show id=TX03_001_0025 speaker=narration
+戻ってきた持ち主が、すぐ見つけられるように。
+@overlay hide
+@text show id=TX03_001_0026 speaker=narration
+そうしてから、違和感が残った。
+@text show id=TX03_001_0027 speaker=narration
+バッグも帽子もグローブも、長く放置された様子がない。
+@text show id=TX03_001_0028 speaker=narration
+人だけが席を立って、まだ戻っていないように見えた。
+@text show id=TX03_001_0029 speaker=CH_004
+何か書いてねえの。名前とか。見りゃ分かるだろ
+@text show id=TX03_001_0030 speaker=narration
+久我がバッグへ目を向けた。
+@text show id=TX03_001_0031 speaker=narration
+大庭が口の開いた方を確かめかけ、途中で手を引いた。
+@char show id=CH_002 expression=基本
+@text show id=TX03_001_0032 speaker=CH_002
+でも、勝手に中を見るのは……持ち主が来たら、困りますし
+@text show id=TX03_001_0033 speaker=CH_004
+誰も来ねえじゃん
+@text show id=TX03_001_0034 speaker=CH_006
+来ないと決まったわけではありません。今、私たちに必要なのは駅の方を見つけることです
+@text show id=TX03_001_0035 speaker=narration
+誰かを探すための行動と、他人の物を調べる行動が、ここでは簡単に混ざってしまう。
+@text show id=TX03_001_0036 speaker=narration
+俺も写真を拾った時、中に何か手掛かりがあるかと一瞬考えた。
+@text show id=TX03_001_0037 speaker=narration
+けれど写っていたのは、知らない家族の普通の一日だった。困った俺たちに、答えを残した写真ではない。
+@text show id=TX03_001_0038 speaker=narration
+持ち主が戻れば、そのまま持って帰れるようにしておきたかった。
+@char hide id=ALL
+@wait sync
+@char show id=CH_005 expression=基本 position=right
+@char show id=CH_007 expression=不安 position=left
+@text show id=TX03_001_0039 speaker=CH_005
+宮野さん、膝はどう？
+@text show id=TX03_001_0040 speaker=CH_007
+歩くのは、大丈夫です
+@text show id=TX03_001_0041 speaker=CH_005
+それならよかった。冷えてきたら教えてね
+@text show id=TX03_001_0042 speaker=narration
+すずは座席の物を避けながら、沙耶と村瀬の間を歩いていた。
+@text show id=TX03_001_0043 speaker=narration
+さっきより少しだけ顔が上がっている。
+@text show id=TX03_001_0044 speaker=narration
+村瀬がグローブを見て、誰か待っている子がいるかもしれませんね、と言うと、すずが鞄についたぬいぐるみに目を落とした。
+@text show id=TX03_001_0045 speaker=CH_007
+私も、これなくしたら……たぶん探しに戻ります
+@text show id=TX03_001_0046 speaker=CH_006
+大切なものなんですね
+@text show id=TX03_001_0047 speaker=CH_007
+友達と、おそろいで。二つとも同じ子なんですけど、顔がちょっと違って
+@char hide id=ALL
+@text show id=TX03_001_0048 speaker=narration
+村瀬が身をかがめた。
+@text show id=TX03_001_0049 speaker=narration
+すずは一つを少し前へ出し、もう一つの目の位置を指で示した。
+@text show id=TX03_001_0050 speaker=CH_007
+こっちは、眠そうなんです
+@text show id=TX03_001_0051 speaker=CH_005
+ほんとだ。帰りたい顔をしてる
+@char show id=CH_007 expression=微笑み
+@text show id=TX03_001_0052 speaker=narration
+すずが、ほんの少し笑った。
+@text show id=TX03_001_0053 speaker=narration
+さっきから誰かの機嫌をうかがうように縮こまっていた顔が、一瞬、年相応になった。
+@char hide id=ALL
+@wait sync
+@char show id=CH_002 expression=基本
+@text show id=TX03_001_0054 speaker=narration
+大庭が床の荷物を避けていた。
+@text show id=TX03_001_0055 speaker=narration
+通路に伸びたバッグの持ち手を持ち上げ、座席の上へ戻す。
+@text show id=TX03_001_0056 speaker=CH_002
+ここ、引っ掛かりそうですから
+@text show id=TX03_001_0057 speaker=CH_000
+ありがとうございます
+@text show id=TX03_001_0058 speaker=CH_002
+いえ。私も、よく足を引っ掛けるので
+@text show id=TX03_001_0059 speaker=narration
+大庭は笑って、俺に先を譲った。
+@text show id=TX03_001_0060 speaker=narration
+誰も自分勝手に歩くばかりではない。そのことが、この列車の中では思った以上に心強かった。
+@char hide id=ALL
+@wait sync
+@char show id=CH_003 expression=基本
+@text show id=TX03_001_0061 speaker=narration
+黒川は少し先で、隣の車両へ続く扉を見ていた。
+@text show id=TX03_001_0062 speaker=narration
+カメラには手を触れない。
+@text show id=TX03_001_0063 speaker=CH_000
+撮らないんですか
+@text show id=TX03_001_0064 speaker=CH_003
+ん？
+@text show id=TX03_001_0065 speaker=CH_000
+珍しい列車みたいだから
+@text show id=TX03_001_0066 speaker=CH_003
+ああ。まず帰り道かな。さすがに今これ撮ってたら、呑気すぎるでしょ
+@text show id=TX03_001_0067 speaker=narration
+そう言いながらも、目は車内をよく見ている。
+@text show id=TX03_001_0068 speaker=narration
+物を見つけるためというより、誰がどこを歩いているか、確かめているようだった。
+@char show id=CH_007 expression=不安 position=left
+@text show id=TX03_001_0069 speaker=CH_007
+あの……
+@text show id=TX03_001_0070 speaker=narration
+黒川の近くで、すずが立ち止まった。
+@text show id=TX03_001_0071 speaker=narration
+声が雨音に消えかける。
+@text show id=TX03_001_0072 speaker=narration
+黒川はすぐ振り向き、彼女が指さす足元を見た。
+@text show id=TX03_001_0073 speaker=CH_007
+そこの、輪っか。踏むと、引っ張っちゃうかも
+@text show id=TX03_001_0074 speaker=narration
+座席の下から、細い肩紐が通路へ出ていた。
+@text show id=TX03_001_0075 speaker=narration
+暗い床に紛れていて、俺は気づかなかった。片側は座席の脚に絡まり、踏み込めば足首へ引っ掛かりそうだった。
+@text show id=TX03_001_0076 speaker=CH_003
+ほんとだ。よく見つけたね
+@text show id=TX03_001_0077 speaker=CH_007
+すみません、細かいこと……
+@text show id=TX03_001_0078 speaker=CH_003
+いや、これは言ってほしい。俺、たぶん踏んでた
+@text show id=TX03_001_0079 speaker=narration
+黒川はしゃがんで紐を外し、荷物と一緒に座席へ上げた。
+@text show id=TX03_001_0080 speaker=narration
+それから、すずに安全になった床を見せるように一歩下がる。
+@text show id=TX03_001_0081 speaker=CH_003
+次も見つけたら、教えて
+@text show id=TX03_001_0082 speaker=narration
+すずは返事をする代わりに、少し深く頷いた。
+@text show id=TX03_001_0083 speaker=narration
+言ってよかったという表情をしていた。
+@char hide id=ALL
+@bgm stop
+@wait sync
+@bg show id=BG_004 image=seat_depressed
+@text show id=TX03_001_0084 speaker=narration
+その時、俺のすぐ横で座席が沈んだ。
+@text show id=TX03_001_0085 speaker=narration
+きゅ、と古いばねが鳴った。
+@text show id=TX03_001_0086 speaker=narration
+帽子と写真の隣だった。
+@text show id=TX03_001_0087 speaker=narration
+布張りの座面に、人の腰ほどの浅い窪みができている。
+@text show id=TX03_001_0088 speaker=narration
+俺は立ち止まった。
+@text show id=TX03_001_0089 speaker=narration
+誰も、座っていない。
+@wait beat
+@text show id=TX03_001_0090 speaker=CH_001
+……直人？
+@text show id=TX03_001_0091 speaker=narration
+綾乃もそれを見た。
+@text show id=TX03_001_0092 speaker=narration
+座席の縁に沿った縫い目が、重みに引かれるように下がっていた。
+@text show id=TX03_001_0093 speaker=narration
+窓の雨が一筋、背もたれの向こうを流れた。
+@text show id=TX03_001_0094 speaker=CH_000
+誰か、今
+@bg show id=BG_004
+@bgm play file=B004.dat
+@text show id=TX03_001_0095 speaker=narration
+声を出した時には、座面は元へ戻っていた。
+@text show id=TX03_001_0096 speaker=narration
+ばねの音も、もうしない。
+@char show id=CH_001 expression=戸惑い position=right
+@char show id=CH_003 expression=真剣 position=left
+@text show id=TX03_001_0097 speaker=CH_003
+どうした？
+@text show id=TX03_001_0098 speaker=CH_001
+そこ……座席が、今、沈んだんです
+@text show id=TX03_001_0099 speaker=narration
+黒川が寄ってきた。
+@text show id=TX03_001_0100 speaker=narration
+俺は反射的に後ろへ下がっている自分に気づいた。
+@text show id=TX03_001_0101 speaker=narration
+確かめるなら触ればいい。人がいないのは見れば分かる。
+@text show id=TX03_001_0102 speaker=narration
+それだけのことなのに、手が出なかった。
+@text show id=TX03_001_0103 speaker=narration
+綾乃は俺より半歩前にいたが、同じように動かなかった。
+@text show id=TX03_001_0104 speaker=narration
+すずは何を見たのか分からないまま、俺たちの顔を見ていた。
+@text show id=TX03_001_0105 speaker=narration
+久我だけが、離れた所で苛立ったように足を鳴らした。
+@text show id=TX03_001_0106 speaker=narration
+同じ車両にいるのに、見た二人と、見なかった人の間で、空気が変わってしまった。
+@text show id=TX03_001_0107 speaker=CH_000
+誰も触ってなかったですよね
+@text show id=TX03_001_0108 speaker=narration
+確かめる声が、自分でも弱く聞こえた。
+@text show id=TX03_001_0109 speaker=narration
+俺が何かを踏んで座席が動いたなら、それでよかった。
+@text show id=TX03_001_0110 speaker=narration
+黒川は座席の下へもライトを向けたが、動きを伝える物は見つからなかった。
+@text show id=TX03_001_0111 speaker=CH_002
+古いから、ばねが戻ったとかでしょうか
+@text show id=TX03_001_0112 speaker=CH_003
+……あるかもしれないね
+@text show id=TX03_001_0113 speaker=narration
+黒川は座面に手のひらを当て、軽く押した。
+@text show id=TX03_001_0114 speaker=narration
+同じような音がした。
+@text show id=TX03_001_0115 speaker=narration
+だが、何もしていない時になぜ沈むのか、その説明にはなっていなかった。
+@text show id=TX03_001_0116 speaker=CH_004
+そんなの見間違いだろ。幽霊でもいんのかよ
+@text show id=TX03_001_0117 speaker=narration
+すずが村瀬の側へ寄った。
+@text show id=TX03_001_0118 speaker=narration
+沙耶が久我を見たが、言い返すより先に彼女の肩へ手を添えた。
+@text show id=TX03_001_0119 speaker=CH_006
+ここで待ち続けるより、先へ行きましょう
+@char hide id=ALL
+@text show id=TX03_001_0120 speaker=narration
+俺たちは写真や帽子をそのままにして、その場を離れた。
+@text show id=TX03_001_0121 speaker=narration
+後ろを見なければいいと思った。
+@text show id=TX03_001_0122 speaker=narration
+見たら、もう一度沈んでいるかもしれない。
+@text show id=TX03_001_0123 speaker=narration
+それを見たくないと思っている自分が、ひどく子どもじみていた。
+@text show id=TX03_001_0124 speaker=narration
+綾乃が俺の歩く側へ半歩寄った。
+@char show id=CH_001 expression=戸惑い
+@text show id=TX03_001_0125 speaker=CH_001
+私も、見たから
+@text show id=TX03_001_0126 speaker=CH_000
+……うん
+@text show id=TX03_001_0127 speaker=narration
+俺だけではなかった。
+@text show id=TX03_001_0128 speaker=narration
+安心していいことなのか分からなかったが、その一言には助けられた。
+@char hide id=ALL
+@text show id=TX03_001_0129 speaker=narration
+黒川が前の扉へ手を掛けた。
+@text show id=TX03_001_0130 speaker=narration
+開いた隙間から、空気の匂いが変わった。
+@text show id=TX03_001_0131 speaker=narration
+濡れた土。冷えた金属。それから、壁の向こうで雨を受けるのとは違う、直接水が落ちる音。
+@text show id=TX03_001_0132 speaker=CH_004
+今度は何だよ
+@scene end id=SC03_001
+@scene start id=SC03_002
+@bg show id=BG_005
+@ambient play file=A001.dat volume=0.5
+@location show text="六号車／傾いた通路"
+@text show id=TX03_002_0001 speaker=narration
+六号車の床は、水平ではなかった。
+@text show id=TX03_002_0002 speaker=narration
+扉枠を基準に見れば、座席も窓も一緒に左へ傾いている。
+@text show id=TX03_002_0003 speaker=narration
+目の錯覚かと思い、連結部の金属板を踏んだ。靴裏が斜面に乗り、身体がそちらへ引かれた。
+@text show id=TX03_002_0004 speaker=narration
+車両そのものが、傾いていた。
+@wait beat
+@char show id=CH_003 expression=真剣
+@text show id=TX03_002_0005 speaker=CH_003
+待って。一人ずつ
+@text show id=TX03_002_0006 speaker=narration
+黒川は扉枠を掴み、ライトを奥へ向けた。
+@text show id=TX03_002_0007 speaker=narration
+壁際に土砂が溜まっていた。破れた天井から、岩の角が突き出している。
+@text show id=TX03_002_0008 speaker=narration
+手前の座席はまだ残っていたが、その先では背もたれが通路へ倒れ込んでいた。
+@text show id=TX03_002_0009 speaker=CH_002
+これは……入っていいんですか
+@text show id=TX03_002_0010 speaker=narration
+答えられる人はいなかった。
+@text show id=TX03_002_0011 speaker=narration
+ホームで聞いた、低い崩れる音を思い出す。
+@text show id=TX03_002_0012 speaker=narration
+この列車は止まっているだけではなく、もう、どこかへ押し潰されかけているのかもしれない。
+@text show id=TX03_002_0013 speaker=narration
+俺が扉の向こうを見ている間に、大庭が床の端を靴先で確かめた。
+@text show id=TX03_002_0014 speaker=narration
+そこだけなら踏めそうだと示し、前へ出る黒川へ場所を譲る。
+@text show id=TX03_002_0015 speaker=CH_006
+宮野さん。急がなくていいですよ。支える所を持って
+@text show id=TX03_002_0016 speaker=narration
+すずは沙耶に続き、扉枠から支柱へ手を移した。
+@text show id=TX03_002_0017 speaker=narration
+俺も座席の背へ手を掛ける。
+@text show id=TX03_002_0018 speaker=narration
+七号車では荷物をよけるだけで歩けた。同じ列車の隣の一両なのに、足を置く動作まで変えなければならなかった。
+@char hide id=ALL
+@wait sync
+@char show id=CH_004 expression=不機嫌
+@text show id=TX03_002_0019 speaker=narration
+後ろから久我が押し気味に入ってきた。
+@text show id=TX03_002_0020 speaker=CH_004
+遅えんだよ。こんくらい、歩けるだろ
+@text show id=TX03_002_0021 speaker=narration
+彼の靴が、傾いた床を強く鳴らした。
+@scene end id=SC03_002
+@chapter end id=CH03
+
+@chapter start id=CH04 title="第四章　蹴り返すもの"
+@textbox hide
+@scene start id=SC04_001
+@char hide id=ALL
+@chapter_title show chapter="第四章" title="蹴り返すもの"
+@wait sync
+@location show text="六号車／傾いた通路"
+@textbox show
+@text show id=TX04_001_0001 speaker=narration
+六号車では、支柱が身体の左へ倒れかかってくるように見えた。
+@text show id=TX04_001_0002 speaker=narration
+実際には、俺たちの方が垂直を保とうとしている。
+@text show id=TX04_001_0003 speaker=narration
+窓も床も斜めになり、低い側には泥とガラスが寄っていた。
+@char show id=CH_003 expression=真剣
+@text show id=TX04_001_0004 speaker=CH_003
+右の座席に沿って来て。奥の床、土で見えないから
+@text show id=TX04_001_0005 speaker=narration
+先へ出た黒川が、手を掛けられる場所を示した。
+@text show id=TX04_001_0006 speaker=narration
+俺たちは座席の背を伝い、少しずつ車内へ入った。
+@text show id=TX04_001_0007 speaker=narration
+背もたれの布が濡れている。指に力を入れないと、身体が低い方へ流れそうになる。
+@char hide id=ALL
+@wait sync
+@char show id=CH_004 expression=不機嫌
+@text show id=TX04_001_0008 speaker=narration
+久我だけが中央へ出ようとした。
+@text show id=TX04_001_0009 speaker=narration
+足が滑り、舌打ちして支柱に掴まる。
+@text show id=TX04_001_0010 speaker=CH_004
+何なんだよ、これ。さっきから
+@text show id=TX04_001_0011 speaker=CH_006
+その辺りは崩れています。こちらへ
+@text show id=TX04_001_0012 speaker=CH_004
+見りゃ分かるって
+@se play file=S003.dat
+@text show id=TX04_001_0013 speaker=narration
+久我は曲がった座席の端を蹴った。
+@text show id=TX04_001_0014 speaker=narration
+金属の響きが、天井まで伝わった。
+@char hide id=ALL
+@wait sync
+@char show id=CH_005 expression=真剣 position=right
+@char show id=CH_004 expression=不機嫌 position=left
+@text show id=TX04_001_0015 speaker=CH_005
+やめて。動かしたら危ない
+@text show id=TX04_001_0016 speaker=narration
+沙耶の言葉が終わる前に、もう一度脚が上がった。
+@text show id=TX04_001_0017 speaker=narration
+さっき、すずの身体を押し出したのと同じ靴底だった。
+@text show id=TX04_001_0018 speaker=narration
+今度の音は、足元だけで終わらなかった。
+@text show id=TX04_001_0019 speaker=narration
+頭上で何かが外れ、黒川が声を張った。
+@text show id=TX04_001_0020 speaker=CH_003
+離れろ！
+@char hide id=ALL
+@bgm stop
+@wait sync
+@bg show id=BG_005 image=fallen effect=dust_medium
+@bgm play file=B005.dat
+@effect play id=shake
+@se play file=S004.dat
+@text show id=TX04_001_0021 speaker=narration
+岩と内装材が落ちた。
+@text show id=TX04_001_0022 speaker=narration
+俺は綾乃の腕を引き、座席の背へ身を寄せた。
+@text show id=TX04_001_0023 speaker=narration
+床が跳ねるように震えた直後、久我の叫びが聞こえた。
+@text show id=TX04_001_0024 speaker=CH_004
+っあ、あああっ！
+@text show id=TX04_001_0025 speaker=narration
+粉塵がライトの中を流れていた。
+@text show id=TX04_001_0026 speaker=narration
+久我は尻をつき、両手で床を掻いていた。右脚だけが動かない。
+@text show id=TX04_001_0027 speaker=narration
+膝の下を、大きな岩と曲がった金属板が押さえていた。
+@text show id=TX04_001_0028 speaker=CH_004
+どけろ、どけろって！　脚、脚が！
+@text show id=TX04_001_0029 speaker=narration
+自分でやったんだろ。
+@text show id=TX04_001_0030 speaker=narration
+そう思った。
+@text show id=TX04_001_0031 speaker=narration
+すずを蹴った脚だと、考えてしまった。
+@text show id=TX04_001_0032 speaker=narration
+その次に、靴の脇から血が広がっていくのが見えた。
+@text show id=TX04_001_0033 speaker=narration
+目を逸らしかけた俺の横を、沙耶が通った。
+@char show id=CH_005 expression=真剣
+@text show id=TX04_001_0034 speaker=CH_005
+動かないで。上も落ちるかもしれない
+@text show id=TX04_001_0035 speaker=CH_004
+だったら早くしろよ！
+@text show id=TX04_001_0036 speaker=CH_005
+助けるから、こちらを見て
+@text show id=TX04_001_0037 speaker=narration
+強く言い、彼の顔を自分へ向けた。
+@text show id=TX04_001_0038 speaker=narration
+さっきまでの冷たい目とは違った。相手を好きかどうか、今の沙耶には関係がなかった。
+@text show id=TX04_001_0039 speaker=CH_005
+桐生です。看護師。意識ははっきりしてるわね。息、できる？
+@text show id=TX04_001_0040 speaker=narration
+久我が何か怒鳴った。
+@text show id=TX04_001_0041 speaker=narration
+沙耶はそれを返事として受け取り、周囲へ顔を上げた。
+@text show id=TX04_001_0042 speaker=CH_005
+このまま引っ張らないで。押さえている物を一緒に動かす必要がある。黒川さん、上の状態を見てください
+@text show id=TX04_001_0043 speaker=CH_003
+分かった
+@text show id=TX04_001_0044 speaker=CH_005
+相沢さん、そちらの金属板。持てますか
+@char hide id=ALL
+@text show id=TX04_001_0045 speaker=narration
+俺は返事をして、しゃがんだ。
+@text show id=TX04_001_0046 speaker=narration
+金属の縁には触れず、折れ返った部分へ両手を掛ける。
+@text show id=TX04_001_0047 speaker=narration
+久我の息が、すぐそばで細かく途切れていた。
+@text show id=TX04_001_0048 speaker=narration
+顔を見ないと、あの声を出しているのが誰か分からなくなる。
+@text show id=TX04_001_0049 speaker=narration
+久我は俺の足元へ手を伸ばしていた。何を頼みたいのか、言葉になっていなかった。
+@text show id=TX04_001_0050 speaker=CH_000
+今、動かすから。脚を引っ張らないで
+@text show id=TX04_001_0051 speaker=CH_004
+できねえよ……動かねえ、んだよ
+@text show id=TX04_001_0052 speaker=narration
+返事は怒鳴り声ではなかった。
+@text show id=TX04_001_0053 speaker=narration
+俺は、動かしたくても動かせない相手に、余計な注意を重ねていたと気づいた。
+@text show id=TX04_001_0054 speaker=CH_000
+分かった。そのままでいい。聞こえてる
+@text show id=TX04_001_0055 speaker=narration
+沙耶がこちらを一度見て、頷いた。
+@text show id=TX04_001_0056 speaker=narration
+身体へ触れる前に何をするか告げ、久我が返事をしなくても、声を掛け続けていた。
+@text show id=TX04_001_0057 speaker=narration
+早く痛みを取り去ってほしいという目へ、できることとできないことを分けながら向き合っている。
+@text show id=TX04_001_0058 speaker=narration
+俺は金属板へ視線を戻し、自分が受け持った所を握り直した。
+@char show id=CH_002 expression=不安
+@text show id=TX04_001_0059 speaker=CH_002
+私も、持ちます。こっちですね
+@text show id=TX04_001_0060 speaker=narration
+大庭は低い側へ回り込みかけたが、岩の下が見えず、一度足を戻した。
+@text show id=TX04_001_0061 speaker=narration
+黒川が安全な立ち位置を示すと、そこへ膝をつき、金属板を支えた。
+@char hide id=ALL
+@wait sync
+@char show id=CH_006 expression=基本
+@text show id=TX04_001_0062 speaker=CH_006
+宮野さん。ここで待つのと、七号車の入口で待つの、どちらがよさそうですか
+@text show id=TX04_001_0063 speaker=narration
+村瀬の声が背後で聞こえた。
+@text show id=TX04_001_0064 speaker=narration
+すずは久我を見て、口を覆っている。
+@text show id=TX04_001_0065 speaker=CH_007
+……向こう、で
+@text show id=TX04_001_0066 speaker=CH_006
+ええ。水城さん、一緒にいてもらえますか
+@text show id=TX04_001_0067 speaker=CH_001
+はい
+@text show id=TX04_001_0068 speaker=narration
+見ていなさいとも、手を貸しなさいとも言われなかった。
+@text show id=TX04_001_0069 speaker=narration
+すずは綾乃について、連結部まで下がった。
+@char hide id=ALL
+@wait sync
+@char show id=CH_003 expression=真剣
+@text show id=TX04_001_0070 speaker=narration
+黒川が上を確かめて戻ってきた。
+@text show id=TX04_001_0071 speaker=narration
+これ以上触ると危ない箇所を示し、比較的動かせそうな岩の端へ手を当てる。
+@text show id=TX04_001_0072 speaker=narration
+村瀬も腰を低くして加わった。
+@text show id=TX04_001_0073 speaker=CH_003
+無理に持ち上げ切らなくていい。脚が抜ける分だけ、揃えて
+@text show id=TX04_001_0074 speaker=CH_005
+こちらで見ます。合図します
+@text show id=TX04_001_0075 speaker=narration
+俺は足を踏み直した。
+@text show id=TX04_001_0076 speaker=narration
+斜めの床で力を入れると、靴が低い方へずれる。座席の脚に踵を当て、腹へ力を込めた。
+@text show id=TX04_001_0077 speaker=CH_005
+せーの
+@char hide id=ALL
+@se play file=S003.dat
+@text show id=TX04_001_0078 speaker=narration
+金属板がわずかに浮いた。
+@text show id=TX04_001_0079 speaker=narration
+久我が絶叫した。手を離しそうになったが、大庭も反対側で歯を食いしばっていた。
+@text show id=TX04_001_0080 speaker=CH_005
+そのまま。もう少し……はい、抜けた。下ろして！
+@se play file=S001.dat
+@text show id=TX04_001_0081 speaker=narration
+岩が鈍い音を立てた。
+@bg show id=BG_005 image=fallen effect=dust_weak
+@text show id=TX04_001_0082 speaker=narration
+息を吐いた途端、手が震え始めた。
+@text show id=TX04_001_0083 speaker=narration
+沙耶は久我の脚をかばうように身体を寄せ、持ち寄った布で出血へ対応している。
+@text show id=TX04_001_0084 speaker=narration
+俺は見ないようにしたかった。
+@text show id=TX04_001_0085 speaker=narration
+けれど、そこから目を逸らすと、自分が何を持ち上げたのかも分からなくなりそうだった。
+@text show id=TX04_001_0086 speaker=CH_004
+……痛え、痛えんだよ。何だよ、何で
+@text show id=TX04_001_0087 speaker=CH_005
+聞こえてる。意識をこちらへ向けて。名前、もう一度言える？
+@text show id=TX04_001_0088 speaker=narration
+あれほど大きかった声が、泣く子どもの声に近づいていた。
+@text show id=TX04_001_0089 speaker=narration
+すずを蹴った時の薄笑いを思い出す。
+@text show id=TX04_001_0090 speaker=narration
+許したわけではなかった。
+@text show id=TX04_001_0091 speaker=narration
+それでも、ここに置いていけるとは思えなかった。
+@bgm stop
+@wait sync
+@bgm play file=B006.dat
+@text show id=TX04_001_0092 speaker=CH_000
+七号車へ戻しましょう。俺、運びます
+@text show id=TX04_001_0093 speaker=narration
+自分から言うと、沙耶が俺を見た。
+@text show id=TX04_001_0094 speaker=CH_005
+お願いします。この床には寝かせておけない
+@text show id=TX04_001_0095 speaker=narration
+黒川と村瀬が身体を支える位置を決めた。
+@text show id=TX04_001_0096 speaker=narration
+久我は痛みで腕を振ろうとし、沙耶に止められた。
+@text show id=TX04_001_0097 speaker=CH_005
+暴れると、支えられない。いまだけ合わせて
+@text show id=TX04_001_0098 speaker=narration
+大庭が通り道の小さな破片を寄せた。
+@text show id=TX04_001_0099 speaker=narration
+足を置ける所を先に確かめ、連結部の方へ声を掛ける。
+@text show id=TX04_001_0100 speaker=CH_002
+こちら、空けました。扉のところ、お願いします
+@text show id=TX04_001_0101 speaker=narration
+綾乃が扉を支えた。
+@text show id=TX04_001_0102 speaker=narration
+すずは七号車側へ下がり、鞄を床から上げてくれていた。
+@text show id=TX04_001_0103 speaker=narration
+傾いた床を戻る数歩が、さっきの何倍も長かった。
+@text show id=TX04_001_0104 speaker=narration
+久我の重みが片側へ寄る。支え直すと、彼の指が俺の肩へ食い込んだ。
+@text show id=TX04_001_0105 speaker=narration
+痛いとも、離せとも言わなかった。
+@text show id=TX04_001_0106 speaker=narration
+途中で一度足を止め、黒川と呼吸を合わせて連結部を越えた。
+@scene end id=SC04_001
+@scene start id=SC04_002
+@bg show id=BG_004
+@location show text="七号車／負傷者の待機場所"
+@text show id=TX04_002_0001 speaker=narration
+七号車の床に戻ると、身体が逆へ傾いたように感じた。
+@text show id=TX04_002_0002 speaker=narration
+平らな場所に立つだけで、こんなに楽だったのか。
+@text show id=TX04_002_0003 speaker=narration
+座席の上を空け、久我をできるだけ安定した姿勢で横にした。
+@char show id=CH_005 expression=真剣
+@text show id=TX04_002_0004 speaker=narration
+沙耶の額には汗が滲んでいた。
+@text show id=TX04_002_0005 speaker=narration
+膝をついて久我に話しかけ、彼の返事を確かめ続ける。
+@text show id=TX04_002_0006 speaker=CH_004
+置いてくなよ
+@text show id=TX04_002_0007 speaker=narration
+その声は俺に向いていた。
+@text show id=TX04_002_0008 speaker=narration
+違うと言ってほしい子どものように、目だけが追ってきた。
+@text show id=TX04_002_0009 speaker=CH_000
+助けを呼ぶ物を探してくる
+@text show id=TX04_002_0010 speaker=CH_004
+戻ってくんのかよ
+@text show id=TX04_002_0011 speaker=CH_000
+戻る
+@text show id=TX04_002_0012 speaker=narration
+それを聞いても、彼の手はすぐには肩から離れなかった。
+@text show id=TX04_002_0013 speaker=narration
+俺は手首を乱暴に振りほどかず、座席の縁へ手を移させた。
+@text show id=TX04_002_0014 speaker=CH_005
+今は先頭へ行く必要があるわ。ここでできることだけでは足りない
+@text show id=TX04_002_0015 speaker=narration
+沙耶は黒川と村瀬に状態を伝えた。
+@text show id=TX04_002_0016 speaker=narration
+久我のそばに誰か残るべきだと思った。しかし全員がここへ残れば、救助を求める手段を探せない。
+@text show id=TX04_002_0017 speaker=narration
+村瀬は久我のそばへ戻り、座席の隣に腰を下ろしかけた。
+@text show id=TX04_002_0018 speaker=CH_004
+もういい。誰か、早く呼んでこいよ……
+@text show id=TX04_002_0019 speaker=narration
+久我の目が閉じかけ、沙耶がすぐ呼び掛ける。
+@text show id=TX04_002_0020 speaker=narration
+返事はあった。苛立ちまじりでも、声が返ってきたことに、俺まで息をついた。
+@text show id=TX04_Z002_0001 speaker=CH_006
+私が、ここに残りましょうか
+@text show id=TX04_Z002_0002 speaker=CH_004
+いい。見てたって治んねえだろ。駅員、探してこいよ
+@text show id=TX04_002_0021 speaker=narration
+沙耶は彼が今すぐ動かなくてよいことを何度か確かめ、そばに必要な物を寄せた。
+@text show id=TX04_002_0022 speaker=narration
+村瀬と相談し、沙耶もまず先の車両を確かめに行くことになった。ただし、戻る区切りを決めてからだった。
+@text show id=TX04_002_0023 speaker=narration
+負傷した人を運ぶにも、先の状態を知っておく必要がある。その言葉を、彼女は久我にもきちんと告げた。
+@text show id=TX04_002_0024 speaker=CH_005
+私は三号車まで見たら、一度戻ります。助けを呼べる物がなくても、戻る。それまで、ここで待っていて
+@text show id=TX04_002_0025 speaker=narration
+久我は歯を噛みしめたまま、浅く頷いた。誰も残らないことに不安はあった。それでも俺たちは、沙耶が戻る区切りを確かめ、動ける七人で救助を探す方を選んだ。
+@char hide id=ALL
+@wait sync
+@char show id=CH_001 expression=戸惑い
+@text show id=TX04_002_0026 speaker=narration
+綾乃が、俺の手を見ていた。
+@text show id=TX04_002_0027 speaker=narration
+掌に、金属板の汚れがついている。
+@text show id=TX04_002_0028 speaker=narration
+彼女から受け取ったティッシュで拭いても、指の震えはすぐには止まらなかった。
+@text show id=TX04_002_0029 speaker=narration
+すずは少し離れて、俺が手を拭くのを見ていた。
+@text show id=TX04_002_0030 speaker=narration
+目が合うと、慌てたように顔を伏せた。
+@char hide id=ALL
+@wait sync
+@char show id=CH_007 expression=不安
+@text show id=TX04_002_0031 speaker=CH_007
+私……見てただけで
+@text show id=TX04_002_0032 speaker=CH_000
+鞄、どけてくれたでしょう。助かったよ
+@text show id=TX04_002_0033 speaker=narration
+すずは膝の上の手を見た。
+@text show id=TX04_002_0034 speaker=narration
+何か言いかけて、沙耶の方へ目を向ける。
+@text show id=TX04_002_0035 speaker=CH_007
+怖かったんです。あの人のこと、嫌なのに……血が、出てて
+@text show id=TX04_002_0036 speaker=narration
+嫌な人が怪我をしたことと、その怪我を見るのが怖いことは、両方ある。
+@text show id=TX04_002_0037 speaker=narration
+俺はその二つを、さっきまで一つにしようとしていた。
+@text show id=TX04_002_0038 speaker=CH_000
+嫌なのは、変えなくていいと思う。今は、怪我をした人として助けただけだから
+@text show id=TX04_002_0039 speaker=narration
+すずはすぐには頷かなかった。
+@text show id=TX04_002_0040 speaker=narration
+それでも自分が薄情なことを言ったのではないと分かったのか、沙耶の手元を、さっきより長く見ていられるようになった。
+@char hide id=ALL
+@wait sync
+@char show id=CH_001 expression=戸惑い
+@text show id=TX04_002_0041 speaker=CH_001
+腕、大丈夫？
+@text show id=TX04_002_0042 speaker=CH_000
+うん。力を入れすぎただけ
+@text show id=TX04_002_0043 speaker=narration
+言いながら、自分がさっき何を考えたか思い出した。
+@text show id=TX04_002_0044 speaker=narration
+自業自得だと、一瞬は思った。
+@text show id=TX04_002_0045 speaker=narration
+あの一瞬を消すことはできない。
+@text show id=TX04_002_0046 speaker=narration
+綾乃は汚れたティッシュを入れる袋を開き、俺が手を離すまで待った。
+@text show id=TX04_002_0047 speaker=narration
+何も聞かなかった。
+@char hide id=ALL
+@wait sync
+@char show id=CH_006 expression=基本
+@text show id=TX04_002_0048 speaker=CH_006
+ゆっくり行きましょう。急ぐのと、慌てるのは別ですから
+@scene end id=SC04_002
+@scene start id=SC04_003
+@char hide id=ALL
+@bgm stop
+@wait sync
+@bg show id=BG_005 image=fallen
+@bgm play file=B002.dat
+@location show text="六号車／傾いた通路"
+@text show id=TX04_003_0001 speaker=narration
+七人で六号車へ戻った。
+@text show id=TX04_003_0002 speaker=narration
+今度は誰も、床の傾きを軽く見なかった。
+@text show id=TX04_003_0003 speaker=narration
+岩の下を通る時、俺は息を止めていた。
+@text show id=TX04_003_0004 speaker=narration
+まだ何も起きていない列車を探しているのではない。
+@text show id=TX04_003_0005 speaker=narration
+もう人が死にかけている場所から、助けを呼ばなければならなかった。
+@scene end id=SC04_003
+@chapter end id=CH04
+
+@chapter start id=CH05 title="第五章　昔の事件"
+@textbox hide
+@scene start id=SC05_001
+@bgm stop
+@bg hide
+@wait sync
+@bg show id=BG_006 transition=fade duration_ms=1000
+@bgm play file=B003.dat fade_ms=2000
+@chapter_title show chapter="第五章" title="昔の事件"
+@wait sync
+@location show text="五号車／焼け跡"
+@textbox show
+@text show id=TX05_001_0001 speaker=narration
+五号車は、六号車と反対側へ傾いていた。
+@text show id=TX05_001_0002 speaker=narration
+低くなった右の座席へ、割れた内装材が寄りかかっている。
+@text show id=TX05_001_0003 speaker=narration
+車両の前方も少し下がり、まっすぐ立つと、靴の中で爪先へ重みがかかった。
+@text show id=TX05_001_0004 speaker=narration
+焦げた匂いがした。
+@text show id=TX05_001_0005 speaker=narration
+火は見えない。座席の表面が黒く縮れ、溶けた樹脂が床へ垂れたまま固まっていた。
+@text show id=TX05_001_0006 speaker=narration
+割れた窓から入る雨が、その黒い筋を濡らしている。
+@char show id=CH_003 expression=真剣
+@text show id=TX05_001_0007 speaker=CH_003
+ここは右に寄りすぎないで。背もたれ、根元から外れてる
+@text show id=TX05_001_0008 speaker=narration
+黒川が一本ずつ支柱を確かめた。
+@text show id=TX05_001_0009 speaker=narration
+俺も、後ろの綾乃へ同じ注意を伝えた。
+@text show id=TX05_001_0010 speaker=narration
+傾きに慣れかけた足は、向きが変わるだけで頼りなくなった。
+@text show id=TX05_001_0011 speaker=narration
+六号車で掴んでいた側へ無意識に手を出し、空を掴む。
+@char hide id=ALL
+@wait sync
+@char show id=CH_001 expression=基本
+@text show id=TX05_001_0012 speaker=CH_001
+こっち
+@text show id=TX05_001_0013 speaker=narration
+綾乃が残っている手すりを示した。
+@text show id=TX05_001_0014 speaker=narration
+俺はそれを握り直した。
+@char hide id=ALL
+@wait sync
+@char show id=CH_006 expression=基本
+@text show id=TX05_001_0015 speaker=CH_006
+無理に遠くへ手を伸ばさず、近いところを使いましょう
+@text show id=TX05_001_0016 speaker=narration
+村瀬自身も、ゆっくり歩いていた。
+@text show id=TX05_001_0017 speaker=narration
+誰かを急がせるための「ゆっくり」ではなく、皆の足がそろう速さだった。
+@text show id=TX05_001_0018 speaker=narration
+すずは一歩前の沙耶が踏んだ場所を見て、その後へ足を置いた。
+@char hide id=ALL
+@wait sync
+@char show id=CH_007 expression=不安 position=left
+@char show id=CH_002 expression=基本 position=right
+@text show id=TX05_001_0019 speaker=CH_007
+……本当に、ここ、駅なんですよね
+@text show id=TX05_001_0020 speaker=narration
+誰かに答えてほしいというより、確かめずにいられない声だった。
+@text show id=TX05_001_0021 speaker=narration
+窓の外は雨で白み、遠くの灯りも街並みも見えない。
+@text show id=TX05_001_0022 speaker=CH_002
+止まってるんですから……たぶん、そうでしょう
+@text show id=TX05_001_0023 speaker=narration
+大庭も自信のなさそうな返事をした。
+@text show id=TX05_001_0024 speaker=narration
+すずが通りやすいように、自分は座席の背へ寄っている。
+@text show id=TX05_001_0025 speaker=narration
+上から水が滴る場所では、先に気づいて声を掛けてくれた。
+@text show id=TX05_001_0026 speaker=CH_002
+そこ、冷たいですよ。少し避けて
+@text show id=TX05_001_0027 speaker=CH_007
+はい……
+@char hide id=ALL
+@bgm stop
+@text show id=TX05_001_0028 speaker=narration
+俺たちの声が途切れた時、車両の前から怒鳴り声がした。
+@effect play id=fade
+@text show id=TX05_001_0029 speaker=narration
+「下がれ！」
+@text show id=TX05_001_0030 speaker=narration
+黒川がライトを上げた。
+@text show id=TX05_001_0031 speaker=narration
+俺も顔を向けた。
+@text show id=TX05_001_0032 speaker=narration
+連結扉の向こうを、人が横切ったように見えた。
+@text show id=TX05_001_0033 speaker=CH_000
+誰かいる！
+@text show id=TX05_001_0034 speaker=narration
+声を掛けて、一歩出かけた。
+@text show id=TX05_001_0035 speaker=narration
+黒川の手が胸の前に出た。
+@text show id=TX05_001_0036 speaker=CH_003
+足元
+@text show id=TX05_001_0037 speaker=narration
+爪先のすぐ先で、床材が裂けていた。
+@text show id=TX05_001_0038 speaker=narration
+俺は手すりを握り締めた。向こうの扉には、もう誰の姿もない。
+@text show id=TX05_001_0039 speaker=CH_001
+今の、聞こえた？
+@text show id=TX05_001_0040 speaker=CH_000
+うん。前から
+@text show id=TX05_001_0041 speaker=CH_005
+私も聞きました
+@text show id=TX05_001_0042 speaker=narration
+黒川が前方へ呼び掛けた。
+@text show id=TX05_001_0043 speaker=narration
+車掌か、駅員か。返事を求め、何度か呼んだ。
+@text show id=TX05_001_0044 speaker=narration
+雨だけが、破れた窓から入り続けた。
+@text show id=TX05_001_0045 speaker=CH_007
+助けてくれる、人……？
+@text show id=TX05_001_0046 speaker=CH_003
+まだ分からない。いたなら、もう一度声を掛けてみよう
+@text show id=TX05_001_0047 speaker=narration
+彼は人影が見えたあたりまで、足場を見ながら進んだ。
+@text show id=TX05_001_0048 speaker=narration
+俺もついていった。
+@text show id=TX05_001_0049 speaker=narration
+扉の手前には、誰も隠れられないほど狭い空間しかなかった。
+@wait beat
+@text show id=TX05_001_0050 speaker=narration
+人が通ったなら、その先へ行ったのだ。
+@text show id=TX05_001_0051 speaker=narration
+そう考えるしかなかった。
+@text show id=TX05_001_0052 speaker=narration
+なのに、いま聞いた声は、ひどく近くに残っている気がした。
+@char show id=CH_003 expression=真剣
+@bgm play file=B006.dat
+@text show id=TX05_001_0053 speaker=narration
+黒川は窓枠の傷へライトを当てた。
+@text show id=TX05_001_0054 speaker=narration
+裂けた座席とは違う、細く深い傷がいくつか走っていた。
+@text show id=TX05_001_0055 speaker=narration
+何か硬い物を、繰り返し当てたような跡だった。
+@text show id=TX05_001_0056 speaker=CH_003
+……嫌な似方をしてるな
+@text show id=TX05_001_0057 speaker=CH_000
+何とですか
+@text show id=TX05_001_0058 speaker=narration
+聞くと、黒川はすぐには答えなかった。
+@text show id=TX05_001_0059 speaker=narration
+振り返り、すずが村瀬のそばにいることを見てから口を開いた。
+@text show id=TX05_001_0060 speaker=CH_003
+昔、旅客列車で事件があったんだ。十五年くらい前。覚えてる人、いるかな
+@text show id=TX05_001_0061 speaker=narration
+村瀬が眉を寄せた。
+@char show id=CH_006 expression=基本 position=left
+@text show id=TX05_001_0062 speaker=CH_006
+強盗犯が乗り込んだ事件ですか
+@text show id=TX05_001_0063 speaker=CH_003
+そうです。宝石とか貴金属を奪って、逃げる途中で列車へ乗り換えた連中がいた
+@text show id=TX05_001_0064 speaker=narration
+ニュースで聞いたことがある気はした。
+@text show id=TX05_001_0065 speaker=narration
+けれど、はっきりした映像は浮かばない。
+@text show id=TX05_001_0066 speaker=narration
+十五年前なら、俺は十二歳だった。テレビを見ていなくても不思議ではない。
+@text show id=TX05_001_0067 speaker=CH_000
+それが、この列車と？
+@text show id=TX05_001_0068 speaker=CH_003
+同じだとまでは言えない。ただ……
+@text show id=TX05_001_0069 speaker=narration
+黒川は傷からライトを外した。
+@text show id=TX05_001_0070 speaker=narration
+説明の途中で怖がらせたことを後悔したように、一度口を閉じる。
+@char hide id=CH_006
+@text show id=TX05_001_0071 speaker=CH_003
+叔父が乗ってたんだよ。その列車に
+@text show id=TX05_001_0072 speaker=narration
+彼はさっきまでより低い声で話した。
+@text show id=TX05_001_0073 speaker=narration
+犯人が追跡を逃れるため列車へ乗ったこと。警察が鉄道会社と連携し、列車を止めようとしたこと。
+@text show id=TX05_001_0074 speaker=narration
+減速に気づいた犯人たちが騒ぎ、車内の人を傷つけたこと。
+@text show id=TX05_001_0075 speaker=narration
+そのうちの三号車に、叔父がいたという。
+@text show id=TX05_001_0076 speaker=CH_003
+逃げる時、荷物なんかいいから行けって言われてね。鞄を座席に置いたまま逃げた。本人は助かったから、今もその話ができる
+@text show id=TX05_001_0077 speaker=narration
+大庭が、後ろで手すりを持ち替えた。
+@char show id=CH_002 expression=基本 position=left
+@text show id=TX05_001_0078 speaker=CH_002
+ご親戚に、そういうことが……
+@text show id=TX05_001_0079 speaker=CH_003
+子どもの頃、よく遊んでもらった人なんだ。ニュースを見るより、そっちの記憶の方が強い
+@text show id=TX05_001_0080 speaker=narration
+大庭は短く、そうですか、と答えた。
+@text show id=TX05_001_0081 speaker=narration
+その顔にも、どう反応すればいいのか分からない戸惑いがあった。俺も同じだった。
+@char hide id=CH_002
+@wait sync
+@char show id=CH_005 expression=真剣 position=left
+@text show id=TX05_001_0082 speaker=CH_005
+今ここにいるかもしれない人も、その事件と結びつけて考えているんですか
+@text show id=TX05_001_0083 speaker=CH_003
+いや。そこまでつなげたら、俺の作り話になる。単に、さっきの声で思い出しただけかもしれない
+@text show id=TX05_001_0084 speaker=narration
+そう言っても、彼の目は車内を見ていた。
+@text show id=TX05_001_0085 speaker=narration
+仕事の道具らしいカメラ。こちらの反応を確かめるような間。
+@text show id=TX05_001_0086 speaker=narration
+俺がそれを見ると、黒川は自分の鞄へ手を添えた。
+@text show id=TX05_001_0087 speaker=CH_003
+記者なんだ。変なところがあると、つい考えちゃう。悪い癖だね
+@text show id=TX05_001_0088 speaker=narration
+なぜだか、その説明を聞いても安心できなかった。
+@text show id=TX05_001_0089 speaker=narration
+この列車のことを、彼だけが先に知っているように見える。
+@text show id=TX05_001_0090 speaker=narration
+もっと何か、隠しているのではないか。
+@text show id=TX05_001_0091 speaker=narration
+俺の表情が分かったのか、黒川は無理に笑いを取ろうとはしなかった。
+@text show id=TX05_001_0092 speaker=CH_000
+……どうして、その事件だと思ったんですか
+@text show id=TX05_001_0093 speaker=narration
+黒川は、すぐに返さなかった。
+@text show id=TX05_001_0094 speaker=narration
+俺が話の続きを聞きたいのではなく、彼を疑っていることに気づいたらしい。
+@text show id=TX05_001_0095 speaker=CH_003
+古い列車で、傷があって、怒鳴り声がした。それで、知ってる話を当てはめた。それだけだよ
+@text show id=TX05_001_0096 speaker=CH_000
+車両の番号とか、何か、分かる物があったんじゃなくて？
+@text show id=TX05_001_0097 speaker=CH_003
+うん。俺が先に名前をつけると、君らもそう見え始める。言うのが早かったかもしれない
+@text show id=TX05_001_0098 speaker=narration
+謝って話を切るのではなく、分かっている範囲を示してくれた。
+@text show id=TX05_001_0099 speaker=narration
+俺は窓の傷をもう一度見た。
+@text show id=TX05_001_0100 speaker=narration
+事件の跡なのか、事故でついたのか、俺には見分けられない。
+@text show id=TX05_001_0101 speaker=narration
+黒川の話を聞く前なら、単に壊れていると思ったはずだった。
+@char hide id=CH_005
+@wait sync
+@char show id=CH_001 expression=基本 position=left
+@text show id=TX05_001_0102 speaker=CH_001
+でも、知ってることを隠されるより、聞いた方がいいです。今は、何も分からないから
+@text show id=TX05_001_0103 speaker=narration
+綾乃が言った。
+@text show id=TX05_001_0104 speaker=narration
+黒川は彼女を見て、頷いた。
+@text show id=TX05_001_0105 speaker=CH_003
+じゃあ、区別して話す。確かめたことと、俺が考えただけのこと。ごっちゃにしないように
+@text show id=TX05_001_0106 speaker=narration
+俺は、はい、と答えた。
+@text show id=TX05_001_0107 speaker=narration
+信用すると言ったわけではなかった。
+@text show id=TX05_001_0108 speaker=narration
+それでも、疑っていることを口にしても怒られなかったので、胸のつかえは少しだけ小さくなった。
+@text show id=TX05_001_0109 speaker=narration
+ここで他人の言葉を全部受け入れるのも、全部拒むのも、自分にはできそうになかった。
+@text show id=TX05_001_0110 speaker=CH_003
+先へ行こう。生きてる人を探す方が先だ
+@text show id=TX05_001_0111 speaker=narration
+言われて、久我を思い出した。
+@text show id=TX05_001_0112 speaker=narration
+七号車の座席で、何度も同じ場所を掴んでいた手。
+@text show id=TX05_001_0113 speaker=narration
+話している間にも、あの痛みは続いている。
+@text show id=TX05_001_0114 speaker=CH_000
+はい
+@char hide id=ALL
+@text show id=TX05_001_0115 speaker=narration
+俺たちは歩き出した。
+@text show id=TX05_001_0116 speaker=narration
+焦げた座席の手前で、すずが顔を背けた。
+@text show id=TX05_001_0117 speaker=narration
+沙耶が視線を遮る位置へ入り、村瀬が後ろを確かめる。
+@text show id=TX05_001_0118 speaker=narration
+その様子を見ているうちに、別の背中が一瞬、重なった。
+@effect play id=fade
+@text show id=TX05_001_0119 speaker=narration
+大きなコートの裾。
+@text show id=TX05_001_0120 speaker=narration
+扉を押さえる手。
+@text show id=TX05_001_0121 speaker=narration
+誰かの息が、耳の近くで震えている。
+@text show id=TX05_001_0122 speaker=narration
+『こっち』
+@text show id=TX05_001_0123 speaker=narration
+靴が床を踏んだ。
+@text show id=TX05_001_0124 speaker=narration
+俺は今の五号車にいた。
+@char show id=CH_001 expression=戸惑い
+@text show id=TX05_001_0125 speaker=CH_001
+直人、どうしたの
+@text show id=TX05_001_0126 speaker=narration
+綾乃が俺を見ていた。
+@text show id=TX05_001_0127 speaker=narration
+名前を呼ばれると、すぐ返事をしなければいけない気がした。
+@text show id=TX05_001_0128 speaker=narration
+返事をしないと、彼女が行ってしまうような気がした。
+@text show id=TX05_001_0129 speaker=CH_000
+……何でもない。ちょっと、見覚えが
+@text show id=TX05_001_0130 speaker=CH_001
+この車両に？
+@text show id=TX05_001_0131 speaker=CH_000
+いや。分からない
+@text show id=TX05_001_0132 speaker=narration
+覚えていることなら説明できる。
+@text show id=TX05_001_0133 speaker=narration
+これは、何を思い出したのかも分からない。
+@text show id=TX05_001_0134 speaker=narration
+自分の記憶のはずなのに、途中だけ切り取った写真を渡されたようだった。
+@text show id=TX05_001_0135 speaker=narration
+綾乃は俺の顔を見た後、前方の扉へ目を向けた。
+@text show id=TX05_001_0136 speaker=CH_001
+私も、さっきの声……怖かった
+@text show id=TX05_001_0137 speaker=narration
+彼女も怖いのだ。
+@text show id=TX05_001_0138 speaker=narration
+なのに、俺が止まると、必ず一緒に立ち止まる。
+@text show id=TX05_001_0139 speaker=CH_000
+先に行ってて、って言うところなんだろうけど
+@text show id=TX05_001_0140 speaker=CH_001
+言われても、少し困る
+@text show id=TX05_001_0141 speaker=narration
+答えが早くて、俺は彼女を見た。
+@text show id=TX05_001_0142 speaker=narration
+綾乃も意外そうに、自分の言葉を確かめるような顔をした。
+@char change id=CH_001 expression=微笑み
+@text show id=TX05_001_0143 speaker=CH_001
+……急がなくていいよ。一緒に行けば
+@text show id=TX05_001_0144 speaker=narration
+その言い方を、知っている気がした。
+@text show id=TX05_001_0145 speaker=narration
+五号車の焦げた匂いとは結びつかない。
+@text show id=TX05_001_0146 speaker=narration
+もっと湿った、土と緑の匂いがする場所。
+@char hide id=ALL
+@text show id=TX05_001_0147 speaker=narration
+前で扉が開いた。
+@text show id=TX05_001_0148 speaker=narration
+水の落ちる音が、いくつも重なって聞こえてきた。
+@text show id=TX05_001_0149 speaker=CH_003
+ここ、ずいぶん傾いてる。入る前に見て
+@text show id=TX05_001_0150 speaker=narration
+俺たちは連結部で止まった。
+@text show id=TX05_001_0151 speaker=narration
+扉の向こうでは、窓が頭の上に近い位置へ来ていた。
+@text show id=TX05_001_0152 speaker=narration
+車両の奥へ、細い光が流れている。
+@ambient stop
+@wait sync
+@bg show id=BG_007
+@ambient play file=A002.dat volume=0.7
+@location show text="五号車・四号車の連結部"
+@text show id=TX05_001_0153 speaker=narration
+水だった。
+@text show id=TX05_001_0154 speaker=narration
+高くなった側の割れ窓から雨が落ち、低い奥へ向かって、静かに流れ続けていた。
+@scene end id=SC05_001
+@chapter end id=CH05
+
+@chapter start id=CH06 title="第六章　水の落ちるところ"
+@textbox hide
+@scene start id=SC06_001
+@bgm stop
+@wait sync
+@bgm play file=B007.dat fade_ms=2000
+@chapter_title show chapter="第六章" title="水の落ちるところ"
+@wait sync
+@location show text="四号車／雨水の流れる車両"
+@textbox show
+@text show id=TX06_001_0001 speaker=narration
+四号車では、床が壁のように立ち上がっていた。
+@text show id=TX06_001_0002 speaker=narration
+横倒しになりかけた車内で、元の側壁が足元へ回り込んでいる。
+@text show id=TX06_001_0003 speaker=narration
+座席の背と窓の下の細い縁が、斜めに奥へ続いていた。
+@text show id=TX06_001_0004 speaker=narration
+どこを歩くのか、見ただけでは分からなかった。
+@text show id=TX06_001_0005 speaker=narration
+黒川は扉枠を握ったまましゃがみ、ライトの向きを変えた。
+@char show id=CH_003 expression=真剣
+@text show id=TX06_001_0006 speaker=CH_003
+低い方へ流されないように。ここ、壁と床の継ぎ目に足を置けそうだ
+@text show id=TX06_001_0007 speaker=narration
+靴先を置き、体重を少しずつ移す。
+@text show id=TX06_001_0008 speaker=narration
+もう片方の手を、上側になった座席の脚へ掛ける。
+@text show id=TX06_001_0009 speaker=narration
+ようやく身体が入っても、いつもの感覚で立ち上がることはできなかった。
+@text show id=TX06_001_0010 speaker=narration
+俺も同じ所へ手を伸ばした。
+@text show id=TX06_001_0011 speaker=narration
+座席は人が座るための形をしているのに、今は頭の近くへ張り出している。
+@text show id=TX06_001_0012 speaker=narration
+窓の位置で上下を考えようとすると、身体の方が混乱した。
+@text show id=TX06_001_0013 speaker=CH_006
+一つずつ、手を移しましょう。先の人が渡ってからで大丈夫です
+@text show id=TX06_001_0014 speaker=narration
+村瀬の後ろで、大庭がすずの荷物を一時的に受け取った。
+@text show id=TX06_001_0015 speaker=narration
+すずが両手を使って連結部から移れるようにするためだった。
+@text show id=TX06_001_0016 speaker=narration
+彼女が足を置ける所まで来ると、すぐに鞄を返す。
+@text show id=TX06_001_0017 speaker=CH_002
+抱えていたら危ないですから。肩に掛けられますか
+@text show id=TX06_001_0018 speaker=CH_007
+はい。ありがとうございます
+@char hide id=ALL
+@text show id=TX06_001_0019 speaker=narration
+水の音が、さっきまでより柔らかく聞こえた。
+@text show id=TX06_001_0020 speaker=narration
+怖いはずの車両なのに、焦げた五号車とは空気が違う。
+@text show id=TX06_001_0021 speaker=narration
+顔を上げると、高い側の破れた窓から、細い雨が斜めに落ちていた。
+@text show id=TX06_001_0022 speaker=narration
+車両は前方へも下がっている。
+@text show id=TX06_001_0023 speaker=narration
+流れは傾いた床と側壁の境をたどり、奥の低い場所へ集まっていた。
+@text show id=TX06_001_0024 speaker=narration
+そこだけにできた浅い水面が、残った照明を細かく揺らしている。
+@text show id=TX06_001_0025 speaker=narration
+車内全体が水に沈んでいるわけではない。
+@text show id=TX06_001_0026 speaker=narration
+水の通り道と、俺たちが足を置く場所が、狭い車体の中で並んでいた。
+@text show id=TX06_001_0027 speaker=CH_005
+足、濡らしすぎないで。冷えますから
+@text show id=TX06_001_0028 speaker=narration
+沙耶がすずへ言った。
+@text show id=TX06_001_0029 speaker=narration
+黒川は前方の足場を確かめ、村瀬がその後ろへ続く。
+@text show id=TX06_001_0030 speaker=narration
+俺と綾乃は、ひとつ手前の支柱を握って待った。
+@char show id=CH_001 expression=基本
+@text show id=TX06_001_0031 speaker=CH_001
+……きれい
+@text show id=TX06_001_0032 speaker=narration
+言ってから、綾乃は申し訳なさそうに前を見た。
+@text show id=TX06_001_0033 speaker=narration
+久我が痛みをこらえている時に、そう感じたことを気にしたのかもしれない。
+@text show id=TX06_001_0034 speaker=narration
+けれど俺も、同じことを思っていた。
+@text show id=TX06_001_0035 speaker=CH_000
+うん。ここだけ、違う場所みたいだ
+@text show id=TX06_001_0036 speaker=narration
+水が落ちる。
+@text show id=TX06_001_0037 speaker=narration
+そのたびに小さな光が動き、綾乃のストールの赤が、水面の上でほどけた。
+@text show id=TX06_001_0038 speaker=narration
+滴が、二度、続けて鳴った。
+@text show id=TX06_001_0039 speaker=narration
+胸の中にあった何かが、その音に引かれた。
+@scene end id=SC06_001
+@scene start id=SC06_002
+@textbox hide
+@char hide id=ALL
+@bgm stop
+@ambient stop
+@bg hide
+@wait sync
+@bg show id=BG_008 filter=warm transition=fade duration_ms=1000
+@bgm play file=B008.dat
+@ambient play file=A001.dat volume=0.5
+@wait sync
+@location show text="雨宿りの軒下／記憶"
+@textbox show
+@text show id=TX06_002_0001 speaker=narration
+軒の端から、雨が落ちていた。
+@text show id=TX06_002_0002 speaker=narration
+白いシャツの袖口が濡れ、隣の子が手の甲で拭いている。
+@text show id=TX06_002_0003 speaker=CH_001
+先、帰っていいよ
+@text show id=TX06_002_0004 speaker=CH_000
+そっちこそ。傘、あるんだろ
+@text show id=TX06_002_0005 speaker=CH_001
+あるけど
+@text show id=TX06_002_0006 speaker=narration
+折り畳み傘は、彼女の鞄の横から見えていた。
+@text show id=TX06_002_0007 speaker=narration
+なのに広げない。
+@text show id=TX06_002_0008 speaker=narration
+俺はそれを見て、見ていないふりをした。
+@text show id=TX06_002_0009 speaker=CH_000
+俺、もう少し待つから
+@text show id=TX06_002_0010 speaker=CH_001
+じゃあ、私も
+@text show id=TX06_002_0011 speaker=narration
+雨は止みそうになかった。
+@text show id=TX06_002_0012 speaker=narration
+それで、よかった。
+@scene end id=SC06_002
+@scene start id=SC06_003
+@textbox hide
+@ambient stop
+@bg hide
+@wait sync
+@bg show id=BG_007 transition=fade duration_ms=1000
+@ambient play file=A002.dat volume=0.7
+@wait sync
+@location show text="四号車／雨水の流れる車両"
+@textbox show
+@text show id=TX06_003_0001 speaker=narration
+綾乃の手が、同じ支柱を握っていた。
+@text show id=TX06_003_0002 speaker=narration
+記憶の小さな手と、今の指が重なる。
+@text show id=TX06_003_0003 speaker=narration
+爪の形も、手首の細さも違う。今、隣にいるのは大人の女性だった。
+@text show id=TX06_003_0004 speaker=CH_000
+……傘、持ってたのに
+@text show id=TX06_003_0005 speaker=narration
+声が出た。
+@text show id=TX06_003_0006 speaker=narration
+綾乃がこちらを向いた。
+@text show id=TX06_003_0007 speaker=CH_001
+え？
+@text show id=TX06_003_0008 speaker=CH_000
+軒下で。俺に、先に帰っていいって。綾乃も、ずっと帰らなかった
+@text show id=TX06_003_0009 speaker=narration
+彼女の指が支柱を滑った。
+@text show id=TX06_003_0010 speaker=narration
+慌てて握り直し、俺の顔を見た。
+@text show id=TX06_003_0011 speaker=CH_001
+あそこ……文房具屋さんの前
+@text show id=TX06_003_0012 speaker=narration
+場所の名前を聞いた瞬間、軒の色が戻った。
+@text show id=TX06_003_0013 speaker=narration
+少し錆びた赤。店先に下がった、日に焼けた看板。
+@text show id=TX06_003_0014 speaker=narration
+記憶はそこまでで途切れたが、さっきまで見えなかったものが、確かにあった。
+@char show id=CH_001 expression=驚き
+@text show id=TX06_003_0015 speaker=CH_000
+思い出した。全部じゃないけど
+@char change id=CH_001 expression=悲しみ
+@text show id=TX06_003_0016 speaker=narration
+綾乃が息を吸った。
+@text show id=TX06_003_0017 speaker=narration
+笑うより先に、一度下を向いた。
+@text show id=TX06_003_0018 speaker=CH_001
+……うん
+@text show id=TX06_003_0019 speaker=narration
+返事が小さくなった理由は、分かった。
+@text show id=TX06_003_0020 speaker=narration
+名前を呼ばれた時から、彼女はこれを待っていたのだ。
+@text show id=TX06_003_0021 speaker=narration
+俺は、ただ忘れていた同級生を一人思い出したのではなかった。
+@text show id=TX06_003_0022 speaker=narration
+あの軒下で、雨が止まらなければいいと思っていた。
+@text show id=TX06_003_0023 speaker=narration
+傘を開けば帰れてしまう彼女に、帰ってほしくなかった。
+@text show id=TX06_003_0024 speaker=narration
+それを言わずに済む雨が、ありがたかった。
+@text show id=TX06_003_0025 speaker=CH_000
+俺、綾乃と帰ってたんだね
+@text show id=TX06_003_0026 speaker=CH_001
+よく、一緒になったよね
+@text show id=TX06_003_0027 speaker=CH_000
+偶然みたいな言い方してた？
+@text show id=TX06_003_0028 speaker=narration
+彼女が顔を上げた。
+@text show id=TX06_003_0029 speaker=narration
+水の反射が、目元へかすかに動いた。
+@char change id=CH_001 expression=微笑み
+@text show id=TX06_003_0030 speaker=CH_001
+……してた
+@text show id=TX06_003_0031 speaker=narration
+その声を聞いて、もう一つだけ浮かんだ。
+@text show id=TX06_003_0032 speaker=narration
+道が左右へ分かれる場所。
+@text show id=TX06_003_0033 speaker=narration
+俺が靴紐を直すと、彼女は隣で立っていた。
+@text show id=TX06_003_0034 speaker=narration
+結び終わった後も、次に何を話すか考えていた。
+@text show id=TX06_003_0035 speaker=narration
+学校なら、翌日また会える。
+@text show id=TX06_003_0036 speaker=narration
+それでも、そこで別れるまでの一分が惜しかった。
+@char change id=CH_001 expression=驚き
+@text show id=TX06_003_0037 speaker=CH_000
+好きだったんだ
+@wait beat
+@text show id=TX06_003_0038 speaker=narration
+考えたことが、そのまま口から出た。
+@text show id=TX06_003_0039 speaker=narration
+綾乃が俺を見た。
+@text show id=TX06_003_0040 speaker=narration
+今言うことではなかったと気づいたが、もう取り消せない。
+@text show id=TX06_003_0041 speaker=CH_000
+……俺が。昔
+@text show id=TX06_003_0042 speaker=narration
+余計な言い直しだった。
+@char change id=CH_001 expression=照れ
+@text show id=TX06_003_0043 speaker=narration
+綾乃の頬へ、はっきりと赤みが差した。
+@text show id=TX06_003_0044 speaker=narration
+目をそらしかけて、途中でやめる。
+@text show id=TX06_003_0045 speaker=CH_001
+うん。そう、だったと思う
+@text show id=TX06_003_0046 speaker=CH_000
+俺の方のことなのに、綾乃に確認してるみたいだな
+@text show id=TX06_003_0047 speaker=CH_001
+私も、そうだったから
+@wait beat
+@text show id=TX06_003_0048 speaker=narration
+今度は俺が、返事をなくした。
+@text show id=TX06_003_0049 speaker=narration
+十二歳の時に聞けなかった言葉が、十五年後、傾いた列車の中で返ってきた。
+@text show id=TX06_003_0050 speaker=narration
+どう受け取ればいいのか分からず、握っている支柱の冷たさだけを意識した。
+@text show id=TX06_003_0051 speaker=CH_001
+……まさか、今、言われると思わなかった
+@text show id=TX06_003_0052 speaker=narration
+綾乃が指先で髪を寄せた。
+@text show id=TX06_003_0053 speaker=narration
+視線の行き場に困ったように水面を見て、それから、照れ隠しに少しだけ俺を睨んだ。
+@text show id=TX06_003_0054 speaker=CH_000
+俺も、言うつもりじゃなかった
+@text show id=TX06_003_0055 speaker=CH_001
+そういうところ、前にもあった。言わないと思ってることを、急に言うの
+@text show id=TX06_003_0056 speaker=narration
+それも、自分では覚えていなかった。
+@text show id=TX06_003_0057 speaker=narration
+だが彼女の言う俺が、全く別人には思えなかった。
+@text show id=TX06_003_0058 speaker=narration
+相手の返事を考えすぎて黙り、考えが追いつく前に大事なことだけ口へ出る。
+@text show id=TX06_003_0059 speaker=narration
+今も時々、そういう失敗をする。
+@text show id=TX06_003_0060 speaker=CH_000
+嫌だった？
+@text show id=TX06_003_0061 speaker=CH_001
+困った。……でも、嫌ではない
+@text show id=TX06_003_0062 speaker=narration
+最後の部分だけ、声が小さかった。
+@text show id=TX06_003_0063 speaker=narration
+水の落ちる音に消えかけたが、聞き直さなかった。もう一度言わせるのは、たぶん意地が悪い。
+@text show id=TX06_003_0064 speaker=narration
+俺たちは、恋人だったわけではない。
+@text show id=TX06_003_0065 speaker=narration
+思い出した断片にも、手をつないで帰る場面はなかった。
+@text show id=TX06_003_0066 speaker=narration
+一緒にいて、別れる時を延ばし、相手が同じ気持ちでいてくれるか、それとなく確かめ続けていた。
+@text show id=TX06_003_0067 speaker=narration
+言葉を交わさないまま、それで十分だと思っていたのかもしれない。
+@text show id=TX06_003_0068 speaker=narration
+今の俺には、目の前の綾乃のことが、まだほとんど分からない。
+@text show id=TX06_003_0069 speaker=narration
+それでも、昔の自分の気持ちを彼女へ伝えられたのは嬉しかった。
+@text show id=TX06_003_0070 speaker=narration
+彼女がそれを、今の声で受け取ってくれたことも。
+@char hide id=ALL
+@wait sync
+@char show id=CH_003 expression=基本
+@text show id=TX06_003_0071 speaker=CH_003
+二人とも、大丈夫？　こっち、進めるよ
+@text show id=TX06_003_0072 speaker=narration
+声を掛けられ、俺は前を見た。
+@text show id=TX06_003_0073 speaker=narration
+全員がこちらを見ているわけではなかった。足場が悪く、誰もが自分の手と足を置くのに精いっぱいだ。
+@text show id=TX06_003_0074 speaker=narration
+そのことに、少し救われた。
+@text show id=TX06_003_0075 speaker=CH_000
+大丈夫です。今、行きます
+@char hide id=ALL
+@wait sync
+@char show id=CH_001 expression=基本
+@text show id=TX06_003_0076 speaker=narration
+綾乃が先へ動こうとした。
+@text show id=TX06_003_0077 speaker=narration
+伸ばした手が、上側の座席の縁へ届かない。
+@text show id=TX06_003_0078 speaker=narration
+俺は自分が掴んでいた支柱の低いところを空けた。
+@text show id=TX06_003_0079 speaker=CH_000
+ここ、使って
+@text show id=TX06_003_0080 speaker=CH_001
+ありがとう
+@text show id=TX06_003_0081 speaker=narration
+彼女の靴が壁の縁へ移るのを待った。
+@text show id=TX06_003_0082 speaker=narration
+俺もその後へ続いた。
+@text show id=TX06_003_0083 speaker=narration
+さっきホームで、互いの歩幅が自然に合ったことを思い出した。
+@text show id=TX06_003_0084 speaker=narration
+あれは、今夜できた癖ではなかったのだ。
+@text show id=TX06_003_0085 speaker=narration
+少し先で、綾乃が足を止めた。
+@text show id=TX06_003_0086 speaker=narration
+俺が支えを持ち替えるまで待っている。
+@text show id=TX06_003_0087 speaker=narration
+昔も、そうしてくれていた。
+@text show id=TX06_003_0088 speaker=CH_001
+覚えてないって言われた時、ちょっとだけ、腹が立った
+@text show id=TX06_003_0089 speaker=narration
+前を向いたまま、彼女が言った。
+@text show id=TX06_003_0090 speaker=CH_000
+うん
+@text show id=TX06_003_0091 speaker=CH_001
+でも、困ってるのは分かったから。思い出してって、簡単に言えなくて
+@text show id=TX06_003_0092 speaker=narration
+謝ろうとして、言葉が止まった。
+@text show id=TX06_003_0093 speaker=narration
+ごめんと何度も言っても、彼女が待った時間は短くならない。
+@text show id=TX06_003_0094 speaker=CH_000
+教えてくれて、ありがとう。名前
+@char change id=CH_001 expression=微笑み
+@text show id=TX06_003_0095 speaker=narration
+綾乃は振り返り、小さく笑った。
+@text show id=TX06_003_0096 speaker=CH_001
+忘れたまま別れたら、たぶん、もっと腹が立ったと思う
+@text show id=TX06_003_0097 speaker=narration
+穏やかに言うので、俺も笑った。
+@text show id=TX06_003_0098 speaker=narration
+昔の彼女は、黙って何でも許してくれる子だったわけではない。
+@text show id=TX06_003_0099 speaker=narration
+今、すずのために怒った綾乃を見た後なら、その方がしっくりきた。
+@text show id=TX06_003_0100 speaker=narration
+二人が何を話したか、村瀬たちは尋ねなかった。
+@text show id=TX06_003_0101 speaker=narration
+黒川だけが、さっきより近くで話す俺たちを見ていた。
+@text show id=TX06_003_0102 speaker=CH_003
+昔からの知り合いだったんだね
+@text show id=TX06_003_0103 speaker=CH_000
+同級生です。……俺が、忘れてて
+@text show id=TX06_003_0104 speaker=CH_003
+そっか
+@text show id=TX06_003_0105 speaker=narration
+彼はそれ以上聞かなかった。
+@text show id=TX06_003_0106 speaker=narration
+ただ、俺の顔を見る目が少し変わった気がした。
+@char hide id=ALL
+@text show id=TX06_003_0107 speaker=narration
+四号車の前方には、浅い水が溜まっていた。
+@text show id=TX06_003_0108 speaker=narration
+俺たちはその縁を避け、車体の張り出しを支えに連結部へ上がった。
+@text show id=TX06_003_0109 speaker=narration
+平らに近い金属板を踏んだ時、足の裏が自分のものへ戻ったように感じた。
+@text show id=TX06_003_0110 speaker=narration
+振り返ると、水はまだ高い窓から低い奥へ流れている。
+@text show id=TX06_003_0111 speaker=narration
+雨宿りの記憶は温かかった。
+@text show id=TX06_003_0112 speaker=narration
+けれど、同じ雨に濡れたはずの別の夜が、その向こうにある。
+@text show id=TX06_003_0113 speaker=narration
+綾乃を知っていた。
+@text show id=TX06_003_0114 speaker=narration
+好きだった。
+@text show id=TX06_003_0115 speaker=narration
+それならなぜ、名前を聞くまで何も思い出せなかったのだろう。
+@bgm stop
+@text show id=TX06_003_0116 speaker=narration
+次の扉の向こうで、黒川が動きを止めた。
+@text show id=TX06_003_0117 speaker=narration
+ライトの先を見て、俺も息をのみ込んだ。
+@text show id=TX06_003_0118 speaker=narration
+傾いた床と座席の間に、暗い赤茶色の跡が広がっていた。
+@scene end id=SC06_003
+@chapter end id=CH06
+
+@chapter start id=CH07 title="第七章　三号車"
+@textbox hide
+@scene start id=SC07_001
+@ambient stop
+@bg hide
+@wait sync
+@bg show id=BG_009 transition=fade duration_ms=1000
+@bgm play file=B009.dat fade_ms=2000
+@ambient play file=A001.dat volume=0.5 fade_ms=2000
+@chapter_title show chapter="第七章" title="三号車"
+@wait sync
+@location show text="三号車／血の残る車両"
+@textbox show
+@text show id=TX07_001_0001 speaker=narration
+三号車の傾きは、四号車ほどではなかった。
+@text show id=TX07_001_0002 speaker=narration
+それでも、靴をそろえて立てる床ではない。
+@text show id=TX07_001_0003 speaker=narration
+車体は右へ沈み、座席の下に溜まった破片が、通路の低い側まで張り出していた。
+@text show id=TX07_001_0004 speaker=narration
+四号車では水が光を返していた。
+@text show id=TX07_001_0005 speaker=narration
+ここでは、照明の下でも色が沈んで見えた。
+@text show id=TX07_001_0006 speaker=narration
+赤茶色の跡が、床から座席の脚へ続いている。
+@char show id=CH_005 expression=真剣 position=right
+@char show id=CH_007 expression=不安 position=left
+@text show id=TX07_001_0007 speaker=CH_007
+……血、ですか
+@text show id=TX07_001_0008 speaker=narration
+沙耶がすずの目線に合わせて、少し身体をかがめた。
+@text show id=TX07_001_0009 speaker=CH_005
+そう見える。触らずに行きましょう
+@text show id=TX07_001_0010 speaker=narration
+大丈夫とも、違うとも言わなかった。
+@text show id=TX07_001_0011 speaker=narration
+すずは唇を結び、沙耶のすぐ後ろへ回った。
+@char hide id=ALL
+@text show id=TX07_001_0012 speaker=narration
+血なら、誰のものだ。
+@text show id=TX07_001_0013 speaker=narration
+どれほど時間が経てば、こんな色になる。
+@text show id=TX07_001_0014 speaker=narration
+考えた途端、見る場所がそこばかりになった。
+@text show id=TX07_001_0015 speaker=narration
+窓の傷も、倒れた座席も、誰かがここで倒れた跡に見え始める。
+@text show id=TX07_001_0016 speaker=narration
+黒川が奥を照らした。
+@text show id=TX07_001_0017 speaker=narration
+一本の支柱の中ほどに、黒っぽい汚れがついている。
+@text show id=TX07_001_0018 speaker=narration
+俺はそこを見て、反射的に頭を引いた。
+@text show id=TX07_001_0019 speaker=narration
+実際に何かが飛んできたわけではなかった。
+@scene end id=SC07_001
+@scene start id=SC07_002
+@bgm stop
+@ambient stop
+@wait sync
+@location hide
+@bg show id=BG_009 image=past filter=cool
+@effect play id=flash
+@text show id=TX07_002_0001 speaker=narration
+『やめろ！』
+@text show id=TX07_002_0002 speaker=narration
+別の声が聞こえた。
+@text show id=TX07_002_0003 speaker=narration
+開いた連結扉の向こうに、まっすぐな支柱が見えた。俺は手前の車両から、その隙間を見ていた。
+@text show id=TX07_002_0004 speaker=narration
+今は右へ傾いているはずなのに、記憶の中では、吊り革まで垂直だった。
+@text show id=TX07_002_0005 speaker=narration
+誰かが男の腕を掴んだ。
+@text show id=TX07_002_0006 speaker=narration
+刃のような光。
+@text show id=TX07_002_0007 speaker=narration
+コートの背中が、膝から崩れた。
+@text show id=TX07_002_0008 speaker=narration
+俺は視線を下げた。
+@text show id=TX07_002_0009 speaker=narration
+靴が小さい。
+@text show id=TX07_002_0010 speaker=narration
+隣に、同じくらいの小さな靴がある。
+@scene end id=SC07_002
+@scene start id=SC07_003
+@bg show id=BG_009
+@char show id=CH_001 expression=戸惑い
+@bgm play file=B006.dat
+@ambient play file=A001.dat volume=0.5
+@location show text="三号車／血の残る車両"
+@text show id=TX07_003_0001 speaker=CH_001
+直人
+@text show id=TX07_003_0002 speaker=narration
+今の綾乃の声がして、車内がまた傾いた。
+@text show id=TX07_003_0003 speaker=narration
+吐き気がせり上がり、俺は座席の背へ手をついた。
+@text show id=TX07_003_0004 speaker=narration
+焦げた匂いはもうしないのに、息がうまく入ってこなかった。
+@text show id=TX07_003_0005 speaker=CH_001
+座れる？　ここ、少し空いてる
+@text show id=TX07_003_0006 speaker=CH_000
+……大丈夫。少し、待って
+@text show id=TX07_003_0007 speaker=narration
+綾乃が俺の背へ手を当てた。
+@text show id=TX07_003_0008 speaker=narration
+何を見たのか尋ねず、呼吸が落ち着くまでそこにいてくれた。
+@text show id=TX07_003_0009 speaker=narration
+自分の手の甲が、妙に大きく見えた。
+@text show id=TX07_003_0010 speaker=narration
+さっき見たのは、小さな自分の手だった。
+@char show id=CH_003 expression=真剣 position=left
+@text show id=TX07_003_0011 speaker=CH_003
+相沢君
+@text show id=TX07_003_0012 speaker=narration
+黒川が少し距離を置いて立った。
+@text show id=TX07_003_0013 speaker=narration
+すぐ近くで覗き込まれたら、何も答えられなかったと思う。
+@text show id=TX07_003_0014 speaker=CH_003
+この列車に、覚えがある？
+@text show id=TX07_003_0015 speaker=narration
+否定したかった。
+@text show id=TX07_003_0016 speaker=narration
+こんな場所を知っているわけがないと言えば、さっきの光景も終わる気がした。
+@text show id=TX07_003_0017 speaker=narration
+けれど、倒れた人の背中が目から離れなかった。
+@text show id=TX07_003_0018 speaker=CH_000
+……人が、倒れたのを見ました
+@text show id=TX07_003_0019 speaker=CH_003
+今？
+@text show id=TX07_003_0020 speaker=CH_000
+違う。たぶん、昔。俺が、小さい頃
+@text show id=TX07_003_0021 speaker=narration
+口に出して、初めて意味が分かった。
+@text show id=TX07_003_0022 speaker=narration
+俺は話を聞いて怖くなったのではない。
+@text show id=TX07_003_0023 speaker=narration
+見たことがあるから、怖いのだ。
+@text show id=TX07_003_0024 speaker=CH_000
+十五年前……俺、十二歳で
+@text show id=TX07_003_0025 speaker=narration
+黒川が表情を変えた。
+@text show id=TX07_003_0026 speaker=narration
+驚きより、何かを確かめる時の顔だった。
+@text show id=TX07_003_0027 speaker=narration
+それが嫌で、俺は先に尋ねた。
+@text show id=TX07_003_0028 speaker=CH_000
+三号車で、何があったんですか
+@text show id=TX07_003_0029 speaker=narration
+すずが沙耶を見た。
+@text show id=TX07_003_0030 speaker=narration
+村瀬が彼女たちのそばへ寄り、少し離れた座席側で待つよう促した。
+@text show id=TX07_003_0031 speaker=narration
+聞きたくない人にまで、近くで聞かせなくていい。
+@text show id=TX07_003_0032 speaker=narration
+村瀬がそう考えてくれたのだと分かった。
+@text show id=TX07_003_0033 speaker=narration
+黒川は俺へ視線を戻した。
+@char hide id=ALL
+@wait sync
+@char show id=CH_003 expression=真剣
+@text show id=TX07_003_0034 speaker=CH_003
+犯人の一人を、乗客が止めようとした。その人が切られた
+@text show id=TX07_003_0035 speaker=narration
+さっきの背中が、鮮明になった。
+@text show id=TX07_003_0036 speaker=narration
+俺は座席の縁を握り締めた。
+@text show id=TX07_003_0037 speaker=CH_003
+乗客は五人いた。混乱の中で二人が逃げて、残った人たちが人質になった。三号車では、二人亡くなってる
+@text show id=TX07_003_0038 speaker=CH_000
+黒川さんの、叔父さんは
+@text show id=TX07_003_0039 speaker=CH_003
+逃げられた一人
+@text show id=TX07_003_0040 speaker=narration
+短い説明だった。
+@text show id=TX07_003_0041 speaker=narration
+けれど、あの背中の先に何人もいたことが分かった。
+@text show id=TX07_003_0042 speaker=narration
+一人の記憶だけではない。皆が逃げ、誰かが残された。
+@text show id=TX07_003_0043 speaker=CH_000
+犯人は
+@text show id=TX07_003_0044 speaker=CH_003
+四人いた。三人はその後、警察に捕まった
+@text show id=TX07_003_0045 speaker=CH_000
+……一人は？
+@text show id=TX07_003_0046 speaker=CH_003
+逃げた。未解決の部分があるんだ
+@se play file=S003.dat
+@text show id=TX07_003_0047 speaker=narration
+どこかで金属が鳴った。
+@text show id=TX07_003_0048 speaker=narration
+大庭が手すりを離し、前の扉の近くへ立ち位置を変えた音だった。
+@text show id=TX07_003_0049 speaker=narration
+こちらを急かすこともせず、足場を見ていた。
+@text show id=TX07_003_0050 speaker=CH_000
+俺は……その時、どこにいたんだ
+@text show id=TX07_003_0051 speaker=narration
+独り言のつもりだった。
+@text show id=TX07_003_0052 speaker=narration
+答えを出せる人などいない。
+@text show id=TX07_003_0053 speaker=narration
+なのに綾乃の顔を見ると、胸の奥が急に狭くなった。
+@char hide id=ALL
+@wait sync
+@char show id=CH_001 expression=戸惑い
+@text show id=TX07_003_0054 speaker=CH_001
+私も、一緒にいた？
+@text show id=TX07_003_0055 speaker=narration
+彼女が尋ねた。
+@text show id=TX07_003_0056 speaker=narration
+俺は頷いた。
+@text show id=TX07_003_0057 speaker=narration
+同じ靴の大きさ。同じ高さから見た扉。
+@text show id=TX07_003_0058 speaker=narration
+あの時、俺の隣にいたのは綾乃だった。
+@bgm stop
+@wait sync
+@bgm play file=B009.dat
+@text show id=TX07_003_0059 speaker=CH_000
+二号車だ。俺たち、二号車にいた
+@text show id=TX07_003_0060 speaker=narration
+扉を見て、言葉が続いた。
+@text show id=TX07_003_0061 speaker=CH_000
+男が、こっちから来た。三号車の方から。顔を隠してて……
+@text show id=TX07_003_0062 speaker=narration
+そこで映像が途切れた。
+@text show id=TX07_003_0063 speaker=narration
+男の肩から上だけが、暗い。
+@text show id=TX07_003_0064 speaker=narration
+何度見直そうとしても、同じところで頭が痛くなった。
+@text show id=TX07_003_0065 speaker=CH_000
+顔だけが、まだ、分からない。見ようとしても、出てこないんです
+@text show id=TX07_003_0066 speaker=narration
+声にすると、余計に気持ちが悪かった。
+@text show id=TX07_003_0067 speaker=narration
+男は扉から入った。俺たちを見た。そこまでは言える。
+@text show id=TX07_003_0068 speaker=narration
+その先の自分がどう動いたかは分からない。何をしようとしたのかも、隣の綾乃へ何と声を掛けたのかも。
+@text show id=TX07_003_0069 speaker=narration
+今なら言えるはずの言葉が、記憶の中では音にならなかった。
+@char hide id=ALL
+@wait sync
+@char show id=CH_003 expression=真剣
+@text show id=TX07_003_0070 speaker=CH_003
+それは、俺が話す前から覚えてた？
+@text show id=TX07_003_0071 speaker=CH_000
+いま、出てきたんです。扉を見たら
+@text show id=TX07_003_0072 speaker=narration
+黒川は頷いた。
+@text show id=TX07_003_0073 speaker=narration
+何かを書き留めることも、カメラを向けることもしなかった。
+@text show id=TX07_003_0074 speaker=CH_003
+分からない部分は、そのままでいい。無理に俺の話へ合わせなくていいから
+@text show id=TX07_003_0075 speaker=narration
+黒川が記者だと言った時から、俺は彼を少し疑っていた。
+@text show id=TX07_003_0076 speaker=narration
+黒川も俺の反応を見て、俺がこの場所のことをどこまで知っているのか測っていた。
+@text show id=TX07_003_0077 speaker=narration
+それは今も変わらない。
+@text show id=TX07_003_0078 speaker=narration
+けれど、彼はこちらに都合のいい答えを言わせようとはしなかった。
+@text show id=TX07_003_0079 speaker=CH_000
+昔、頭を怪我して。母と引っ越したんです
+@text show id=TX07_003_0080 speaker=narration
+母が説明した言葉を探した。
+@text show id=TX07_003_0081 speaker=narration
+子どもの頃、大変な事故に巻き込まれた。無理に思い出さなくていい。
+@text show id=TX07_003_0082 speaker=narration
+何度か聞いたはずなのに、それがいつしか、昔の大怪我という一言になっていた。
+@text show id=TX07_003_0083 speaker=CH_000
+それが列車の事件だって、考えたことがなかった
+@text show id=TX07_003_0084 speaker=narration
+普段の生活で困ったことはなかった。
+@text show id=TX07_003_0085 speaker=narration
+仕事の約束も、友人の顔も、昨日の夕飯も覚えている。
+@text show id=TX07_003_0086 speaker=narration
+だから、自分に大事なものが欠けているとは思わなかった。
+@text show id=TX07_003_0087 speaker=narration
+母の話を疑う理由もなかった。
+@text show id=TX07_003_0088 speaker=narration
+引っ越した後には新しい学校があり、覚える顔や道が増えた。昔のことを尋ねられても、十二歳より前に暮らした町があったと話せば済んだ。
+@text show id=TX07_003_0089 speaker=narration
+誰も、あの夜のことだけを指定して聞きはしない。
+@text show id=TX07_003_0090 speaker=CH_000
+忘れてたんじゃなくて……聞かないで済ませてたのかも
+@text show id=TX07_003_0091 speaker=narration
+黒川は答えを決めなかった。
+@text show id=TX07_003_0092 speaker=narration
+目の前の俺を見て、静かに聞いていた。
+@text show id=TX07_003_0093 speaker=CH_000
+母に聞けば、話してくれたのかな
+@text show id=TX07_003_0094 speaker=CH_003
+それは、お母さんに聞いた方がいい
+@text show id=TX07_003_0095 speaker=narration
+そう言われて、初めて、帰ってからできることを考えた。
+@text show id=TX07_003_0096 speaker=narration
+母が知っていたことを、今ここで他人に推し量ってもらっても答えは出ない。
+@text show id=TX07_003_0097 speaker=narration
+家へ帰り、母の顔を見て、自分から尋ねなければならないのだ。
+@char hide id=ALL
+@wait sync
+@char show id=CH_006 expression=基本
+@text show id=TX07_003_0098 speaker=CH_006
+帰ってから話せるように、今は身体を大事にしてください
+@text show id=TX07_003_0099 speaker=narration
+離れた所から、村瀬が言った。
+@text show id=TX07_003_0100 speaker=narration
+俺は頷き、座席の背から手を離した。
+@text show id=TX07_003_0101 speaker=narration
+さっきまでは、何も分からなくなるくらい頭を振りたかった。
+@text show id=TX07_003_0102 speaker=narration
+今は、どれほど断片的でも、戻ったものを失くしたくなかった。
+@char hide id=ALL
+@wait sync
+@char show id=CH_001 expression=決意
+@text show id=TX07_003_0103 speaker=narration
+綾乃が俺の手のそばへ指を置いた。
+@text show id=TX07_003_0104 speaker=narration
+触れるか迷い、座席の縁を同じように掴んだ。
+@text show id=TX07_003_0105 speaker=CH_001
+私も、先を見たい。何があったのか
+@text show id=TX07_003_0106 speaker=narration
+自分の記憶にも、空白があると分かった顔だった。
+@text show id=TX07_003_0107 speaker=narration
+その先を知れば、なぜ俺が忘れたのか分かるのかもしれない。
+@text show id=TX07_003_0108 speaker=narration
+彼女がどこへ行き、その後どうしていたのかも。
+@text show id=TX07_003_0109 speaker=narration
+俺は頷いて立った。
+@scene end id=SC07_003
+@scene start id=SC07_004
+@bg show id=BG_018
+@char hide id=ALL
+@location show text="三号車前方／二号車手前"
+@text show id=TX07_004_0001 speaker=narration
+二号車へ近づくにつれ、床の破れが増えた。
+@text show id=TX07_004_0002 speaker=narration
+通路を塞ぐほどではないが、剥がれた床材の下に、濡れた金属や土が覗いている。
+@text show id=TX07_004_0003 speaker=narration
+車体の継ぎ目も少しねじれ、手すりの高さが揃っていなかった。
+@char show id=CH_002 expression=基本
+@text show id=TX07_004_0004 speaker=narration
+大庭が入口の脇で、通り道を確かめていた。
+@text show id=TX07_004_0005 speaker=CH_002
+こっち、踏めると思います。真ん中は、少し……
+@text show id=TX07_004_0006 speaker=narration
+言いながら後ろへ足を引いた。
+@text show id=TX07_004_0007 speaker=narration
+踵が小さな破片を踏んだ。
+@char hide id=ALL
+@se play file=S003.dat
+@text show id=TX07_004_0008 speaker=narration
+大庭の身体が低い側へ傾き、伸ばした手が支柱を外した。
+@text show id=TX07_004_0009 speaker=CH_006
+危ない
+@text show id=TX07_004_0010 speaker=narration
+すぐ後ろにいた村瀬が腕を掴んだ。
+@text show id=TX07_004_0011 speaker=narration
+大庭は踏みとどまった。
+@text show id=TX07_004_0012 speaker=narration
+その分、引かれた村瀬の足が、剥がれた床の縁へ落ちた。
+@effect play id=shake
+@se play file=S001.dat
+@text show id=TX07_004_0013 speaker=narration
+鈍い音がした。
+@text show id=TX07_004_0014 speaker=narration
+村瀬が息を詰め、膝をついた。
+@text show id=TX07_004_0015 speaker=CH_002
+あっ……すみません！　すみません、大丈夫ですか
+@text show id=TX07_004_0016 speaker=narration
+大庭はすぐしゃがみ込んだ。
+@text show id=TX07_004_0017 speaker=narration
+俺も近づき、村瀬の肩を支えた。
+@text show id=TX07_004_0018 speaker=narration
+左足首が、不自然な向きで床材の間に挟まっている。
+@char show id=CH_005 expression=真剣
+@text show id=TX07_004_0019 speaker=CH_005
+動かす前に見せて。相沢さん、そのまま支えてください
+@text show id=TX07_004_0020 speaker=narration
+沙耶が足元を照らした。
+@text show id=TX07_004_0021 speaker=narration
+村瀬は返事をしたが、口元から色が引いていた。
+@text show id=TX07_004_0022 speaker=CH_006
+足を、少し。……大庭さん、立てますか
+@text show id=TX07_004_0023 speaker=CH_002
+私は、はい。でも、あなたが
+@text show id=TX07_004_0024 speaker=CH_006
+それなら、よかった
+@text show id=TX07_004_0025 speaker=narration
+よくはなかった。
+@text show id=TX07_004_0026 speaker=narration
+沙耶に促されて足を抜いた後も、村瀬はしばらく立ち上がれなかった。
+@text show id=TX07_004_0027 speaker=narration
+すずが隣へ来ようとして、途中で止まった。
+@char hide id=ALL
+@wait sync
+@char show id=CH_007 expression=不安
+@text show id=TX07_004_0028 speaker=CH_007
+村瀬さん……
+@text show id=TX07_004_0029 speaker=narration
+村瀬は彼女の方へ顔を向けた。
+@text show id=TX07_004_0030 speaker=narration
+安心させるように笑いかけたが、足を置き直すと、その笑みが途切れた。
+@text show id=TX07_004_0031 speaker=narration
+その途切れ方を見て、すずの顔がさらに強張った。
+@text show id=TX07_004_0032 speaker=narration
+沙耶が俺と黒川を呼んだ。
+@text show id=TX07_004_0033 speaker=narration
+声は低かったが、村瀬本人にも聞こえる距離だった。
+@text show id=TX07_004_0034 speaker=CH_005
+支えがあれば歩けると思います。でも、このまま先へは行けません
+@text show id=TX07_004_0035 speaker=narration
+二号車の入口の向こうに、白いものが見えた。
+@text show id=TX07_004_0036 speaker=narration
+最初は布かと思った。
+@text show id=TX07_004_0037 speaker=narration
+光を当てると、重なった花びらだった。
+@text show id=TX07_004_0038 speaker=narration
+記憶の先が、その中にある気がした。
+@text show id=TX07_004_0039 speaker=narration
+けれど村瀬は、今、俺の肩につかまっている。
+@text show id=TX07_004_0040 speaker=narration
+その腕の重さは、思い出ではなかった。
+@char hide id=ALL
+@bgm stop
+@wait sync
+@char show id=CH_001 expression=戸惑い
+@bgm play file=B006.dat
+@text show id=TX07_004_0041 speaker=CH_000
+七号車へ戻りましょう。俺が送ります
+@text show id=TX07_004_0042 speaker=narration
+綾乃が俺を見た。
+@text show id=TX07_004_0043 speaker=narration
+俺は先に頷いた。
+@text show id=TX07_004_0044 speaker=narration
+一緒に続きを見たい。その気持ちは消えていない。
+@text show id=TX07_004_0045 speaker=narration
+ただ、今は、こっちだった。
+@text show id=TX07_004_0046 speaker=CH_006
+相沢さんまで、戻ってもらうのは
+@text show id=TX07_004_0047 speaker=CH_000
+俺が村瀬さんを支えます。桐生さんには、足の状態を見てもらわないと
+@text show id=TX07_004_0048 speaker=narration
+黒川も肩を貸そうとしたが、俺は手を上げた。
+@text show id=TX07_004_0049 speaker=CH_000
+前の確認をお願いします。運転台が使えるなら、早い方がいいから
+@text show id=TX07_004_0050 speaker=narration
+黒川は俺の顔を見た後、短く頷いた。
+@char hide id=ALL
+@text show id=TX07_004_0051 speaker=narration
+七号車へ戻るのは、村瀬、沙耶、俺。
+@text show id=TX07_004_0052 speaker=narration
+綾乃、黒川、すず、大庭は前に残る。
+@char show id=CH_007 expression=不安
+@text show id=TX07_004_0053 speaker=CH_007
+私も、戻ります。邪魔には、ならないように
+@text show id=TX07_004_0054 speaker=narration
+すずの声が揺れた。
+@text show id=TX07_004_0055 speaker=narration
+村瀬は身体を俺に預けながら、彼女へ手を差し出した。
+@text show id=TX07_004_0056 speaker=narration
+すずがその手に触れる。
+@text show id=TX07_004_0057 speaker=CH_006
+邪魔だなんて思いません。ただ、ここからは、前へ行く人についていてください
+@text show id=TX07_004_0058 speaker=CH_007
+でも
+@text show id=TX07_004_0059 speaker=CH_005
+私たちは久我さんのところへ戻るわ。宮野さんは、先で助けを呼ぶ物を見つけたら教えて
+@text show id=TX07_004_0060 speaker=narration
+すずは、二人の顔を交互に見た。
+@text show id=TX07_004_0061 speaker=narration
+黒川が急かさず、すぐそばで待っていた。
+@text show id=TX07_004_0062 speaker=narration
+彼女はその姿を見て、ようやく手を離した。
+@char hide id=ALL
+@text show id=TX07_004_0063 speaker=narration
+前へ進む四人の中から、村瀬の声がなくなる。
+@text show id=TX07_004_0064 speaker=narration
+まだ別れる前なのに、それがどれほど心細いことか、俺にも分かった。
+@scene end id=SC07_004
+@chapter end id=CH07
+
+@chapter start id=CH08 title="第八章　戻る道"
+@textbox hide
+@scene start id=SC08_001
+@bg hide
+@wait sync
+@bg show id=BG_009 transition=fade duration_ms=1000
+@chapter_title show chapter="第八章" title="戻る道"
+@wait sync
+@location show text="三号車／七号車へ戻る道"
+@textbox show
+@text show id=TX08_001_0001 speaker=narration
+村瀬の身体を支えると、コート越しにも緊張が伝わった。
+@text show id=TX08_001_0002 speaker=narration
+本人が思っているより、痛みは強いのだと思う。
+@text show id=TX08_001_0003 speaker=narration
+それでも村瀬は自分で歩こうとし、左足を下ろすたびに息を短くした。
+@text show id=TX08_001_0004 speaker=CH_000
+こっちへ、もっと預けてください
+@text show id=TX08_001_0005 speaker=CH_006
+すみませんね
+@text show id=TX08_001_0006 speaker=CH_005
+一歩、待って。次はそこを避けます
+@text show id=TX08_001_0007 speaker=narration
+沙耶が斜めの床へライトを当てた。
+@text show id=TX08_001_0008 speaker=narration
+行きには跨げた隙間も、今は片足ずつ止まらなければ越えられない。
+@text show id=TX08_001_0009 speaker=narration
+村瀬の右手は俺の肩、左手は残っている支柱へ掛かっている。
+@text show id=TX08_001_0010 speaker=narration
+俺が先に安定して立ち、村瀬が踏み出し、その後で沙耶が足の置き方を見ながら続く。
+@text show id=TX08_001_0011 speaker=narration
+二歩進んで、一度止まった。
+@text show id=TX08_001_0012 speaker=narration
+村瀬が謝りかけ、沙耶が首を振る。
+@text show id=TX08_001_0013 speaker=CH_005
+その速さでいいです。歩幅を大きくしないで
+@text show id=TX08_001_0014 speaker=narration
+俺も急がなかった。
+@text show id=TX08_001_0015 speaker=narration
+後ろでは綾乃たちの声が遠くなっていく。
+@text show id=TX08_001_0016 speaker=narration
+振り返らず、村瀬の呼吸に合わせた。
+@text show id=TX08_001_0017 speaker=narration
+倒れた座席が、行く手へ張り出していた。
+@text show id=TX08_001_0018 speaker=narration
+行きには低い側を回ったが、村瀬を支えたままでは危ない。
+@text show id=TX08_001_0019 speaker=narration
+沙耶が高い側の狭い隙間を見つけ、そこを通るため、俺たちはいったん壁へ寄った。
+@text show id=TX08_001_0020 speaker=narration
+その時、靴が何か柔らかいものに触れた。
+@text show id=TX08_001_0021 speaker=CH_000
+……鞄
+@text show id=TX08_001_0022 speaker=narration
+座席の下に、古い通勤鞄が挟まっていた。
+@text show id=TX08_001_0023 speaker=narration
+黒い革の表面が剥げ、片方の持ち手が床へ垂れている。
+@text show id=TX08_001_0024 speaker=narration
+俺が避けようとすると、半開きの口から小さなパスケースが滑り出た。
+@text show id=TX08_001_0025 speaker=CH_006
+足元ですか
+@text show id=TX08_001_0026 speaker=CH_000
+はい。少し、待ってください
+@text show id=TX08_001_0027 speaker=narration
+村瀬を残った座席へ寄せ、支柱を持ってもらった。
+@text show id=TX08_001_0028 speaker=narration
+俺は足元の物を拾い、沙耶のライトへかざした。
+@bgm stop
+@wait sync
+@overlay show id=I002
+@bgm play file=B003.dat
+@text show id=TX08_001_0029 speaker=narration
+傷んだ透明な面の内側に、定期券が残っている。
+@text show id=TX08_001_0030 speaker=narration
+読み取れたのは、一部だけだった。
+@text show id=TX08_001_0031 speaker=narration
+薄れた日付と、名字。
+@text show id=TX08_001_0032 speaker=narration
+日付は、今から十五年ほど前。
+@text show id=TX08_001_0033 speaker=narration
+黒川。
+@wait beat
+@text show id=TX08_001_0034 speaker=narration
+俺は顔を上げた。
+@text show id=TX08_001_0035 speaker=narration
+黒川が言った、座席に置いたまま逃げた鞄。
+@text show id=TX08_001_0036 speaker=narration
+三号車から逃げた叔父。
+@text show id=TX08_001_0037 speaker=CH_005
+同じ姓ね
+@text show id=TX08_001_0038 speaker=CH_000
+……黒川さんの、話に
+@text show id=TX08_001_0039 speaker=narration
+ぴったり当てはまると思った瞬間、手の中の物が急に重くなった。
+@text show id=TX08_001_0040 speaker=narration
+単に昔の事件に似ているのではない。
+@text show id=TX08_001_0041 speaker=narration
+誰かがここで生きていた証が、まだ座席の下に挟まっている。
+@text show id=TX08_001_0042 speaker=CH_006
+ご本人の物かは、分かりませんね
+@text show id=TX08_001_0043 speaker=CH_000
+はい。でも、黒川さんに見せたい
+@se play file=S005.dat
+@text show id=TX08_001_0044 speaker=narration
+俺は状態が分かるよう携帯で一枚だけ撮り、パスケースを元の鞄へ戻した。
+@overlay hide
+@text show id=TX08_001_0045 speaker=narration
+持ち歩いて途中で落とすより、ここにあると伝える方がよかった。
+@text show id=TX08_001_0046 speaker=narration
+足へ絡まないよう持ち手を寄せ、もう一度、座席の位置を覚えた。
+@text show id=TX08_001_0047 speaker=narration
+沙耶は何も言わず、ライトを足元へ戻した。
+@text show id=TX08_001_0048 speaker=narration
+村瀬が立つのを、二人で支えた。
+@text show id=TX08_001_0049 speaker=narration
+さっきまで怖くて見られなかった赤茶色の跡を、俺は避けながら歩いた。
+@text show id=TX08_001_0050 speaker=narration
+そこには、本当に人がいた。
+@text show id=TX08_001_0051 speaker=narration
+俺も、その一人だった。
+@scene end id=SC08_001
+@scene start id=SC08_002
+@bgm stop
+@wait sync
+@bgm play file=B006.dat
+@location show text="三号車・四号車の連結部／休憩"
+@text show id=TX08_002_0001 speaker=narration
+四号車へ入る前に、一度長く休んだ。
+@text show id=TX08_002_0002 speaker=narration
+村瀬の重みを受け続けた肩が痺れている。
+@text show id=TX08_002_0003 speaker=narration
+俺が腕を回そうとすると、村瀬がすぐに気づいた。
+@text show id=TX08_002_0004 speaker=CH_006
+重いでしょう
+@text show id=TX08_002_0005 speaker=CH_000
+大丈夫です。持ち方を変えるだけです
+@text show id=TX08_002_0006 speaker=CH_006
+大丈夫でも、変えてください。そちらまで痛めたら困ります
+@text show id=TX08_002_0007 speaker=narration
+沙耶が俺の反対側へ回り、一時的に村瀬の身体を支えた。
+@text show id=TX08_002_0008 speaker=narration
+俺は指を開いたり閉じたりしてから、もう一度肩を入れた。
+@ambient stop
+@wait sync
+@bg show id=BG_010
+@ambient play file=A002.dat volume=0.7
+@text show id=TX08_002_0009 speaker=narration
+目の前の四号車は、来た時とは違って見えた。
+@text show id=TX08_002_0010 speaker=narration
+先ほどは水が低い奥へ流れていくのを追った。
+@text show id=TX08_002_0011 speaker=narration
+戻る今は、その流れに逆らって、高い入口側を目指すことになる。
+@text show id=TX08_002_0012 speaker=narration
+足元へ回り込んだ側壁は濡れていて、村瀬の左足を安心して下ろせる面が狭かった。
+@text show id=TX08_002_0013 speaker=CH_005
+一人ずつ確かめます。相沢さんは、その支柱を。村瀬さん、体重を乗せるのは合図してから
+@location show text="四号車／搬送"
+@text show id=TX08_002_0014 speaker=narration
+俺が高い側の手すりを掴んだ。
+@text show id=TX08_002_0015 speaker=narration
+村瀬の肩を受けながら、靴底を壁と床の境に当てる。
+@text show id=TX08_002_0016 speaker=narration
+沙耶は少し低い側から、村瀬の身体が流れないよう支えた。
+@text show id=TX08_002_0017 speaker=narration
+水が靴先へ落ちた。
+@text show id=TX08_002_0018 speaker=narration
+綾乃と見た時には光っていた流れが、今は足を滑らせるものに見える。
+@text show id=TX08_002_0019 speaker=narration
+同じ場所だ。俺が支えているものが変わっただけだった。
+@text show id=TX08_002_0020 speaker=narration
+村瀬が右足へ重みを移した。
+@text show id=TX08_002_0021 speaker=narration
+俺たちも動く。
+@text show id=TX08_002_0022 speaker=narration
+左足を浮かせる間、重さが腕へかかった。
+@text show id=TX08_002_0023 speaker=CH_000
+はい。もう、一歩
+@text show id=TX08_002_0024 speaker=narration
+一つの支柱を越えただけで、息が上がった。
+@text show id=TX08_002_0025 speaker=narration
+沙耶が次の足場を照らし、村瀬に短く声を掛ける。
+@text show id=TX08_002_0026 speaker=narration
+俺たちは流れを跨ぐ時だけ止まり、ほかは同じ呼吸を繰り返した。
+@text show id=TX08_002_0027 speaker=narration
+途中、村瀬が顔を上げた。
+@text show id=TX08_002_0028 speaker=CH_006
+昔、子どもと歩く時にね。早くしなさいと、よく言っていました
+@text show id=TX08_002_0029 speaker=narration
+何の話かと思った。
+@text show id=TX08_002_0030 speaker=narration
+村瀬は次に掴む所を見たまま、少し笑った。
+@text show id=TX08_002_0031 speaker=CH_006
+自分は待っているつもりでも、二歩先で振り返っている。子どもの方は、それでまた急ぐんです
+@text show id=TX08_002_0032 speaker=CH_000
+……今は、待てるようになったんですか
+@text show id=TX08_002_0033 speaker=CH_006
+ええ。遅れてから分かることもありますね
+@text show id=TX08_002_0034 speaker=narration
+俺たちはそこで止まった。
+@text show id=TX08_002_0035 speaker=narration
+村瀬が息を整える間、先へは行かなかった。
+@text show id=TX08_002_0036 speaker=narration
+二歩先で待つのでなく、隣にいた。
+@char show id=CH_005 expression=疲労
+@text show id=TX08_002_0037 speaker=narration
+連結部まで戻った時、沙耶が壁へ背中を預けた。
+@text show id=TX08_002_0038 speaker=narration
+すぐ次へ行くつもりだったらしいが、息を吐いて、そのまま目を閉じた。
+@text show id=TX08_002_0039 speaker=CH_005
+……少しだけ、待ってください
+@text show id=TX08_002_0040 speaker=CH_000
+はい
+@text show id=TX08_002_0041 speaker=narration
+返事をすると、彼女は気まずそうに笑った。
+@text show id=TX08_002_0042 speaker=CH_005
+休んでって言う方に回ってると、自分で言うのが遅くなるわね
+@text show id=TX08_002_0043 speaker=CH_006
+待ちますよ。二歩先へは行けませんし
+@text show id=TX08_002_0044 speaker=narration
+沙耶が短く笑った。
+@char hide id=ALL
+@text show id=TX08_002_0045 speaker=narration
+村瀬は、笑った拍子に痛む足へ力を入れてしまったらしく、眉を寄せた。
+@text show id=TX08_002_0046 speaker=narration
+すぐ何でもないという顔へ戻そうとしたが、沙耶がその足を見た。
+@text show id=TX08_002_0047 speaker=CH_005
+痛い時は、顔に出してもらった方が分かります。安心させようとしなくていいですから
+@text show id=TX08_002_0048 speaker=CH_006
+……癖になっているんでしょうね
+@text show id=TX08_002_0049 speaker=narration
+村瀬は一度、唇を結んだ。
+@text show id=TX08_002_0050 speaker=narration
+それから俺へ顔を向けた。
+@text show id=TX08_002_0051 speaker=CH_006
+怖いものですよ。自分の足で歩けなくなると
+@text show id=TX08_002_0052 speaker=narration
+その声を聞いて、俺は村瀬にも怖さがあることを、初めて実感した。
+@text show id=TX08_002_0053 speaker=narration
+いつも人を待ち、落ち着いた声を掛けていたので、自分はこの人よりずっと不安なのだと思っていた。
+@text show id=TX08_002_0054 speaker=CH_000
+七号車まで、支えます。途中で止まりたかったら、言ってください
+@text show id=TX08_002_0055 speaker=CH_006
+ええ。言います
+@text show id=TX08_002_0056 speaker=narration
+村瀬は素直に答えた。
+@text show id=TX08_002_0057 speaker=narration
+俺の肩へ預ける重みが、少し増えた。
+@text show id=TX08_002_0058 speaker=narration
+それで、かえって歩く準備がしやすくなった。こちらへ任せる分が分かれば、俺も腰を入れ直せる。
+@text show id=TX08_002_0059 speaker=narration
+沙耶の疲れが消えたわけではない。額の髪を払う手にも力がなかった。
+@text show id=TX08_002_0060 speaker=narration
+俺は沙耶が呼吸を整えるまで、村瀬の身体を受けたまま待った。
+@scene end id=SC08_002
+@scene start id=SC08_003
+@ambient stop
+@wait sync
+@bg show id=BG_006
+@ambient play file=A001.dat volume=0.5
+@location show text="五号車・六号車／搬送経路"
+@text show id=TX08_003_0001 speaker=narration
+五号車と六号車では、来た時に確かめた支えを使った。
+@text show id=TX08_003_0002 speaker=narration
+傾きの向きが変わるたび、立ち止まって持ち方を直したが、もう皆で同じ所を探し直す必要はなかった。
+@bg show id=BG_005 image=fallen
+@text show id=TX08_003_0003 speaker=narration
+焦げ跡を通り過ぎ、岩の下を避けた。
+@text show id=TX08_003_0004 speaker=narration
+七号車のまっすぐな窓が見えた時、三人とも、ほぼ同時に息をついた。
+@scene end id=SC08_003
+@scene start id=SC08_004
+@bgm stop
+@wait sync
+@bg show id=BG_004
+@bgm play file=B010.dat
+@ambient play file=A001.dat volume=0.3
+@location show text="七号車／待機場所"
+@text show id=TX08_004_0001 speaker=narration
+久我は、まだ同じ座席にいた。
+@text show id=TX08_004_0002 speaker=narration
+扉が開くと顔を向け、最初に沙耶を呼んだ。
+@text show id=TX08_004_0003 speaker=CH_004
+……遅えよ
+@text show id=TX08_004_0004 speaker=CH_005
+聞こえた。戻ったわ
+@text show id=TX08_004_0005 speaker=narration
+久我はそれ以上、沙耶を責めなかった。
+@text show id=TX08_004_0006 speaker=narration
+沙耶は俺と二人で村瀬を座らせてから、久我の側へ膝をついた。
+@text show id=TX08_004_0007 speaker=narration
+返事の調子、顔色、脚の状態を確かめ、必要な物を手元へ集めていく。
+@text show id=TX08_004_0008 speaker=narration
+久我は村瀬を見た。
+@text show id=TX08_004_0009 speaker=CH_004
+そっちも、やられたのかよ
+@text show id=TX08_004_0010 speaker=CH_006
+足を少し。しばらく、隣で休ませてください
+@text show id=TX08_004_0011 speaker=narration
+久我は答えなかった。
+@text show id=TX08_004_0012 speaker=narration
+けれど、村瀬が座ったことを何度も確かめていた。
+@text show id=TX08_004_0013 speaker=narration
+一人で残っていた間、どれほど長く感じたのだろう。
+@char show id=CH_005 expression=真剣
+@text show id=TX08_004_0014 speaker=narration
+沙耶が二人の間へ鞄を置いた。
+@text show id=TX08_004_0015 speaker=CH_005
+私はここに残ります
+@text show id=TX08_004_0016 speaker=narration
+尋ねる口調ではなかった。
+@text show id=TX08_004_0017 speaker=CH_005
+二人を置いて、もう一度先へは行けない。相沢さん、助けを呼べるものがあったら、ここへつなげて
+@text show id=TX08_004_0018 speaker=CH_000
+分かりました
+@char hide id=ALL
+@text show id=TX08_004_0019 speaker=narration
+村瀬は痛む足を動かさず、俺を見上げた。
+@text show id=TX08_004_0020 speaker=CH_006
+戻るんですね
+@text show id=TX08_004_0021 speaker=narration
+俺は前の扉を見た。
+@text show id=TX08_004_0022 speaker=narration
+ここにいれば、足元は安定している。
+@text show id=TX08_004_0023 speaker=narration
+沙耶もいる。村瀬の声も聞こえる。
+@text show id=TX08_004_0024 speaker=narration
+怖い思いをしてまで戻らなくても、黒川たちが何か見つけてくれるかもしれない。
+@text show id=TX08_004_0025 speaker=narration
+だが、俺は続きを知りたかった。
+@text show id=TX08_004_0026 speaker=narration
+綾乃だけに、あの夜の先を見せたくなかった。
+@text show id=TX08_004_0027 speaker=CH_000
+はい。俺も、知りたいことがあるから
+@text show id=TX08_004_0028 speaker=narration
+村瀬は止めなかった。
+@text show id=TX08_004_0029 speaker=narration
+俺の手を一度握り、離した。
+@text show id=TX08_004_0030 speaker=CH_006
+宮野さんのこと、お願いします。あなたは、嫌な思いをした相手でも運んでくれた。任せられると思いました
+@text show id=TX08_004_0031 speaker=narration
+久我がこちらを見た。
+@text show id=TX08_004_0032 speaker=narration
+俺はその視線を受け、村瀬へ頷いた。
+@text show id=TX08_004_0033 speaker=CH_000
+一人にはしません
+@char show id=CH_005 expression=基本
+@text show id=TX08_004_0034 speaker=narration
+沙耶が、俺の濡れた袖を見た。
+@text show id=TX08_004_0035 speaker=CH_005
+あなたも、助けが要る時は言うのよ。支える人ばかり、足元を見なくなるから
+@text show id=TX08_004_0036 speaker=narration
+俺はもう一度頷いた。
+@char hide id=ALL
+@text show id=TX08_004_0037 speaker=narration
+七号車の前で、三人のいる場所を振り返る。
+@text show id=TX08_004_0038 speaker=narration
+村瀬が片手を上げた。沙耶は久我に話しかけている。
+@text show id=TX08_004_0039 speaker=narration
+人の声がある場所だった。
+@text show id=TX08_004_0040 speaker=narration
+そこを、自分で離れた。
+@scene end id=SC08_004
+@scene start id=SC08_005
+@bgm stop
+@wait sync
+@bg show id=BG_005 image=fallen
+@bgm play file=B001.dat
+@ambient play file=A001.dat volume=0.5
+@location show text="六号車／一人で前方へ"
+@text show id=TX08_005_0001 speaker=narration
+六号車へ入ると、岩の影が前より濃く見えた。
+@text show id=TX08_005_0002 speaker=narration
+一人なら身軽なはずなのに、足を出すまでに時間がかかった。
+@text show id=TX08_005_0003 speaker=narration
+背後へ声を掛けても、今度は隣から返事がない。
+@text show id=TX08_005_0004 speaker=narration
+俺は支柱を握り直した。
+@text show id=TX08_005_0005 speaker=narration
+怖くなくなったわけではない。
+@text show id=TX08_005_0006 speaker=narration
+怖くても、戻る方を選んだのだ。
+@text show id=TX08_005_0007 speaker=narration
+その選択を、足の裏でもう一度確かめながら、前へ進んだ。
+@scene end id=SC08_005
+@chapter end id=CH08
+
+@chapter start id=CH09 title="第九章　同じ水、違う夜"
+@textbox hide
+@scene start id=SC09_001
+@bg hide
+@wait sync
+@bg show id=BG_006 transition=fade duration_ms=1000
+@chapter_title show chapter="第九章" title="同じ水、違う夜"
+@wait sync
+@location show text="五号車／前方へ戻る途中"
+@textbox show
+@text show id=TX09_001_0001 speaker=narration
+五号車へ入ったところで、身体が止まった。
+@text show id=TX09_001_0002 speaker=narration
+行く時は黒川の背中があった。
+@text show id=TX09_001_0003 speaker=narration
+戻る時は、村瀬の重みがあった。
+@text show id=TX09_001_0004 speaker=narration
+今は自分の呼吸が、やけに大きく聞こえる。
+@text show id=TX09_001_0005 speaker=narration
+焼けた座席の向こうを、ライトで照らした。
+@text show id=TX09_001_0006 speaker=narration
+誰もいない。
+@text show id=TX09_001_0007 speaker=narration
+いないと分かった後も、すぐには足が動かなかった。
+@effect play id=fade
+@text show id=TX09_001_0008 speaker=narration
+『顔を——』
+@text show id=TX09_001_0009 speaker=narration
+言葉の途中だけが浮かんだ。
+@text show id=TX09_001_0010 speaker=narration
+知らない男の腕が上がる。
+@text show id=TX09_001_0011 speaker=narration
+俺は頭をかばいかけ、今の自分が片手を離そうとしていることに気づいた。
+@text show id=TX09_001_0012 speaker=narration
+慌てて支柱を握り直す。
+@text show id=TX09_001_0013 speaker=narration
+思い出そうとしている間に、今の足を踏み外す。
+@text show id=TX09_001_0014 speaker=narration
+そんなことになったら、沙耶に言われた通りだ。
+@text show id=TX09_001_0015 speaker=narration
+息をゆっくり吐き、まず一歩だけ動いた。
+@char show id=CH_001 expression=基本
+@text show id=TX09_001_0016 speaker=CH_001
+直人
+@text show id=TX09_001_0017 speaker=narration
+前から名前を呼ばれた。
+@text show id=TX09_001_0018 speaker=narration
+俺は勢いよくライトを向けてしまった。
+@text show id=TX09_001_0019 speaker=narration
+綾乃が手で目をかばう。
+@text show id=TX09_001_0020 speaker=CH_000
+あ、ごめん
+@text show id=TX09_001_0021 speaker=CH_001
+びっくりした。私
+@text show id=TX09_001_0022 speaker=narration
+聞き慣れた言い方だった。
+@text show id=TX09_001_0023 speaker=narration
+今夜会ったばかりなのに、そう思った。
+@text show id=TX09_001_0024 speaker=CH_000
+どうしたの。前で待ってるかと
+@text show id=TX09_001_0025 speaker=CH_001
+迎えに来たの。二人はちゃんと着いた？
+@text show id=TX09_001_0026 speaker=CH_000
+うん。桐生さんが残ってくれる
+@char change id=CH_001 expression=微笑み
+@text show id=TX09_001_0027 speaker=CH_001
+よかった……
+@text show id=TX09_001_0028 speaker=narration
+彼女の肩が下がった。
+@text show id=TX09_001_0029 speaker=narration
+俺が見えなかった間、向こうでも心配していたのだ。
+@text show id=TX09_001_0030 speaker=CH_000
+黒川さんたちは
+@text show id=TX09_001_0031 speaker=CH_001
+二号車の手前。私が来ることも伝えた。すずちゃんは、黒川さんのそばにいる
+@text show id=TX09_001_0032 speaker=narration
+俺は頷いた。
+@text show id=TX09_001_0033 speaker=narration
+綾乃が無断で一人になったわけではないと分かり、少し安心した。
+@text show id=TX09_001_0034 speaker=CH_000
+ありがとう。でも、この辺、一人は危ないよ
+@text show id=TX09_001_0035 speaker=CH_001
+直人も一人だったでしょう
+@text show id=TX09_001_0036 speaker=narration
+返す言葉がなかった。
+@text show id=TX09_001_0037 speaker=narration
+綾乃は少しだけ眉を上げたが、それ以上責めず、俺がいる側へ足を運んだ。
+@text show id=TX09_001_0038 speaker=CH_001
+戻ってこないかもしれないと思ったわけじゃないよ。ただ、一人で歩くの、嫌だろうなって
+@text show id=TX09_001_0039 speaker=narration
+まさに今、嫌だった。
+@text show id=TX09_001_0040 speaker=narration
+そのことを見抜かれた気恥ずかしさより、来てくれた安堵の方が大きかった。
+@text show id=TX09_001_0041 speaker=CH_000
+……うん。嫌だった
+@bgm stop
+@wait sync
+@bgm play file=B011.dat
+@text show id=TX09_001_0042 speaker=CH_001
+じゃあ、来てよかった
+@text show id=TX09_001_0043 speaker=narration
+彼女は来た方へ向き直った。
+@text show id=TX09_001_0044 speaker=narration
+道を教えるほど先へは出ず、俺が手すりを持ち替えるのを待つ。
+@text show id=TX09_001_0045 speaker=narration
+俺たちは並び切れない車内を、半歩ずれて進んだ。
+@text show id=TX09_001_0046 speaker=narration
+綾乃が高い側の座席へぶつかりかけ、コートの裾を押さえた。
+@text show id=TX09_001_0047 speaker=CH_001
+こんな所に来るって分かってたら、もっと歩きやすい靴にした
+@text show id=TX09_001_0048 speaker=CH_000
+普通は、列車の壁を歩かないからね
+@text show id=TX09_001_0049 speaker=narration
+綾乃が小さく吹き出した。
+@text show id=TX09_001_0050 speaker=narration
+笑った後、すぐに唇を引き結ぶ。
+@text show id=TX09_001_0051 speaker=narration
+俺も同じだった。笑ってはいけないと思うほど、笑いが喉へ残った。
+@text show id=TX09_001_0052 speaker=CH_000
+何もない帰り道だったらよかったのに
+@text show id=TX09_001_0053 speaker=CH_001
+うん。私は、本当はパンを買って帰るつもりだった
+@text show id=TX09_001_0054 speaker=narration
+意外なほど普通の言葉だった。
+@text show id=TX09_001_0055 speaker=narration
+焦げた座席から目を離し、俺は彼女を見た。
+@text show id=TX09_001_0056 speaker=CH_000
+パン？
+@text show id=TX09_001_0057 speaker=CH_001
+仕事の帰りに寄るお店があるの。遅いと好きなのが売り切れるから、今日は少し急いでた
+@text show id=TX09_001_0058 speaker=narration
+綾乃は支えを確かめながら話した。
+@text show id=TX09_001_0059 speaker=narration
+駅前から少し外れた所にある小さなパン屋で、金曜は仕事帰りに寄ることが多いという。
+@text show id=TX09_001_0060 speaker=narration
+買うのは、クリームの入った丸いパン。
+@text show id=TX09_001_0061 speaker=CH_001
+一個でいいと思って行くのに、焼き立てが出てると、違うのも買っちゃう
+@text show id=TX09_001_0062 speaker=CH_000
+翌朝の分ってことにして？
+@text show id=TX09_001_0063 speaker=CH_001
+そう。それで、朝まで残らないことがある
+@text show id=TX09_001_0064 speaker=narration
+今度はためらわず笑った。
+@text show id=TX09_001_0065 speaker=narration
+綾乃も笑い、濡れた髪を肩の後ろへ払った。
+@text show id=TX09_001_0066 speaker=narration
+その仕草も、パンを選んで迷うところも、十二歳の彼女のままではない。
+@text show id=TX09_001_0067 speaker=CH_000
+どんな味なの
+@text show id=TX09_001_0068 speaker=CH_001
+普通のクリームパンなんだけど……甘すぎなくて。パンの端まで入ってるのが好き
+@text show id=TX09_001_0069 speaker=CH_000
+大事だね。端だけ残ると、ちょっと寂しい
+@text show id=TX09_001_0070 speaker=CH_001
+分かる？
+@text show id=TX09_001_0071 speaker=narration
+彼女が嬉しそうにこちらを見た。
+@text show id=TX09_001_0072 speaker=narration
+こんなことで顔を明るくするのだと、初めて知った。
+@text show id=TX09_001_0073 speaker=narration
+昔の綾乃を思い出すことと、今の綾乃を知ることは、同じではなかった。
+@text show id=TX09_001_0074 speaker=CH_001
+今度、寄ってみる？
+@text show id=TX09_001_0075 speaker=narration
+今度。
+@text show id=TX09_001_0076 speaker=narration
+その言葉だけで、焼けた車内の先に、別の日ができた。
+@wait beat
+@text show id=TX09_001_0077 speaker=CH_000
+うん。案内して
+@text show id=TX09_001_0078 speaker=CH_001
+売り切れてても、私のせいにしないでね
+@text show id=TX09_001_0079 speaker=CH_000
+じゃあ、早めに行こう
+@text show id=TX09_001_0080 speaker=narration
+綾乃が頷いた。
+@text show id=TX09_001_0081 speaker=narration
+綾乃は何か言いたそうにこちらを見てから、口を閉じた。
+@text show id=TX09_001_0082 speaker=narration
+俺が目を向けると、少し迷って、言い直すように話した。
+@text show id=TX09_001_0083 speaker=CH_001
+昔の私と、変わってるところもあると思う
+@text show id=TX09_001_0084 speaker=CH_000
+うん。俺も、たぶん
+@text show id=TX09_001_0085 speaker=CH_001
+思い出してくれたのは嬉しい。でも、あの時の通りにしなきゃって思わなくていいから
+@text show id=TX09_001_0086 speaker=narration
+俺は、何を期待されているのかばかり考えていた自分に気づいた。
+@text show id=TX09_001_0087 speaker=narration
+忘れていた分を取り戻すように振る舞えば、彼女を傷つけずに済むのではないか。
+@text show id=TX09_001_0088 speaker=narration
+そんなふうに考えたら、今の彼女が何を言うかより、正しい返事を探すことになる。
+@text show id=TX09_001_0089 speaker=CH_000
+パンの話は、今、聞けて嬉しかったよ
+@text show id=TX09_001_0090 speaker=narration
+綾乃が俺を見た。
+@text show id=TX09_001_0091 speaker=CH_000
+好きだった子が、今はこういうのが好きなんだって。昔の答え合わせをしてるだけじゃなくて
+@char change id=CH_001 expression=照れ
+@text show id=TX09_001_0092 speaker=CH_001
+……それ、本人に言うと、少し恥ずかしいんだけど
+@text show id=TX09_001_0093 speaker=CH_000
+ごめん。また急に言った
+@text show id=TX09_001_0094 speaker=narration
+彼女は目を伏せて笑った。
+@text show id=TX09_001_0095 speaker=narration
+こんなふうに言い合うことも、子どもの頃と同じとは限らない。
+@text show id=TX09_001_0096 speaker=narration
+俺たちは十五年分を一度に話さなくても、これから少しずつ聞ける。
+@text show id=TX09_001_0097 speaker=narration
+そう思えたことが、嬉しかった。
+@text show id=TX09_001_0098 speaker=narration
+大げさな約束ではなかった。
+@text show id=TX09_001_0099 speaker=narration
+二人で店へ行って、パンを買う。
+@text show id=TX09_001_0100 speaker=narration
+それくらいのことは、ここを出ればできると思った。
+@scene end id=SC09_001
+@scene start id=SC09_002
+@char hide id=ALL
+@bgm stop
+@ambient stop
+@wait sync
+@bg show id=BG_007
+@bgm play file=B012.dat
+@ambient play file=A002.dat volume=0.7
+@location show text="四号車／二度目の水の車両"
+@text show id=TX09_002_0001 speaker=narration
+水音が近くなり、会話が止まった。
+@text show id=TX09_002_0002 speaker=narration
+四号車へ入る手前で、綾乃が車内を見渡した。
+@text show id=TX09_002_0003 speaker=narration
+大きく倒れ込んだ床。高い窓から落ちる水。その先の、低い水面。
+@text show id=TX09_002_0004 speaker=narration
+道は一度見ている。それでも、安全に見えるようになったわけではなかった。
+@text show id=TX09_002_0005 speaker=narration
+俺が先に足を置いた。
+@text show id=TX09_002_0006 speaker=narration
+綾乃も扉枠を持ち、側壁の縁へ移る。
+@text show id=TX09_002_0007 speaker=narration
+さっき渡った場所へ身体を合わせていくと、村瀬を支えた時の重みが肩へ戻った。
+@char show id=CH_001 expression=戸惑い
+@text show id=TX09_002_0008 speaker=CH_001
+村瀬さん、ここを戻ったんだね
+@text show id=TX09_002_0009 speaker=CH_000
+うん。桐生さんが足を見て、少しずつ
+@text show id=TX09_002_0010 speaker=CH_001
+……大変だったでしょう
+@text show id=TX09_002_0011 speaker=CH_000
+大変だった。でも、一人じゃなかったから
+@text show id=TX09_002_0012 speaker=narration
+綾乃は足元を見て、頷いた。
+@text show id=TX09_002_0013 speaker=narration
+俺も今は一人ではない。
+@text show id=TX09_002_0014 speaker=narration
+それが分かるだけで、手を次へ伸ばせた。
+@text show id=TX09_002_0015 speaker=narration
+車両の中ほどで、水の落ちる音が重なった。
+@text show id=TX09_002_0016 speaker=narration
+さっきは軒下を思い出した音だった。
+@text show id=TX09_002_0017 speaker=narration
+今は、その向こうに男の声がある。
+@text show id=TX09_002_0018 speaker=narration
+目を閉じれば見えるのではないかと思い、逆に目を開いたままでいた。
+@text show id=TX09_002_0019 speaker=CH_001
+思い出すの、怖くなった？
+@text show id=TX09_002_0020 speaker=narration
+俺は頷いた。
+@text show id=TX09_002_0021 speaker=narration
+格好をつけて否定したら、隣に来てくれた意味までなくなりそうだった。
+@text show id=TX09_002_0022 speaker=CH_000
+三号車で分かったことより、まだ分からないことの方が怖い。何を見たのか、何をしたのか
+@text show id=TX09_002_0023 speaker=CH_001
+私も。自分がいたって分かったのに、その先が出てこない
+@text show id=TX09_002_0024 speaker=narration
+彼女はストールへ伸ばしかけた手を、支柱へ戻した。
+@text show id=TX09_002_0025 speaker=narration
+何気ない仕草だったが、俺はその動きを目で追っていた。
+@text show id=TX09_002_0026 speaker=narration
+理由は分からなかった。
+@text show id=TX09_002_0027 speaker=CH_000
+今なら、七号車へ戻れる
+@text show id=TX09_002_0028 speaker=narration
+綾乃が顔を向けた。
+@text show id=TX09_002_0029 speaker=CH_000
+黒川さんに伝えて、戻ってもいい。綾乃が、知りたくなければ
+@text show id=TX09_002_0030 speaker=narration
+自分だけで決める言い方にはしたくなかった。
+@text show id=TX09_002_0031 speaker=narration
+綾乃が知りたいものも、怖いものも、俺のものとは違う。
+@text show id=TX09_002_0032 speaker=narration
+彼女はしばらく返事をしなかった。
+@text show id=TX09_002_0033 speaker=narration
+ただ、水の流れを見ていた。
+@text show id=TX09_002_0034 speaker=narration
+俺も答えを待った。
+@char change id=CH_001 expression=決意
+@text show id=TX09_002_0035 speaker=CH_001
+直人が行くから、ついていくんじゃないよ
+@text show id=TX09_002_0036 speaker=narration
+静かな声だった。
+@text show id=TX09_002_0037 speaker=CH_001
+私も、知りたい。忘れてるなら、そこには私がしたこともあるんでしょう。怖いまま置いておきたくない
+@wait beat
+@text show id=TX09_002_0038 speaker=narration
+俺は、はいとも、分かったともすぐには言えなかった。
+@text show id=TX09_002_0039 speaker=narration
+彼女の言葉が、俺の希望をかなえるための返事ではなかったからだ。
+@text show id=TX09_002_0040 speaker=narration
+二人とも、自分で前へ行くことを選んでいる。
+@text show id=TX09_002_0041 speaker=CH_000
+じゃあ、一緒に
+@text show id=TX09_002_0042 speaker=CH_001
+うん
+@text show id=TX09_002_0043 speaker=narration
+前へ向き直った綾乃の足が、濡れた所でわずかに滑った。
+@text show id=TX09_002_0044 speaker=narration
+彼女自身が手すりを握り直し、俺はその下へ手を添えた。
+@text show id=TX09_002_0045 speaker=narration
+支えが戻ったのを見て、手を引いた。
+@text show id=TX09_002_0046 speaker=CH_001
+ありがとう。……ほんと、靴だけは変えたい
+@text show id=TX09_002_0047 speaker=CH_000
+パン屋へ行く時は、歩きやすいので
+@text show id=TX09_002_0048 speaker=CH_001
+そこは普通の道だから
+@char change id=CH_001 expression=微笑み
+@text show id=TX09_002_0049 speaker=narration
+言いながら、彼女は笑った。
+@text show id=TX09_002_0050 speaker=narration
+怖い話をした直後でも、笑える。
+@text show id=TX09_002_0051 speaker=narration
+そのままの綾乃と、ここから出たいと思った。
+@scene end id=SC09_002
+@scene start id=SC09_003
+@char hide id=ALL
+@bgm stop
+@ambient stop
+@wait sync
+@bg show id=BG_009
+@bgm play file=B006.dat
+@ambient play file=A001.dat volume=0.5
+@location show text="三号車／通勤鞄の場所"
+@text show id=TX09_003_0001 speaker=narration
+三号車へ戻る頃には、二人とも口数が減っていた。
+@text show id=TX09_003_0002 speaker=narration
+俺は倒れた座席を示し、さっき見つけた通勤鞄のことを話した。
+@text show id=TX09_003_0003 speaker=narration
+綾乃は古い鞄を少しだけ覗き、写真を撮ったことを確かめた。
+@text show id=TX09_003_0004 speaker=CH_001
+黒川さんに、知らせよう
+@text show id=TX09_003_0005 speaker=narration
+俺は携帯を握り直した。
+@text show id=TX09_003_0006 speaker=narration
+画面の中に、古い定期券が残っている。
+@text show id=TX09_003_0007 speaker=narration
+覚えていないから存在しなかったのではない。
+@text show id=TX09_003_0008 speaker=narration
+誰かの持ち物も、傷跡も、俺が忘れた後ずっとそこにあった。
+@text show id=TX09_003_0009 speaker=narration
+二号車の手前で、黒川がこちらに気づいた。
+@text show id=TX09_003_0010 speaker=narration
+すずが顔を上げ、大庭も手すりから離れた。
+@text show id=TX09_003_0011 speaker=narration
+綾乃が隣にいることを確かめ、俺は三人の方へ歩いた。
+@scene end id=SC09_003
+@chapter end id=CH09
+
+@chapter start id=CH10 title="第十章　花のそばで"
+@textbox hide
+@scene start id=SC10_001
+@bgm stop
+@bg hide
+@wait sync
+@bg show id=BG_011 transition=fade duration_ms=1000
+@bgm play file=B003.dat fade_ms=2000
+@chapter_title show chapter="第十章" title="花のそばで"
+@wait sync
+@location show text="二号車手前／直人が戻る前"
+@textbox show
+@text show id=TX10_001_0001 speaker=narration
+綾乃が直人を迎えに戻った後、黒川は前方の土砂を照らしていた。
+@text show id=TX10_001_0002 speaker=narration
+すずは残った座席の端に立ち、黒川から離れすぎない位置で待っている。
+@text show id=TX10_001_0003 speaker=narration
+大庭が、通路を少し空けて腰を下ろした。
+@text show id=TX10_001_0004 speaker=CH_002
+その……さっきの事件の話ですが
+@char show id=CH_003 expression=真剣
+@text show id=TX10_001_0005 speaker=narration
+黒川がライトを下げた。
+@text show id=TX10_001_0006 speaker=CH_002
+逃げた人は、まだ捕まっていないんですか。十五年も経って
+@text show id=TX10_001_0007 speaker=CH_003
+そう。共犯が三人いても、本人のことはろくに知らなかったらしい
+@text show id=TX10_001_0008 speaker=CH_002
+仲間、なのに？
+@text show id=TX10_001_0009 speaker=CH_003
+寄せ集めだったみたいでね。本名も住んでる所も分からない。顔も隠してた
+@text show id=TX10_001_0010 speaker=narration
+大庭は、納得しかねるように首を傾げた。
+@text show id=TX10_001_0011 speaker=narration
+黒川はその顔を見て、少し間を置いた。
+@text show id=TX10_001_0012 speaker=CH_003
+ただ、素顔を見た未成年の生存者がいた。それで身元が分かるかと思われたんだけど……記憶が残ってなかった
+@text show id=TX10_001_0013 speaker=narration
+すずが顔を上げた。
+@text show id=TX10_001_0014 speaker=narration
+黒川は彼女に、今ここで何か答えなくてよいというように手を下げて見せた。
+@text show id=TX10_001_0015 speaker=CH_002
+黒川さんは、その時——
+@text show id=TX10_001_0016 speaker=CH_003
+乗ってないよ。乗っていたのは叔父だけ。俺は後から話を聞いた側
+@text show id=TX10_001_0017 speaker=CH_002
+ああ。そうでしたね。すみません
+@char hide id=ALL
+@text show id=TX10_001_0018 speaker=narration
+大庭は視線を前の床へ戻した。
+@text show id=TX10_001_0019 speaker=narration
+黒川は携帯を確かめ、首を振った。
+@text show id=TX10_001_0020 speaker=narration
+まだ、どこにもつながらない。
+@text show id=TX10_001_0021 speaker=CH_002
+相沢さんは、お若いですよね。二十七、でしたか
+@text show id=TX10_001_0022 speaker=CH_003
+そう聞いたね
+@text show id=TX10_001_0023 speaker=CH_002
+水城さんとは、同級生だと……
+@text show id=TX10_001_0024 speaker=CH_003
+うん。二人で何か思い出しかけてるみたいだ。さっき、二号車にいたって言ってた
+@text show id=TX10_001_0025 speaker=narration
+大庭は短く頷いた。
+@text show id=TX10_001_0026 speaker=narration
+三号車から来た、顔を隠した男。
+@text show id=TX10_001_0027 speaker=narration
+直人がその場で口にした言葉を、黒川も覚えていた。
+@text show id=TX10_001_0028 speaker=CH_003
+大庭さんは、事件を覚えてた？
+@text show id=TX10_001_0029 speaker=CH_002
+ニュースで見たくらいです。怖いことがあったと、その程度で
+@text show id=TX10_001_0030 speaker=narration
+大庭は手のひらを膝で拭った。
+@text show id=TX10_001_0031 speaker=narration
+黒川は話を続けず、前方を照らした。
+@text show id=TX10_001_0032 speaker=narration
+花に覆われた車内の奥で、土砂の表面から水が滴っていた。
+@scene end id=SC10_001
+@scene start id=SC10_002
+@textbox hide
+@char show id=CH_003 expression=真剣
+@wait sync
+@location show text="二号車手前／直人と綾乃が戻った後"
+@textbox show
+@text show id=TX10_002_0001 speaker=narration
+黒川は、俺の携帯を両手で持った。
+@text show id=TX10_002_0002 speaker=narration
+写真を拡大し、薄れた日付と名字を見ている。
+@text show id=TX10_002_0003 speaker=CH_003
+……黒川、か
+@text show id=TX10_002_0004 speaker=CH_000
+叔父さんのものだって、分かりますか
+@text show id=TX10_002_0005 speaker=CH_003
+これだけでは。けど、型はこんな鞄だったと思う。昔、本人から、もう買い直したって聞いた
+@text show id=TX10_002_0006 speaker=narration
+断言しない声が、途中で少しだけかすれた。
+@text show id=TX10_002_0007 speaker=narration
+事件について詳しく話していた彼が、初めて自分の身近な物に触れた顔になった。
+@text show id=TX10_002_0008 speaker=CH_003
+どこにあった？
+@text show id=TX10_002_0009 speaker=CH_000
+三号車の、倒れた座席の下です。戻してあります
+@text show id=TX10_002_0010 speaker=CH_003
+分かった。ありがとう
+@text show id=TX10_002_0011 speaker=narration
+携帯を返す手が、一度止まった。
+@text show id=TX10_002_0012 speaker=narration
+黒川は俺へ何か言いかけたが、綾乃を見て、先に足場の方を示した。
+@text show id=TX10_002_0013 speaker=CH_003
+二人とも、ここから前は気をつけて。花で床の割れ目が見えない
+@char hide id=ALL
+@bgm stop
+@wait sync
+@bgm play file=B012.dat
+@location show text="二号車／現在"
+@text show id=TX10_002_0014 speaker=narration
+二号車へ入った。
+@text show id=TX10_002_0015 speaker=narration
+車体の傾きは小さく、ようやく両足を置いて立てる。
+@text show id=TX10_002_0016 speaker=narration
+だからといって、歩きやすいわけではなかった。
+@text show id=TX10_002_0017 speaker=narration
+花が、通路を埋めていた。
+@wait beat
+@text show id=TX10_002_0018 speaker=narration
+白い花びらの間を赤が走り、細い茎が座席の脚に巻きついている。
+@text show id=TX10_002_0019 speaker=narration
+葉は窓の縁まで伸びていた。
+@text show id=TX10_002_0020 speaker=narration
+濡れた土の匂いに、甘い匂いが混じる。
+@text show id=TX10_002_0021 speaker=narration
+前方へ進むほど、花の下へ土砂が食い込んでいた。
+@text show id=TX10_002_0022 speaker=narration
+同じ車両の中で、白い花びらが黒い泥へ埋まり、千切れた床材の端に根のようなものが絡まっている。
+@text show id=TX10_002_0023 speaker=narration
+花のある場所が終わって、別の崩れた場所になるのではない。
+@text show id=TX10_002_0024 speaker=narration
+美しい色も、壊れた足場も、一つの車体の中で重なっていた。
+@text show id=TX10_002_0025 speaker=narration
+綾乃のスカートの裾が、その色のそばへ来た。
+@text show id=TX10_002_0026 speaker=narration
+赤茶色の模様を見て、俺は彼女から目を離せなくなった。
+@text show id=TX10_002_0027 speaker=narration
+何かに似ているからではない。
+@text show id=TX10_002_0028 speaker=narration
+目を離すと、次に見た時には違うものになっている気がした。
+@text show id=TX10_002_0029 speaker=CH_002
+私、前の方を見てきます。踏める所を、もう少し
+@text show id=TX10_002_0030 speaker=CH_003
+無理しないで。宮野さんは、こっちにいて
+@text show id=TX10_002_0031 speaker=narration
+黒川たちの声が遠ざかった。
+@text show id=TX10_002_0032 speaker=narration
+俺と綾乃は、車両の中央より少し手前で止まった。
+@text show id=TX10_002_0033 speaker=narration
+花に覆われた座席の端。
+@text show id=TX10_002_0034 speaker=narration
+ここへ、二人で座っていた。
+@char show id=CH_001 expression=戸惑い
+@text show id=TX10_002_0035 speaker=CH_001
+……直人
+@text show id=TX10_002_0036 speaker=narration
+綾乃も同じ場所を見ていた。
+@text show id=TX10_002_0037 speaker=narration
+俺は頷いた。
+@text show id=TX10_002_0038 speaker=narration
+別の景色が戻り始めていた。
+@scene end id=SC10_002
+@scene start id=SC10_003
+@textbox hide
+@char hide id=ALL
+@bgm stop
+@ambient stop
+@bg hide
+@wait sync
+@bg show id=BG_011 image=past filter=cool transition=fade duration_ms=1000
+@wait sync
+@location show text="二号車／十五年前の夜"
+@textbox show
+@text show id=TX10_003_0001 speaker=narration
+床はまっすぐだった。
+@text show id=TX10_003_0002 speaker=narration
+花はない。
+@text show id=TX10_003_0003 speaker=narration
+俺の膝の上には、塾の鞄があった。
+@text show id=TX10_003_0004 speaker=narration
+綾乃がノートを閉じている。
+@text show id=TX10_003_0005 speaker=narration
+何か小さなことで、俺たちは笑っていた。
+@text show id=TX10_003_0006 speaker=narration
+その直前まで、列車の音は普通だった。
+@text show id=TX10_003_0007 speaker=narration
+三号車側の扉が開いた。
+@text show id=TX10_003_0008 speaker=narration
+顔を布で覆った男が、こちらを見た。
+@text show id=TX10_003_0009 speaker=narration
+俺たちがいるとは思わなかったように、一度止まる。
+@text show id=TX10_003_0010 speaker=narration
+『こっち、来い』
+@text show id=TX10_003_0011 speaker=narration
+低い声だった。
+@text show id=TX10_003_0012 speaker=narration
+俺は立ち、綾乃の前へ出ようとした。
+@text show id=TX10_003_0013 speaker=narration
+男の手が伸びた。
+@text show id=TX10_003_0014 speaker=narration
+掴まれた。
+@text show id=TX10_003_0015 speaker=narration
+痛くて、息が止まった。
+@text show id=TX10_003_0016 speaker=narration
+何かを掴み返したくて、手を上げた。
+@text show id=TX10_003_0017 speaker=narration
+指が布へ掛かり、強く引いた。
+@text show id=TX10_003_0018 speaker=narration
+男が顔を背けた。
+@text show id=TX10_003_0019 speaker=narration
+布がずれた。
+@text show id=TX10_003_0020 speaker=narration
+顔は、まだ思い出せない。
+@text show id=TX10_003_0021 speaker=narration
+そこに顔があったことだけは分かるのに、その部分へ目が届かない。
+@text show id=TX10_003_0022 speaker=CH_001
+顔、見たから
+@text show id=TX10_003_0023 speaker=narration
+隣で綾乃が言った。
+@text show id=TX10_003_0024 speaker=narration
+声が震えていた。
+@text show id=TX10_003_0025 speaker=narration
+怖くなかったから言ったのではない。男を止めようとしていた。
+@text show id=TX10_003_0026 speaker=CH_001
+私たち、覚えたから。だから——
+@effect play id=shake
+@se play file=S001.dat
+@text show id=TX10_003_0027 speaker=narration
+腹へ、重い衝撃が来た。
+@text show id=TX10_003_0028 speaker=narration
+足が床から離れ、頭の横へ硬いものが当たった。
+@text show id=TX10_003_0029 speaker=narration
+音が遠のいた。
+@text show id=TX10_003_0030 speaker=narration
+床に手をついた。
+@text show id=TX10_003_0031 speaker=narration
+綾乃の靴が見える。
+@text show id=TX10_003_0032 speaker=narration
+その上で、男の腕が動いた。
+@text show id=TX10_003_0033 speaker=narration
+何が起きたか、最初は分からなかった。
+@overlay show id=I003
+@text show id=TX10_003_0034 speaker=narration
+綾乃が首のあたりへ手を当てた。
+@text show id=TX10_003_0035 speaker=narration
+口が開いた。
+@text show id=TX10_003_0036 speaker=narration
+俺の名前を呼ぼうとしたのかもしれない。
+@overlay hide
+@effect play id=fade
+@text show id=TX10_003_0037 speaker=narration
+膝が折れた。
+@text show id=TX10_003_0038 speaker=CH_000
+綾乃
+@text show id=TX10_003_0039 speaker=narration
+手を伸ばした。
+@text show id=TX10_003_0040 speaker=narration
+届かなかった。
+@wait beat
+@text show id=TX10_003_0041 speaker=narration
+身体が、いうことをきかない。
+@text show id=TX10_003_0042 speaker=narration
+もう少しだけ進めば、袖を掴めるのに。
+@text show id=TX10_003_0043 speaker=narration
+向こうで誰かが叫んだ。
+@text show id=TX10_003_0044 speaker=narration
+三号車側から、何人もの声が近づいてくる。
+@text show id=TX10_003_0045 speaker=narration
+男が振り返った。
+@text show id=TX10_003_0046 speaker=narration
+俺たちを見た。
+@text show id=TX10_003_0047 speaker=narration
+それから足音が遠ざかった。
+@text show id=TX10_003_0048 speaker=narration
+綾乃の手が、すぐそこにあった。
+@text show id=TX10_003_0049 speaker=narration
+俺は指を伸ばしたまま、動けなくなった。
+@scene end id=SC10_003
+@scene start id=SC10_004
+@textbox hide
+@bg hide
+@wait sync
+@bg show id=BG_012 transition=fade duration_ms=1000
+@wait sync
+@location show text="病室／事件後の記憶"
+@textbox show
+@text show id=TX10_004_0001 speaker=narration
+母の手が、布団の上にあった。
+@text show id=TX10_004_0002 speaker=narration
+白い壁。
+@text show id=TX10_004_0003 speaker=narration
+洗ったタオルの匂い。
+@text show id=TX10_004_0004 speaker=narration
+頭に何かが巻かれていて、触ろうとすると止められた。
+@text show id=TX10_004_0005 speaker=narration
+『綾乃ちゃんはね』
+@text show id=TX10_004_0006 speaker=narration
+母が言った。
+@text show id=TX10_004_0007 speaker=narration
+その先を、聞いたことがある。
+@text show id=TX10_004_0008 speaker=narration
+忘れていたのに、聞く前から分かった。
+@text show id=TX10_004_0009 speaker=narration
+『助からなかったの』
+@wait beat
+@text show id=TX10_004_0010 speaker=narration
+俺は母を見ていた。
+@text show id=TX10_004_0011 speaker=narration
+綾乃はどこにいるのかと、もう一度聞こうとしていた。
+@text show id=TX10_004_0012 speaker=narration
+母は俺の手を握った。
+@text show id=TX10_004_0013 speaker=narration
+同じ答えを、何度言わせたのだろう。
+@scene end id=SC10_004
+@scene start id=SC10_005
+@textbox hide
+@bg hide
+@wait sync
+@bg show id=BG_011 transition=fade duration_ms=1000
+@bgm play file=B013.dat
+@ambient play file=A001.dat volume=0.5
+@wait sync
+@location show text="二号車／現在"
+@textbox show
+@text show id=TX10_005_0001 speaker=narration
+俺は、立っていた。
+@text show id=TX10_005_0002 speaker=narration
+大人の手で、座席の背を握っていた。
+@text show id=TX10_005_0003 speaker=narration
+花があった。
+@text show id=TX10_005_0004 speaker=narration
+隣に、綾乃がいた。
+@text show id=TX10_005_0005 speaker=narration
+息が、吸えなかった。
+@text show id=TX10_005_0006 speaker=CH_000
+……死んだ、んだ
+@char show id=CH_001 expression=驚き
+@text show id=TX10_005_0007 speaker=narration
+綾乃がこちらを向いた。
+@text show id=TX10_005_0008 speaker=narration
+俺は言ってしまった言葉を止められず、口を開いたまま彼女を見た。
+@text show id=TX10_005_0009 speaker=CH_000
+綾乃、あの時……助からなかったって。俺、母に、聞いた
+@text show id=TX10_005_0010 speaker=narration
+彼女の手が首元へ上がった。
+@text show id=TX10_005_0011 speaker=narration
+ストールの上から触れ、指先で何度か確かめた。
+@char change id=CH_001 expression=悲しみ
+@text show id=TX10_005_0012 speaker=CH_001
+私……ここを
+@text show id=TX10_005_0013 speaker=narration
+その声を聞いて、俺は首を振った。
+@text show id=TX10_005_0014 speaker=narration
+違うと言いたかったのではない。
+@text show id=TX10_005_0015 speaker=narration
+彼女の声が、さっきの記憶と同じ所で途切れるのを聞きたくなかった。
+@text show id=TX10_005_0016 speaker=CH_001
+覚えてる。切られて……息が、できなくなって
+@char change id=CH_001 expression=戸惑い
+@text show id=TX10_005_0017 speaker=narration
+花の上へ、彼女の鞄が落ちた。
+@text show id=TX10_005_0018 speaker=narration
+いつもならすぐ拾っただろう。
+@text show id=TX10_005_0019 speaker=narration
+綾乃はそれに気づかず、自分の首へ手を当て続けていた。
+@text show id=TX10_005_0020 speaker=narration
+俺は鞄を拾った。
+@text show id=TX10_005_0021 speaker=narration
+持ち手を差し出したが、彼女の手が出ない。
+@text show id=TX10_005_0022 speaker=narration
+自分の腕へ掛け、そのまま待った。
+@text show id=TX10_005_0023 speaker=CH_001
+でも、私、学校に行ったよ
+@text show id=TX10_005_0024 speaker=narration
+彼女が言った。
+@text show id=TX10_005_0025 speaker=narration
+俺に説明するというより、自分の中にあるものを一つずつ掴もうとしていた。
+@text show id=TX10_005_0026 speaker=CH_001
+中学も、高校も。卒業して、働いて……昨日だって、帰って、お風呂に入って
+@text show id=TX10_005_0027 speaker=narration
+具体的だった。
+@text show id=TX10_005_0028 speaker=narration
+聞けば、きっと友達の名前も出てくる。
+@text show id=TX10_005_0029 speaker=narration
+綾乃は記憶を探す時、さっきの俺とは違う目をしていた。
+@text show id=TX10_005_0030 speaker=narration
+空白の前で止まっているのではない。ちゃんとあるものが、どうしてこの場所とつながらないのか分からずにいた。
+@text show id=TX10_005_0031 speaker=narration
+学校へ通う自分も、今日の帰り道も、彼女にとっては同じ自分の時間だった。
+@text show id=TX10_005_0032 speaker=narration
+俺は、そのどれかを間違いだと言えなかった。
+@text show id=TX10_005_0033 speaker=narration
+あの夜に起きたことを取り戻したばかりなのに、彼女の十五年を消す言葉を、自分が持っているはずがなかった。
+@text show id=TX10_005_0034 speaker=narration
+何もない所を埋め合わせるような話し方ではなかった。
+@char change id=CH_001 expression=悲しみ
+@text show id=TX10_005_0035 speaker=CH_001
+直人、私、今日まで……生きてきたの
+@wait beat
+@text show id=TX10_005_0036 speaker=narration
+俺は答えられなかった。
+@text show id=TX10_005_0037 speaker=narration
+彼女が倒れたことも、母から聞いたことも、もう、見間違いにはできない。
+@text show id=TX10_005_0038 speaker=narration
+けれど今ここにいる綾乃も、俺が作った記憶ではなかった。
+@text show id=TX10_005_0039 speaker=narration
+足元が少し揺れた。
+@text show id=TX10_005_0040 speaker=narration
+自分が震えているのだと、遅れて気づいた。
+@text show id=TX10_005_0041 speaker=narration
+綾乃の顔を見るたび、床へ倒れた少女が重なる。
+@text show id=TX10_005_0042 speaker=narration
+あの時、俺は何もできなかった。
+@text show id=TX10_005_0043 speaker=CH_000
+俺……手、伸ばしたんだ
+@text show id=TX10_005_0044 speaker=narration
+綾乃の目が動いた。
+@text show id=TX10_005_0045 speaker=CH_000
+綾乃が倒れて。すぐそこにいたのに、届かなかった
+@text show id=TX10_005_0046 speaker=narration
+喉が痛くなった。
+@text show id=TX10_005_0047 speaker=narration
+謝る言葉は、簡単に浮かんだ。
+@text show id=TX10_005_0048 speaker=narration
+守れなくて。思い出せなくて。十五年も。
+@text show id=TX10_005_0049 speaker=narration
+一つでも口にしたら、声が詰まって、その先を言えなくなりそうだった。
+@text show id=TX10_005_0050 speaker=narration
+綾乃が、首元から手を離した。
+@text show id=TX10_005_0051 speaker=narration
+その手はまだ震えていた。
+@text show id=TX10_005_0052 speaker=narration
+俺の方へ少し出して、止まった。
+@bgm stop
+@wait sync
+@bgm play file=B012.dat
+@text show id=TX10_005_0053 speaker=narration
+俺は座席から手を離した。
+@text show id=TX10_005_0054 speaker=narration
+今は、動いた。
+@text show id=TX10_005_0055 speaker=narration
+彼女の指の下へ手を差し入れ、握った。
+@text show id=TX10_005_0056 speaker=narration
+冷たかった。
+@text show id=TX10_005_0057 speaker=narration
+冬の列車を、雨に濡れて歩いてきた人の手だった。
+@text show id=TX10_005_0058 speaker=narration
+指に力が入り、彼女も握り返した。
+@text show id=TX10_005_0059 speaker=CH_000
+……今は、届く
+@wait beat
+@text show id=TX10_005_0060 speaker=narration
+綾乃が息を吐いた。
+@text show id=TX10_005_0061 speaker=narration
+笑おうとして、うまく笑えなかった。
+@text show id=TX10_005_0062 speaker=narration
+俺も同じだった。
+@text show id=TX10_005_0063 speaker=CH_001
+うん
+@text show id=TX10_005_0064 speaker=narration
+その返事だけは、今の彼女の声だった。
+@text show id=TX10_005_0065 speaker=narration
+何なのか、分からない。
+@text show id=TX10_005_0066 speaker=narration
+なぜここにいるのかも、分からない。
+@text show id=TX10_005_0067 speaker=narration
+分からないまま、俺は手を離したくなかった。
+@text show id=TX10_005_0068 speaker=narration
+しばらくして、黒川の呼ぶ声がした。
+@text show id=TX10_005_0069 speaker=narration
+前方の足場が見えたという。
+@text show id=TX10_005_0070 speaker=narration
+俺たちの様子に気づいたのか、すぐ迎えに来ることはせず、返事を待ってくれた。
+@text show id=TX10_005_0071 speaker=CH_000
+少し、待ってください
+@text show id=TX10_005_0072 speaker=narration
+そう返して、綾乃の鞄を差し出した。
+@text show id=TX10_005_0073 speaker=narration
+彼女はやっとそれを受け取った。
+@text show id=TX10_005_0074 speaker=narration
+指が持ち手をつかみ損ね、俺がもう一度、下から支えた。
+@text show id=TX10_005_0075 speaker=CH_001
+……ありがとう
+@text show id=TX10_005_0076 speaker=narration
+歩き出しても、彼女の顔は前を向いたままだった。
+@text show id=TX10_005_0077 speaker=narration
+俺は隣へついた。
+@text show id=TX10_005_0078 speaker=narration
+さっきまで彼女が待ってくれていた分、今は俺が待つ番だった。
+@char hide id=ALL
+@wait sync
+@char show id=CH_002 expression=基本
+@text show id=TX10_005_0079 speaker=narration
+奥で、大庭がこちらを見ていた。
+@text show id=TX10_005_0080 speaker=narration
+目が合うと、小さく頭を下げた。
+@text show id=TX10_005_0081 speaker=narration
+俺は会釈を返した。
+@text show id=TX10_005_0082 speaker=narration
+この時はまだ、あの夜の男の顔を思い出していなかった。
+@scene end id=SC10_005
+@chapter end id=CH10
+
+@chapter start id=CH11 title="第十一章　縁"
+@textbox hide
+@scene start id=SC11_001
+@char hide id=ALL
+@bgm stop
+@bg hide
+@wait sync
+@bg show id=BG_013 transition=fade duration_ms=1000
+@bgm play file=B014.dat fade_ms=2000
+@chapter_title show chapter="第十一章" title="縁"
+@wait sync
+@location show text="二号車前方／土砂と花の地帯"
+@textbox show
+@text show id=TX11_001_0001 speaker=narration
+前方の床は、半分ほど土砂に埋まっていた。
+@text show id=TX11_001_0002 speaker=narration
+花の茎が泥から出て、傾いた座席へ絡んでいる。
+@text show id=TX11_001_0003 speaker=narration
+白い花びらの向こうにある黒い隙間へライトを当てると、床がないことが分かった。
+@text show id=TX11_001_0004 speaker=narration
+一号車へ続く連結部は、その先だった。
+@text show id=TX11_001_0005 speaker=narration
+扉の向こうに、ほぼ水平の床が細く見える。
+@text show id=TX11_001_0006 speaker=narration
+そこへ行くには、崩れた二号車の前方を越えなければならなかった。
+@char show id=CH_003 expression=真剣
+@text show id=TX11_001_0007 speaker=CH_003
+左の縁に沿って渡る。土の上だけど、下に残ってる部分がある
+@text show id=TX11_001_0008 speaker=narration
+黒川が先に確かめた場所を示した。
+@text show id=TX11_001_0009 speaker=narration
+車体の傾きは小さい。けれど床がつながっていない以上、四号車より楽とは思えなかった。
+@text show id=TX11_001_0010 speaker=narration
+落ちた内装材が土の間へ挟まり、板のように見える所がいくつもある。
+@char show id=CH_002 expression=基本 position=left
+@text show id=TX11_001_0011 speaker=CH_002
+私、後で行きます。こちらからも見てますから
+@text show id=TX11_001_0012 speaker=narration
+大庭は後方側に立ち、黒川へ場所を譲った。
+@text show id=TX11_001_0013 speaker=narration
+さっきも危ない所では先に足元を確かめてくれていた。
+@text show id=TX11_001_0014 speaker=narration
+俺は礼を言い、綾乃の鞄が花に引っ掛かっていないか見た。
+@char hide id=ALL
+@text show id=TX11_001_0015 speaker=narration
+黒川が一人で前へ渡った。
+@text show id=TX11_001_0016 speaker=narration
+向こう側の残った床へ乗り、すずに顔を向ける。
+@text show id=TX11_001_0017 speaker=CH_003
+宮野さん、次においで。一度に渡らなくていい。俺を見て
+@text show id=TX11_001_0018 speaker=narration
+すずは俺たちを振り返った。
+@text show id=TX11_001_0019 speaker=narration
+俺が頷くと、両手で鞄の紐を押さえて歩き出した。
+@text show id=TX11_001_0020 speaker=narration
+黒川は手が届く位置まで来た彼女を支え、前方側へ移した。
+@char show id=CH_001 expression=戸惑い
+@text show id=TX11_001_0021 speaker=narration
+その間、綾乃は土砂を見ていた。
+@text show id=TX11_001_0022 speaker=narration
+目の前のものを見ているようで、視線が動かない。
+@text show id=TX11_001_0023 speaker=CH_003
+水城さん、次、行ける？
+@text show id=TX11_001_0024 speaker=narration
+返事がなかった。
+@text show id=TX11_001_0025 speaker=narration
+俺が名前を呼ぶと、彼女は遅れて顔を上げた。
+@text show id=TX11_001_0026 speaker=CH_001
+あ……はい。行きます
+@text show id=TX11_001_0027 speaker=narration
+足を出す前に、彼女の肘へ軽く触れた。
+@text show id=TX11_001_0028 speaker=CH_000
+渡ってから、止まろう
+@text show id=TX11_001_0029 speaker=narration
+綾乃は俺の手を見て、頷いた。
+@text show id=TX11_001_0030 speaker=narration
+一歩ずつ、黒川が示した所へ足を置く。
+@text show id=TX11_001_0031 speaker=narration
+首元へ触れたそうに手が動きかけたが、支柱を握り直した。
+@text show id=TX11_001_0032 speaker=narration
+前方側へ着いた後も、黒川が場所を空けてと言うまで、綾乃は戸口のそばに立っていた。
+@text show id=TX11_001_0033 speaker=CH_003
+水城さん、もう半歩、こちらへ
+@text show id=TX11_001_0034 speaker=CH_001
+……あ、すみません
+@text show id=TX11_001_0035 speaker=narration
+彼女はすずの近くへ移った。
+@text show id=TX11_001_0036 speaker=narration
+いつもなら、誰かの動く場所を先に空ける人だった。
+@text show id=TX11_001_0037 speaker=narration
+さっき聞いた言葉が、まだ彼女の中で続いている。
+@text show id=TX11_001_0038 speaker=narration
+俺も、同じだった。
+@text show id=TX11_001_0039 speaker=narration
+だからこそ、足元だけは見なければと思った。
+@text show id=TX11_001_0040 speaker=narration
+目に見えるものを、今、一つずつ。
+@char hide id=ALL
+@text show id=TX11_001_0041 speaker=CH_000
+じゃあ、俺、行きます
+@text show id=TX11_001_0042 speaker=narration
+大庭が頷いた。
+@text show id=TX11_001_0043 speaker=narration
+俺は手を伸ばし、上側に残った手すりを掴んだ。
+@text show id=TX11_001_0044 speaker=narration
+左足を置く。
+@text show id=TX11_001_0045 speaker=narration
+土が少し崩れたが、その下には硬い感触があった。
+@text show id=TX11_001_0046 speaker=narration
+次の場所には、半ば埋まった床材があった。
+@text show id=TX11_001_0047 speaker=narration
+黒川たちも、その辺りを通った。
+@text show id=TX11_001_0048 speaker=narration
+そこへ右足を下ろした。
+@bgm stop
+@wait sync
+@bgm play file=B005.dat
+@se play file=S003.dat
+@text show id=TX11_001_0049 speaker=narration
+足場が、横へ動いた。
+@text show id=TX11_001_0050 speaker=narration
+沈むのではなかった。
+@text show id=TX11_001_0051 speaker=narration
+自分の体重を受ける前に、板の端が、すっとずれた。
+@text show id=TX11_001_0052 speaker=CH_000
+——っ
+@text show id=TX11_001_0053 speaker=narration
+手すりを握った指が引かれた。
+@text show id=TX11_001_0054 speaker=narration
+足の下の土が落ち、膝が何かに当たった。
+@effect play id=shake
+@text show id=TX11_001_0055 speaker=narration
+痛みを感じるより先に、身体が車体の裂け目へ落ち込んだ。
+@text show id=TX11_001_0056 speaker=CH_001
+直人！
+@text show id=TX11_001_0057 speaker=narration
+声が変わった。
+@text show id=TX11_001_0058 speaker=narration
+さっきまで一拍遅れていた綾乃が、真っ先に俺を呼んでいた。
+@text show id=TX11_001_0059 speaker=narration
+俺は左手で、剥き出しの床の縁を掴んだ。
+@text show id=TX11_001_0060 speaker=narration
+右手も出した。
+@text show id=TX11_001_0061 speaker=narration
+指が滑り、もう一度掴んだ。
+@bg show id=BG_014
+@text show id=TX11_001_0062 speaker=narration
+下を見た。
+@text show id=TX11_001_0063 speaker=narration
+暗かった。
+@text show id=TX11_001_0064 speaker=narration
+車体の下へ落ちる雨が、白い筋になって消えている。
+@text show id=TX11_001_0065 speaker=narration
+足が届くものは、何もなかった。
+@text show id=TX11_001_0066 speaker=CH_000
+……っ、黒川、さん
+@text show id=TX11_001_0067 speaker=narration
+名前を呼ぶだけで、腹の力が抜けそうになった。
+@text show id=TX11_001_0068 speaker=narration
+声を出してはいけないと思った。
+@text show id=TX11_001_0069 speaker=narration
+出さなければ、どこにいるか伝わらない。
+@text show id=TX11_001_0070 speaker=CH_003
+見えてる！　動くな、今行く
+@text show id=TX11_001_0071 speaker=narration
+ライトが顔へ当たった。
+@text show id=TX11_001_0072 speaker=narration
+黒川が膝をつき、こちらへ手を伸ばした。
+@text show id=TX11_001_0073 speaker=narration
+その手前の土が崩れ、彼はすぐ身を引いた。
+@text show id=TX11_001_0074 speaker=CH_001
+こっちから……
+@text show id=TX11_001_0075 speaker=CH_003
+そこも切れてる。水城さん、乗らないで！
+@text show id=TX11_001_0076 speaker=narration
+綾乃の手が、空中で止まった。
+@text show id=TX11_001_0077 speaker=narration
+届いてほしかった。
+@text show id=TX11_001_0078 speaker=narration
+来ないでほしかった。
+@text show id=TX11_001_0079 speaker=narration
+俺の重みで落ちるなら俺だけでいい。そんなことを考えた瞬間、指がまたずれた。
+@text show id=TX11_001_0080 speaker=CH_000
+手……滑る
+@text show id=TX11_001_0081 speaker=narration
+左手の感覚が薄くなっていた。
+@text show id=TX11_001_0082 speaker=narration
+握るのではなく、縁へ引っ掛けているだけになりかけている。
+@text show id=TX11_001_0083 speaker=narration
+爪のあたりに痛みが集まり、腕の奥まで震えた。
+@text show id=TX11_001_0084 speaker=narration
+ライトの縁が、指に乗った泥を照らした。
+@text show id=TX11_001_0085 speaker=narration
+一本ずつ見えていた。
+@text show id=TX11_001_0086 speaker=narration
+左の小指だけが浮き、戻そうとしても、指の腹が縁に乗らない。
+@text show id=TX11_001_0087 speaker=narration
+全部を握り直そうとしたら、その瞬間に離してしまいそうだった。
+@text show id=TX11_001_0088 speaker=narration
+上には皆の靴がある。
+@text show id=TX11_001_0089 speaker=narration
+二つ動けばこちらへ来られる距離なのに、その二歩の床がない。
+@text show id=TX11_001_0090 speaker=narration
+黒川の顔がこちらへ近づき、すぐ戻る。来ようとするたび、彼の足元から土が落ちた。
+@text show id=TX11_001_0091 speaker=narration
+助けを呼ぶ声と、近づかないでほしい声が、喉の中でぶつかった。
+@text show id=TX11_001_0092 speaker=narration
+俺は縁に額を寄せた。
+@text show id=TX11_001_0093 speaker=narration
+自分の重みを、少しでも車体へ預けようとした。
+@text show id=TX11_001_0094 speaker=narration
+靴底を壁へ当てても、濡れた金属を滑るばかりだった。
+@text show id=TX11_001_0095 speaker=narration
+何か、足が乗るものが欲しかった。
+@text show id=TX11_001_0096 speaker=CH_002
+相沢さん！　大丈夫ですか！
+@text show id=TX11_001_0097 speaker=narration
+後方側から大庭の声がした。
+@text show id=TX11_001_0098 speaker=narration
+大丈夫ではない。
+@text show id=TX11_001_0099 speaker=narration
+でも返事をする余裕がなかった。
+@text show id=TX11_001_0100 speaker=narration
+前の方で、すずが何か言った。
+@text show id=TX11_001_0101 speaker=narration
+黒川が一度顔を上げる。
+@text show id=TX11_001_0102 speaker=CH_007
+あの、これ。これ、使えませんか！
+@se play file=S003.dat
+@text show id=TX11_001_0103 speaker=narration
+金属の擦れる音がした。
+@text show id=TX11_001_0104 speaker=narration
+すずが両手で持った物の端が見えた。
+@text show id=TX11_001_0105 speaker=narration
+前方の壁際にあった非常用の避難はしごだった。
+@text show id=TX11_001_0106 speaker=narration
+折り畳まれていた物を、すずはひとまず引き出したらしい。
+@text show id=TX11_001_0107 speaker=CH_003
+使える。渡して！
+@text show id=TX11_001_0108 speaker=narration
+すずは立てなかった。
+@text show id=TX11_001_0109 speaker=narration
+しゃがんだまま、はしごを押した。
+@text show id=TX11_001_0110 speaker=narration
+綾乃がすぐ受け取り、黒川と二人で開いた。
+@text show id=TX11_001_0111 speaker=CH_003
+残ってる座席の根元へ。そっちを押さえて！
+@text show id=TX11_001_0112 speaker=CH_001
+ここ？
+@text show id=TX11_001_0113 speaker=CH_003
+そう。宮野さんは、もう少し下がって！
+@text show id=TX11_001_0114 speaker=narration
+はしごの片端が、俺の側へ下がってきた。
+@bg show id=BG_014 image=ladder_reached
+@text show id=TX11_001_0115 speaker=narration
+斜めに伸びた金属の段が、胸の少し上で止まった。
+@text show id=TX11_001_0116 speaker=narration
+掴める。
+@text show id=TX11_001_0117 speaker=narration
+そう思ったのに、左手を離せなかった。
+@text show id=TX11_001_0118 speaker=narration
+片手を離したら、落ちる。
+@text show id=TX11_001_0119 speaker=narration
+頭の中で、その言葉ばかり繰り返していた。
+@text show id=TX11_001_0120 speaker=CH_003
+右手だけ移せるか。左はそのままでいい
+@text show id=TX11_001_0121 speaker=narration
+黒川の声を聞いた。
+@text show id=TX11_001_0122 speaker=narration
+右だけ。
+@text show id=TX11_001_0123 speaker=narration
+両手を一度に離さなくていい。
+@text show id=TX11_001_0124 speaker=narration
+俺は右手を伸ばした。
+@text show id=TX11_001_0125 speaker=narration
+空を掴んだ。
+@text show id=TX11_001_0126 speaker=narration
+指先が金属へ当たり、一度外れた。
+@text show id=TX11_001_0127 speaker=CH_001
+もう少し下。直人、その下にある！
+@text show id=TX11_001_0128 speaker=narration
+綾乃の声に従った。
+@text show id=TX11_001_0129 speaker=narration
+手のひらが段へ掛かった。
+@se play file=S003.dat
+@text show id=TX11_001_0130 speaker=narration
+握った。
+@text show id=TX11_001_0131 speaker=CH_000
+持った……！
+@text show id=TX11_001_0132 speaker=CH_003
+そのまま、足を探して。下に段がある
+@text show id=TX11_001_0133 speaker=narration
+靴先を動かした。
+@text show id=TX11_001_0134 speaker=narration
+何もない。
+@text show id=TX11_001_0135 speaker=narration
+もう一度、膝を少し持ち上げた。
+@text show id=TX11_001_0136 speaker=narration
+靴底が硬い物に触れた。
+@text show id=TX11_001_0137 speaker=narration
+左の指を、縁から外した。
+@text show id=TX11_001_0138 speaker=narration
+はしごが少し揺れた。
+@text show id=TX11_001_0139 speaker=narration
+上で綾乃が息を詰め、黒川が短く声を出した。
+@text show id=TX11_001_0140 speaker=narration
+二人が支えている音だった。
+@text show id=TX11_001_0141 speaker=narration
+俺は一段、上がった。
+@text show id=TX11_001_0142 speaker=narration
+腕だけでなく、脚も使えた。
+@text show id=TX11_001_0143 speaker=narration
+身体の重さが、ようやく少し分かれた。
+@text show id=TX11_001_0144 speaker=CH_003
+もう一段。俺の手が届く所まで
+@text show id=TX11_001_0145 speaker=narration
+顔を上げた。
+@text show id=TX11_001_0146 speaker=narration
+黒川が身体を低くしていた。
+@text show id=TX11_001_0147 speaker=narration
+さっきまで疑っていた男の手へ、俺は何のためらいもなく腕を出した。
+@text show id=TX11_001_0148 speaker=narration
+掴まれた。
+@text show id=TX11_001_0149 speaker=narration
+強い力だった。
+@text show id=TX11_001_0150 speaker=narration
+腹が残った床の縁へ乗り、綾乃が肩を支えた。
+@text show id=TX11_001_0151 speaker=narration
+二人に引かれながら、俺は這って土砂の向こうへ出た。
+@bgm stop
+@wait sync
+@bg show id=BG_013 image=broken_ledge
+@text show id=TX11_001_0152 speaker=narration
+ようやく両膝をついた時、息の仕方が分からなくなった。
+@text show id=TX11_001_0153 speaker=narration
+咳が出た。
+@text show id=TX11_001_0154 speaker=narration
+何度も咳き込み、床へ額がつきそうになった。
+@text show id=TX11_001_0155 speaker=narration
+黒川は腕を離さず、俺が自分で座れるまで支えた。
+@text show id=TX11_001_0156 speaker=CH_003
+足は。動く？
+@text show id=TX11_001_0157 speaker=narration
+動かした。
+@text show id=TX11_001_0158 speaker=narration
+膝は痛い。掌も痛い。
+@text show id=TX11_001_0159 speaker=narration
+けれど、ここにある。
+@text show id=TX11_001_0160 speaker=CH_000
+……動き、ます
+@char show id=CH_001 expression=驚き crop=face
+@text show id=TX11_001_0161 speaker=narration
+綾乃が俺の肩へ額を寄せかけ、途中で止まった。
+@text show id=TX11_001_0162 speaker=narration
+顔を見て、両手で俺の上着を強く握った。
+@text show id=TX11_001_0163 speaker=CH_001
+返事、して
+@text show id=TX11_001_0164 speaker=CH_000
+いる。ここにいる
+@wait beat
+@text show id=TX11_001_0165 speaker=narration
+そう言うと、彼女は息を吐いた。
+@text show id=TX11_001_0166 speaker=narration
+まだ泣いてはいなかったが、俺を見つめる目が揺れていた。
+@text show id=TX11_001_0167 speaker=narration
+自分が十五年前に死んだと知った人が、今、俺が死ぬことを恐れていた。
+@char hide id=ALL
+@text show id=TX11_001_0168 speaker=narration
+少し離れて、すずが座り込んでいた。
+@text show id=TX11_001_0169 speaker=narration
+鞄を抱え直そうとしても、手が言うことをきかないらしい。
+@text show id=TX11_001_0170 speaker=narration
+二つのぬいぐるみが、彼女の膝で揺れた。
+@text show id=TX11_001_0171 speaker=CH_000
+宮野さん。はしご、見つけてくれて……ありがとう
+@text show id=TX11_001_0172 speaker=narration
+すずは俺を見た。
+@text show id=TX11_001_0173 speaker=narration
+頷こうとして、顔が歪んだ。
+@text show id=TX11_001_0174 speaker=narration
+返事は出なかった。
+@char show id=CH_002 expression=不安
+@bgm play file=B014.dat
+@text show id=TX11_001_0175 speaker=narration
+後方側では、大庭が崩れた足場を見ていた。
+@text show id=TX11_001_0176 speaker=CH_002
+よかった……本当に。急に、崩れたから
+@text show id=TX11_001_0177 speaker=narration
+俺も、そう思っていた。
+@text show id=TX11_001_0178 speaker=narration
+古い床が、土の下で限界だったのだ。
+@text show id=TX11_001_0179 speaker=narration
+あと一歩違えば、俺ではなくすずが落ちたかもしれない。
+@text show id=TX11_001_0180 speaker=narration
+黒川が立ち上がり、大庭のいる側へライトを向けた。
+@text show id=TX11_001_0181 speaker=narration
+今は、向こうとの間に大きく崩れた部分がある。
+@text show id=TX11_001_0182 speaker=narration
+同じ渡り方はできない。
+@text show id=TX11_001_0183 speaker=CH_003
+そっち、動かないで。渡れる所を見直す
+@char hide id=ALL
+@text show id=TX11_001_0184 speaker=narration
+すずが顔を上げた。
+@text show id=TX11_001_0185 speaker=narration
+大庭を見て、すぐ伏せた。
+@text show id=TX11_001_0186 speaker=narration
+それから黒川のコートの裾へ、指を掛けた。
+@text show id=TX11_001_0187 speaker=CH_007
+……黒川さん
+@text show id=TX11_001_0188 speaker=narration
+小さな声だった。
+@text show id=TX11_001_0189 speaker=narration
+黒川はすぐにしゃがみ、耳を近づけた。
+@text show id=TX11_001_0190 speaker=narration
+七号車で、肩紐を見つけた時と同じように。
+@text show id=TX11_001_0191 speaker=CH_007
+違う、んです。さっきの……
+@text show id=TX11_001_0192 speaker=narration
+彼女の目が、もう一度向こうへ動いた。
+@text show id=TX11_001_0193 speaker=narration
+俺もつられて、大庭を見た。
+@text show id=TX11_001_0194 speaker=CH_007
+足で、動かしてた。相沢さんが乗る時に、あの板を……大庭さんが
+@wait beat
+@text show id=TX11_001_0195 speaker=narration
+黒川の手が、すずの肩の前で止まった。
+@scene end id=SC11_001
+@chapter end id=CH11
+
+@chapter start id=CH12 title="第十二章　隠していた声"
+@textbox hide
+@scene start id=SC12_001
+@chapter_title show chapter="第十二章" title="隠していた声"
+@wait sync
+@location show text="二号車前方／崩れた足場の両側"
+@textbox show
+@text show id=TX12_001_0001 speaker=narration
+黒川が顔を上げた。
+@text show id=TX12_001_0002 speaker=narration
+俺は、すずの言葉をすぐには理解できなかった。
+@text show id=TX12_001_0003 speaker=narration
+足場が動いた。確かに、横へずれた。
+@text show id=TX12_001_0004 speaker=narration
+でも、それを大庭が動かしたという意味だけが、頭に入ってこない。
+@text show id=TX12_001_0005 speaker=narration
+向こう側で、大庭がこちらを見ていた。
+@text show id=TX12_001_0006 speaker=narration
+目が合った。
+@text show id=TX12_001_0007 speaker=narration
+俺が何か言う前に、彼は動いた。
+@se play file=S003.dat
+@text show id=TX12_001_0008 speaker=narration
+低く身を沈め、土砂へ足を掛けた。
+@text show id=TX12_001_0009 speaker=narration
+割れた床の縁を片手で押し、崩れた部分を横から越える。
+@text show id=TX12_001_0010 speaker=narration
+危ない所ではいつも人に場所を譲っていた男が、迷いもなく、残った細い骨組みへ靴を置いた。
+@text show id=TX12_001_0011 speaker=CH_003
+下がれ！
+@text show id=TX12_001_0012 speaker=narration
+黒川はすずを背へかばい、大庭を止めようと腕を出した。
+@text show id=TX12_001_0013 speaker=narration
+大庭はその腕を下から跳ね上げ、黒川の肩を座席の縁へ押しつけた。
+@text show id=TX12_001_0014 speaker=narration
+すずの腕が後ろへ引かれ、身体が座席の脇へ連れ込まれた。
+@text show id=TX12_001_0015 speaker=CH_007
+……っ！
+@text show id=TX12_001_0016 speaker=narration
+声が途中で潰れた。
+@text show id=TX12_001_0017 speaker=narration
+大庭の腕が胸の前を押さえ、もう一方の手が彼女の顔の脇へ上がった。
+@text show id=TX12_001_0018 speaker=narration
+細長い金属片を握っていた。
+@text show id=TX12_001_0019 speaker=narration
+さっきまで床へ混じっていた、内装の一部だったのかもしれない。
+@text show id=TX12_001_0020 speaker=narration
+折れた先端が、ライトを白く返している。
+@text show id=TX12_001_0021 speaker=narration
+黒川が止まった。
+@text show id=TX12_001_0022 speaker=narration
+俺は立とうとして、膝が言うことをきかず、片手をついた。
+@bgm stop
+@wait sync
+@char show id=CH_002 expression=威嚇
+@bgm play file=B015.dat
+@text show id=TX12_001_0023 speaker=CH_002
+来るな！
+@text show id=TX12_001_0024 speaker=narration
+初めて聞く声だった。
+@text show id=TX12_001_0025 speaker=narration
+人に場所を尋ねる時の、遠慮がちな高さが消えていた。
+@text show id=TX12_001_0026 speaker=narration
+すずが息をのみ、大庭の腕へ両手を掛けた。
+@text show id=TX12_001_0027 speaker=CH_002
+お前、余計なこと喋ったな
+@text show id=TX12_001_0028 speaker=CH_007
+……あ、私
+@text show id=TX12_001_0029 speaker=CH_002
+黙れ
+@text show id=TX12_001_0030 speaker=narration
+短かった。
+@text show id=TX12_001_0031 speaker=narration
+それだけで、すずは口を閉じた。
+@text show id=TX12_001_0032 speaker=narration
+俺は膝を立てた。
+@text show id=TX12_001_0033 speaker=narration
+綾乃が腕を支えた。彼女の手も震えていたが、今は俺から離れようとしなかった。
+@text show id=TX12_001_0034 speaker=CH_000
+その子を離せ
+@text show id=TX12_001_0035 speaker=narration
+自分の声が思ったより荒く出た。
+@text show id=TX12_001_0036 speaker=narration
+大庭は俺を見て、すずをさらに引き寄せた。
+@text show id=TX12_001_0037 speaker=CH_002
+動くなっつってんだろ！
+@effect play id=shake
+@se play file=S003.dat
+@text show id=TX12_001_0038 speaker=narration
+金属片を握った手で、横の座席の背を打った。
+@text show id=TX12_001_0039 speaker=narration
+破れた内装が裂け、乾いた音がした。
+@text show id=TX12_001_0040 speaker=narration
+すずの頭が、その音から逃げるようにすくんだ。
+@char hide id=ALL
+@text show id=TX12_001_0041 speaker=narration
+俺の目は、大庭の手首へ吸い寄せられた。
+@text show id=TX12_001_0042 speaker=narration
+袖がずれている。
+@text show id=TX12_001_0043 speaker=narration
+何本もの銀色の飾りが、一か所へ寄って光った。
+@text show id=TX12_001_0044 speaker=narration
+腕を上げる時、肘が先に外へ開く。
+@text show id=TX12_001_0045 speaker=narration
+物を叩く直前、口の片側が引きつる。
+@text show id=TX12_001_0046 speaker=narration
+その顔を、知っていた。
+@scene end id=SC12_001
+@scene start id=SC12_002
+@textbox hide
+@bgm stop
+@ambient stop
+@bg hide
+@wait sync
+@bg show id=BG_011 image=past filter=cool transition=fade duration_ms=1000
+@wait sync
+@location show text="二号車／十五年前の夜"
+@textbox show
+@text show id=TX12_002_0001 speaker=narration
+男が布を押さえ損ねた。
+@text show id=TX12_002_0002 speaker=narration
+俺の指に、引きずり下ろした布が引っ掛かっている。
+@text show id=TX12_002_0003 speaker=narration
+剥き出しになった口元が歪んだ。
+@effect play id=flash
+@text show id=TX12_002_0004 speaker=narration
+『黙れ！』
+@text show id=TX12_002_0005 speaker=narration
+綾乃が、顔を見たと言った。
+@text show id=TX12_002_0006 speaker=narration
+その声をかき消すように、男が怒鳴った。
+@text show id=TX12_002_0007 speaker=narration
+腕が上がる。
+@text show id=TX12_002_0008 speaker=narration
+銀色のものが、手首でぶつかる。
+@text show id=TX12_002_0009 speaker=narration
+俺は床に倒れていて、止められない。
+@text show id=TX12_002_0010 speaker=narration
+刃を持った手よりも、それを振り上げた男の顔が、はっきり見えた。
+@scene end id=SC12_002
+@scene start id=SC12_003
+@textbox hide
+@bg hide
+@wait sync
+@bg show id=BG_013 image=broken_ledge transition=fade duration_ms=1000
+@bgm play file=B015.dat
+@ambient play file=A001.dat volume=0.5
+@wait sync
+@location show text="二号車前方／現在"
+@textbox show
+@text show id=TX12_003_0001 speaker=narration
+大庭が、目の前にいた。
+@text show id=TX12_003_0002 speaker=narration
+頬は痩せ、目元には皺が増えている。
+@text show id=TX12_003_0003 speaker=narration
+それでも、同じだった。
+@char show id=CH_002 expression=威嚇
+@text show id=TX12_003_0004 speaker=CH_000
+……お前だ
+@wait beat
+@text show id=TX12_003_0005 speaker=narration
+口にして、ようやく全てがつながった。
+@text show id=TX12_003_0006 speaker=narration
+ここにいた男が、俺を落とそうとした。
+@text show id=TX12_003_0007 speaker=narration
+十五年前、俺を蹴り飛ばし、綾乃へ刃物を向けた男だった。
+@text show id=TX12_003_0008 speaker=CH_000
+この男だ。綾乃、あの時の——
+@text show id=TX12_003_0009 speaker=narration
+綾乃の手が、俺の腕から滑った。
+@text show id=TX12_003_0010 speaker=narration
+大庭を見つめている。
+@text show id=TX12_003_0011 speaker=narration
+彼女の顔から、また血の気が引いた。
+@text show id=TX12_003_0012 speaker=narration
+けれど、今度は俯かなかった。
+@text show id=TX12_003_0013 speaker=CH_002
+だから、来るなよ
+@text show id=TX12_003_0014 speaker=narration
+彼は否定しなかった。
+@text show id=TX12_003_0015 speaker=narration
+それが一番、怖かった。
+@text show id=TX12_003_0016 speaker=narration
+怯えて謝って、すずへティッシュをくれた男が、何の言い訳もせず、彼女を自分の前へ置いている。
+@text show id=TX12_003_0017 speaker=CH_000
+宮野さんは関係ない
+@text show id=TX12_003_0018 speaker=CH_002
+お前が勝手に思い出し始めたんだろうが
+@text show id=TX12_003_0019 speaker=narration
+すずを押さえる腕へ、力が入った。
+@text show id=TX12_003_0020 speaker=CH_002
+二号車にいたとか、顔を隠した男だとか。さっきから、いちいち
+@text show id=TX12_003_0021 speaker=narration
+俺は口を閉じた。
+@text show id=TX12_003_0022 speaker=narration
+俺が話したことを、ずっと聞いていたのだ。
+@text show id=TX12_003_0023 speaker=narration
+俺が男の顔を取り戻す前に、向こうが俺を見つけた。
+@char show id=CH_003 expression=真剣 position=left
+@text show id=TX12_003_0024 speaker=CH_003
+大庭さん。話すなら、俺が聞く。その子を離してからにしよう
+@text show id=TX12_003_0025 speaker=narration
+黒川は立ち位置を動かさず、両手を見せていた。
+@text show id=TX12_003_0026 speaker=narration
+声も低い。けれど七号車での軽さは全くなかった。
+@text show id=TX12_003_0027 speaker=CH_002
+お前も喋るな。知ったようなこと、ずっと
+@text show id=TX12_003_0028 speaker=CH_003
+分かった。だから、その手を少し緩めて。息が苦しい
+@text show id=TX12_003_0029 speaker=narration
+大庭は、すずの顔を見下ろした。
+@text show id=TX12_003_0030 speaker=narration
+気づいて緩めたのではなかった。
+@text show id=TX12_003_0031 speaker=narration
+抵抗する力が弱くなったことを確かめ、その身体を自分が動きやすい位置へ直した。
+@text show id=TX12_003_0032 speaker=narration
+その仕草を見て、俺の中で何かが熱くなった。
+@text show id=TX12_003_0033 speaker=narration
+今すぐ近づいて、引き剥がしたかった。
+@text show id=TX12_003_0034 speaker=narration
+膝の痛みも忘れかけた。
+@text show id=TX12_003_0035 speaker=narration
+綾乃の指が、俺の上着を引いた。
+@text show id=TX12_003_0036 speaker=narration
+俺は彼女を見た。
+@text show id=TX12_003_0037 speaker=narration
+彼女も大庭を見ている。
+@text show id=TX12_003_0038 speaker=narration
+俺より怒っていないはずがなかった。
+@text show id=TX12_003_0039 speaker=narration
+それでも、すずの顔から目を逸らしていなかった。
+@char hide id=ALL
+@wait sync
+@char show id=CH_001 expression=決意
+@text show id=TX12_003_0040 speaker=CH_001
+……すずちゃんを、見て
+@text show id=TX12_003_0041 speaker=narration
+俺は息を止めた。
+@text show id=TX12_003_0042 speaker=narration
+自分の怒りへばかり目が向いていた。
+@text show id=TX12_003_0043 speaker=narration
+今、守らなければならないのは、記憶の中の自分ではなかった。
+@char hide id=ALL
+@text show id=TX12_003_0044 speaker=narration
+大庭が後ろへ動いた。
+@text show id=TX12_003_0045 speaker=narration
+一号車の方へ、すずを引いていく。
+@text show id=TX12_003_0046 speaker=narration
+彼女の靴が花の茎へ引っ掛かり、膝が折れかけた。
+@text show id=TX12_003_0047 speaker=CH_002
+歩け
+@text show id=TX12_003_0048 speaker=narration
+すずは顔を上げようとした。
+@text show id=TX12_003_0049 speaker=narration
+大庭の手が近すぎて、うまく動かせない。
+@text show id=TX12_003_0050 speaker=narration
+それでも、足を出した。
+@text show id=TX12_003_0051 speaker=CH_003
+ゆっくり。転ぶと二人とも危ない
+@text show id=TX12_003_0052 speaker=narration
+大庭は答えなかった。
+@text show id=TX12_003_0053 speaker=narration
+自分が転ぶという言葉だけは聞いたらしく、次の一歩が小さくなった。
+@text show id=TX12_003_0054 speaker=narration
+さっきまでは、その慎重さが親切に見えていた。
+@text show id=TX12_003_0055 speaker=narration
+荷物をどけたことまで、全部が嘘だったと簡単には思えない。
+@text show id=TX12_003_0056 speaker=narration
+だが、自分が危なくなると、その先にいる人を切り捨てられる。
+@text show id=TX12_003_0057 speaker=narration
+今は、それが見えていた。
+@text show id=TX12_003_0058 speaker=CH_000
+宮野さん
+@text show id=TX12_003_0059 speaker=narration
+俺が呼ぶと、すずの目だけがこちらへ動いた。
+@text show id=TX12_003_0060 speaker=CH_000
+見えてるから。ここにいる
+@text show id=TX12_003_0061 speaker=narration
+助け方は、まだ分からなかった。
+@text show id=TX12_003_0062 speaker=narration
+それでも、すずに、自分は一人だと思ってほしくなかった。
+@text show id=TX12_003_0063 speaker=narration
+すずは小さく、分かるか分からないかほどに顎を引いた。
+@text show id=TX12_003_0064 speaker=narration
+大庭が一号車の戸口へ着いた。
+@text show id=TX12_003_0065 speaker=narration
+すずを先に押し入れ、自分もその後へ入る。
+@text show id=TX12_003_0066 speaker=narration
+金属片の先端は、ずっと彼女のそばにあった。
+@text show id=TX12_003_0067 speaker=narration
+俺は歩き出した。
+@text show id=TX12_003_0068 speaker=narration
+膝に痛みが戻ったが、体重を乗せられないほどではなかった。
+@text show id=TX12_003_0069 speaker=narration
+黒川が一度だけ俺の脚を見て、続けるかと目で尋ねた。
+@text show id=TX12_003_0070 speaker=narration
+俺は頷いた。
+@text show id=TX12_003_0071 speaker=narration
+綾乃が俺の隣へ来た。
+@text show id=TX12_003_0072 speaker=narration
+二人で戸口の前に立つ。
+@text show id=TX12_003_0073 speaker=narration
+花の匂いが、後ろから追ってきた。
+@text show id=TX12_003_0074 speaker=narration
+俺たちが目指していた先頭は、目の前にある。
+@text show id=TX12_003_0075 speaker=narration
+助けを呼べる場所だと思っていた。
+@text show id=TX12_003_0076 speaker=narration
+その向こうで、すずが息を詰めている。
+@text show id=TX12_003_0077 speaker=narration
+黒川が俺の肩へ触れた。
+@text show id=TX12_003_0078 speaker=CH_003
+一度に詰めない。見失わないで
+@text show id=TX12_003_0079 speaker=narration
+俺は頷き、扉枠から中を見た。
+@bg show id=BG_015
+@ambient play file=A001.dat volume=0.3
+@location show text="一号車の入口／車内を覗く"
+@text show id=TX12_003_0080 speaker=narration
+水平に近い床が、かえって奇妙だった。
+@text show id=TX12_003_0081 speaker=narration
+窓の外の雨は降り続いているのに、一号車の中では、その音が遠かった。
+@scene end id=SC12_003
+@chapter end id=CH12
+
+@chapter start id=CH13 title="第十三章　先頭には何もない"
+@textbox hide
+@scene start id=SC13_001
+@bgm stop
+@wait sync
+@bgm play file=B014.dat fade_ms=2000
+@chapter_title show chapter="第十三章" title="先頭には何もない"
+@wait sync
+@location show text="一号車／運転台の手前"
+@textbox show
+@text show id=TX13_001_0001 speaker=narration
+一号車には、土も花も入っていなかった。
+@text show id=TX13_001_0002 speaker=narration
+古い座席が、ほぼ元の形で並んでいる。
+@text show id=TX13_001_0003 speaker=narration
+床へ足を置けば、身体を支えなくても立てる。
+@text show id=TX13_001_0004 speaker=narration
+それだけで八号車に戻ったように感じるはずだった。
+@text show id=TX13_001_0005 speaker=narration
+なのに、違った。
+@text show id=TX13_001_0006 speaker=narration
+窓の雨粒が、灰色の外を滑っていた。
+@text show id=TX13_001_0007 speaker=narration
+駅の建物も、線路の向こうの景色も見えない。
+@text show id=TX13_001_0008 speaker=narration
+薄く曇ったガラスには俺たちの影が映り、車内の明かりが、反射の奥でもう一つ浮いている。
+@text show id=TX13_001_0009 speaker=narration
+外と中の境が、どこにあるのか分からなくなった。
+@text show id=TX13_001_0010 speaker=narration
+雨の音が遠い。
+@text show id=TX13_001_0011 speaker=narration
+背後の二号車では、あれほど水が落ちていたのに。
+@char show id=CH_002 expression=威嚇
+@text show id=TX13_001_0012 speaker=CH_002
+そこにいろ
+@text show id=TX13_001_0013 speaker=narration
+大庭がすずを引きずるように前へ進めた。
+@text show id=TX13_001_0014 speaker=narration
+目指しているのは運転台だった。
+@text show id=TX13_001_0015 speaker=narration
+すずの右の靴が床に擦れ、乾いた音がした。
+@text show id=TX13_001_0016 speaker=narration
+彼女は転ばないよう必死で足を運んでいた。
+@text show id=TX13_001_0017 speaker=narration
+黒川、俺、綾乃の順に車内へ入った。
+@text show id=TX13_001_0018 speaker=narration
+三人が横一列になると大庭が警戒しそうで、黒川は少し左の座席側へ寄った。
+@text show id=TX13_001_0019 speaker=narration
+俺は通路の中央に残り、綾乃は後ろの戸口に近い所で止まった。
+@text show id=TX13_001_0020 speaker=narration
+大庭は運転台の入口へすずを押しつけた。
+@text show id=TX13_001_0021 speaker=narration
+片腕を離さないまま、空いた手で内部を探る。
+@text show id=TX13_001_0022 speaker=narration
+金属片を握っているので、指先だけで物を動かしていた。
+@text show id=TX13_001_0023 speaker=CH_002
+くそ……何だよ、これ
+@char hide id=ALL
+@text show id=TX13_001_0024 speaker=narration
+何かのスイッチを何度か押す音がした。
+@text show id=TX13_001_0025 speaker=narration
+表示は変わらなかった。
+@text show id=TX13_001_0026 speaker=narration
+大庭は受話器のようなものを持ち上げ、耳へ当てた。
+@se play file=S001.dat
+@text show id=TX13_001_0027 speaker=narration
+すぐ振り下ろし、台へ打ちつけた。
+@text show id=TX13_001_0028 speaker=narration
+音が、静かな車内に大きく響いた。
+@text show id=TX13_001_0029 speaker=narration
+すずが両肩を跳ねさせた。
+@text show id=TX13_001_0030 speaker=CH_003
+壊すな。使えるかもしれない
+@text show id=TX13_001_0031 speaker=CH_002
+鳴らねえんだよ！
+@text show id=TX13_001_0032 speaker=narration
+彼の足元へ、無線のマイクがぶら下がった。
+@text show id=TX13_001_0033 speaker=narration
+大庭はそれも掴み、何度か呼び掛けた。
+@text show id=TX13_001_0034 speaker=narration
+声がどこかへ送られている気配はなかった。
+@text show id=TX13_001_0035 speaker=narration
+返事も、雑音もない。
+@text show id=TX13_001_0036 speaker=narration
+俺は、その向こうの前面窓を見た。
+@text show id=TX13_001_0037 speaker=narration
+雨に覆われた暗いガラスの先には、進める通路がない。
+@text show id=TX13_001_0038 speaker=narration
+外へ飛び出せばよい場所なのかどうか、足場すら分からない。
+@text show id=TX13_001_0039 speaker=narration
+先頭まで来れば、誰かがいると思っていた。
+@text show id=TX13_001_0040 speaker=narration
+誰もいなくても、外へつながる物があると思っていた。
+@text show id=TX13_001_0041 speaker=narration
+久我の脚を救い、村瀬を運び、すずをここから帰せるはずだった。
+@text show id=TX13_001_0042 speaker=narration
+どれも、ここにはなかった。
+@text show id=TX13_001_0043 speaker=narration
+黒川が近づきすぎない所から、別の電話を指した。
+@text show id=TX13_001_0044 speaker=narration
+大庭はそれを睨み、すずを押さえ直してから取った。
+@text show id=TX13_001_0045 speaker=narration
+耳へ当てたまま、黙った。
+@text show id=TX13_001_0046 speaker=narration
+その沈黙で、俺たちにも分かった。
+@bgm stop
+@text show id=TX13_001_0047 speaker=narration
+使えない。
+@wait beat
+@text show id=TX13_001_0048 speaker=narration
+大庭は受話器を投げ捨てた。
+@text show id=TX13_001_0049 speaker=narration
+すずを引き寄せ、運転台から離れて、こちらへ戻り始めた。
+@text show id=TX13_001_0050 speaker=narration
+俺たちは距離を保つため、少しずつ後ろへ下がった。
+@text show id=TX13_001_0051 speaker=narration
+相手のすぐ後ろには、もう進める場所がない。だから後方の扉へ向かうつもりなのだと分かった。
+@scene end id=SC13_001
+@scene start id=SC13_002
+@bg show id=BG_016
+@bgm play file=B014.dat
+@location show text="一号車後方／二号車側の戸口"
+@text show id=TX13_002_0001 speaker=narration
+一号車の後ろ寄りまで来て、大庭が足を止めた。
+@text show id=TX13_002_0002 speaker=narration
+俺たちが戸口に近い通路を空けずにいたからだった。
+@text show id=TX13_002_0003 speaker=narration
+すずの背後には二号車へ続く扉があり、その手前の左右に座席がある。
+@text show id=TX13_002_0004 speaker=narration
+大庭はそちらの間へすずを押し込み、自分の身体で片側を塞いだ。
+@text show id=TX13_002_0005 speaker=narration
+黒川は左、綾乃は右。俺はその間の通路で止まった。
+@text show id=TX13_002_0006 speaker=narration
+すずがどちらへ逃げても、誰かの手が届く位置へ行きたかった。
+@text show id=TX13_002_0007 speaker=narration
+大庭の呼吸が荒くなった。
+@text show id=TX13_002_0008 speaker=narration
+自分が進んできた扉を振り返り、すぐ俺たちを見た。
+@text show id=TX13_002_0009 speaker=narration
+追い詰められた男の前に、すずがいる。
+@text show id=TX13_002_0010 speaker=narration
+一番近くにある物へ怒りが向く前に、何かしなければならなかった。
+@text show id=TX13_002_0011 speaker=CH_000
+大庭
+@text show id=TX13_002_0012 speaker=narration
+呼ぶと、男は金属片を上げた。
+@text show id=TX13_002_0013 speaker=narration
+すずの顎が引けた。
+@char show id=CH_002 expression=威嚇 position=left
+@text show id=TX13_002_0014 speaker=CH_002
+近づくな
+@text show id=TX13_002_0015 speaker=CH_000
+近づいてない。その子、足がついていけてない
+@text show id=TX13_002_0016 speaker=CH_002
+だったら、ちゃんと立てよ！
+@text show id=TX13_002_0017 speaker=narration
+すずが懸命に膝を伸ばした。
+@text show id=TX13_002_0018 speaker=narration
+彼女はもう、力を抜いて大庭へ体重を預けることさえできなかった。
+@text show id=TX13_002_0019 speaker=narration
+俺が余計なことを言ったせいで、また怖い思いをさせた。
+@text show id=TX13_002_0020 speaker=narration
+すずの目が、黒川のいる方へ動いた。
+@text show id=TX13_002_0021 speaker=narration
+だが、彼の前には座席の端が張り出している。
+@text show id=TX13_002_0022 speaker=narration
+もし抜け出せても、そのままでは腕が届かない。
+@text show id=TX13_002_0023 speaker=narration
+俺は黒川を見た。
+@text show id=TX13_002_0024 speaker=narration
+彼は大庭を見たまま、俺の視線に気づいた。
+@text show id=TX13_002_0025 speaker=CH_000
+黒川さん。宮野さんが出られたら、左から。受け止めてください
+@text show id=TX13_002_0026 speaker=narration
+声を落とした。
+@text show id=TX13_002_0027 speaker=narration
+聞かれない保証はなかった。
+@text show id=TX13_002_0028 speaker=narration
+大庭が運転台の方を一瞬見た間に、必要なことだけ伝えた。
+@char hide id=ALL
+@text show id=TX13_002_0029 speaker=narration
+黒川が、わずかに顎を引いた。
+@text show id=TX13_002_0030 speaker=narration
+左の座席へ手を添え、通路側へ半歩回る。
+@text show id=TX13_002_0031 speaker=narration
+走り込む場所を、身体で塞がない位置だった。
+@text show id=TX13_002_0032 speaker=narration
+綾乃が俺の隣へ来た。
+@text show id=TX13_002_0033 speaker=narration
+俺は止めようとして、彼女の顔を見た。
+@text show id=TX13_002_0034 speaker=narration
+すずを見ていた。
+@text show id=TX13_002_0035 speaker=narration
+自分がどうするか、もう決めている目だった。
+@char show id=CH_001 expression=決意
+@text show id=TX13_002_0036 speaker=CH_001
+私を見て
+@text show id=TX13_002_0037 speaker=narration
+大庭の顔が動いた。
+@text show id=TX13_002_0038 speaker=CH_001
+大庭さん。私、ここにいる
+@text show id=TX13_002_0039 speaker=narration
+彼女は通路の少し右へ出た。
+@text show id=TX13_002_0040 speaker=narration
+黒川と反対側だった。
+@text show id=TX13_002_0041 speaker=narration
+大庭の視線が、そちらへ引かれた。
+@char show id=CH_002 expression=威嚇 position=left
+@text show id=TX13_002_0042 speaker=CH_002
+……お前、何なんだよ
+@text show id=TX13_002_0043 speaker=narration
+ようやく、彼は綾乃の顔をまともに見た。
+@text show id=TX13_002_0044 speaker=narration
+二号車で彼女が何を思い出したかまでは、知らなかったのかもしれない。
+@text show id=TX13_002_0045 speaker=narration
+目の前の女性と、十五年前の少女を、今、つなぎ直しているようだった。
+@text show id=TX13_002_0046 speaker=narration
+綾乃はコートの脇で、自分の手を握りしめた。
+@text show id=TX13_002_0047 speaker=narration
+指先が白くなっている。
+@text show id=TX13_002_0048 speaker=narration
+俺には、その怖さを代わりに引き受けることができない。
+@text show id=TX13_002_0049 speaker=CH_001
+それを、私が答えるの？
+@text show id=TX13_002_0050 speaker=narration
+声が震えた。
+@text show id=TX13_002_0051 speaker=narration
+彼女は息を吸い直し、続けた。
+@text show id=TX13_002_0052 speaker=CH_001
+あなたがしたことを、覚えてる。だから、その子に同じことをしないで
+@text show id=TX13_002_0053 speaker=CH_002
+黙れよ
+@text show id=TX13_002_0054 speaker=CH_001
+その子は、あなたがしたことを言っただけでしょう
+@text show id=TX13_002_0055 speaker=narration
+彼女は怒鳴らなかった。
+@text show id=TX13_002_0056 speaker=narration
+だが、声は車内の隅まで通った。
+@text show id=TX13_002_0057 speaker=narration
+大庭がすずではなく綾乃を見た。
+@text show id=TX13_002_0058 speaker=narration
+武器を持った手が、彼女を示すために少し離れた。
+@text show id=TX13_002_0059 speaker=narration
+まだ、動けなかった。
+@text show id=TX13_002_0060 speaker=narration
+すずを押さえる腕は強く、彼女の足はそろっていない。
+@text show id=TX13_002_0061 speaker=narration
+俺が急に走れば、大庭はまた彼女を抱え直す。
+@text show id=TX13_002_0062 speaker=CH_001
+私を見て言って。黙れって
+@text show id=TX13_002_0063 speaker=narration
+大庭の顔が歪んだ。
+@text show id=TX13_002_0064 speaker=narration
+右手が綾乃へ向いた。
+@text show id=TX13_002_0065 speaker=narration
+身体がわずかに右へ回り、すずを押さえる腕の内側に隙間ができた。
+@text show id=TX13_002_0066 speaker=narration
+すずの目が、その腕を見た。
+@text show id=TX13_002_0067 speaker=narration
+彼女は動かなかった。
+@text show id=TX13_002_0068 speaker=narration
+いや、動けないのだと思った。
+@text show id=TX13_002_0069 speaker=narration
+俺は一歩だけ前へ出た。
+@text show id=TX13_002_0070 speaker=narration
+大庭の目が、こちらへ戻りかける。
+@text show id=TX13_002_0071 speaker=CH_001
+こっち！
+@text show id=TX13_002_0072 speaker=narration
+綾乃の声が強くなった。
+@text show id=TX13_002_0073 speaker=narration
+大庭の手が、再びそちらを向いた。
+@char hide id=ALL
+@bgm stop
+@wait sync
+@bgm play file=B005.dat
+@text show id=TX13_002_0074 speaker=narration
+その時、すずが膝を折った。
+@text show id=TX13_002_0075 speaker=narration
+俺には、転んだように見えた。
+@text show id=TX13_002_0076 speaker=narration
+だが彼女は頭を下げ、自分を押さえる大庭の腕の下へ肩を抜いていた。
+@text show id=TX13_002_0077 speaker=narration
+大庭が掴み直そうとした。
+@text show id=TX13_002_0078 speaker=CH_003
+宮野さん！
+@text show id=TX13_002_0079 speaker=narration
+黒川の声へ、すずが身体を投げた。
+@text show id=TX13_002_0080 speaker=narration
+鞄が座席の端へ当たり、紐が肩から滑った。すずは鞄を掴み直さなかった。両手を前へ出し、そのまま黒川の側へ転がり込んだ。
+@text show id=TX13_002_0083 speaker=narration
+俺は二人の間へ入った。
+@text show id=TX13_002_0084 speaker=narration
+大庭の手が下がってきた。
+@se play file=S006.dat
+@text show id=TX13_002_0085 speaker=narration
+金属片の先が、視界へ飛び込んだ。身体をひねった。袖が引かれ、肩へ鈍い痛みが走った。
+@text show id=TX13_002_0088 speaker=CH_000
+黒川さん！
+@text show id=TX13_002_0089 speaker=narration
+すずを座席側へ引き寄せた黒川が、すぐ振り返った。
+@text show id=TX13_002_0090 speaker=narration
+大庭がもう一度腕を引いた。
+@text show id=TX13_002_0091 speaker=narration
+俺はその手首へ両手を掛けた。
+@text show id=TX13_002_0092 speaker=narration
+力が強かった。
+@text show id=TX13_002_0093 speaker=narration
+掌の傷が痛み、指がほどけそうになる。
+@text show id=TX13_002_0094 speaker=narration
+落ちかけた時に使い切った腕で、いつまで持つか分からなかった。
+@text show id=TX13_002_0095 speaker=CH_002
+離せ！
+@text show id=TX13_002_0096 speaker=narration
+大庭の膝が上がった。
+@se play file=S001.dat
+@text show id=TX13_002_0097 speaker=narration
+俺は避け切れず、腿へ衝撃を受けた。
+@text show id=TX13_002_0098 speaker=narration
+息が止まり、視界の端が白くなった。
+@text show id=TX13_002_0099 speaker=narration
+離したら、すずの方へ行く。
+@text show id=TX13_002_0100 speaker=narration
+俺は男の腕を、自分の胸へ抱え込むように引いた。
+@text show id=TX13_002_0101 speaker=narration
+刃先を人のいない床へ向けた。
+@text show id=TX13_002_0102 speaker=narration
+黒川の手が、横から大庭の肘を押さえた。
+@text show id=TX13_002_0103 speaker=CH_003
+そのまま。手首、離すな
+@text show id=TX13_002_0104 speaker=narration
+二人分の重みが掛かった。
+@text show id=TX13_002_0105 speaker=narration
+大庭が座席の角へ押され、握っていた指が緩んだ。
+@text show id=TX13_002_0106 speaker=narration
+金属片が落ちた。
+@se play file=S003.dat
+@text show id=TX13_002_0107 speaker=narration
+高い音が、一度した。
+@text show id=TX13_002_0108 speaker=narration
+黒川が足で遠くへ滑らせた。
+@text show id=TX13_002_0109 speaker=narration
+後方寄りの座席の下へ金属片が入り、見えなくなった。
+@text show id=TX13_002_0110 speaker=narration
+大庭がそちらを見た。
+@text show id=TX13_002_0111 speaker=narration
+俺はその腕を押し返し、彼を俺たちから離した。
+@text show id=TX13_002_0112 speaker=narration
+大庭の背中が、反対側の座席へ当たった。
+@text show id=TX13_002_0113 speaker=narration
+今度は武器を持っていなかった。
+@text show id=TX13_002_0114 speaker=narration
+すずも、腕の中にはいない。
+@char show id=CH_003 expression=真剣
+@text show id=TX13_002_0115 speaker=CH_003
+そこにいろ。もう、人を盾にできない
+@text show id=TX13_002_0116 speaker=narration
+大庭は立ち上がろうとした。
+@text show id=TX13_002_0117 speaker=narration
+黒川が一歩前へ出た。
+@text show id=TX13_002_0118 speaker=narration
+大庭は動きを止め、左右を見た。
+@text show id=TX13_002_0119 speaker=narration
+俺も身体を起こした。
+@text show id=TX13_002_0120 speaker=narration
+掌から血が少し滲んでいた。
+@text show id=TX13_002_0121 speaker=narration
+痛かった。
+@text show id=TX13_002_0122 speaker=narration
+けれど、今はその痛みがありがたかった。
+@text show id=TX13_002_0123 speaker=narration
+男の手から、本当にすずを離せたのだと分かった。
+@char hide id=ALL
+@bgm stop
+@wait sync
+@char show id=CH_001 expression=戸惑い
+@text show id=TX13_002_0124 speaker=CH_001
+すずちゃん、大丈夫？　ここ、どこか痛い？
+@text show id=TX13_002_0125 speaker=narration
+綾乃がすずのそばへしゃがんだ。
+@text show id=TX13_002_0126 speaker=narration
+すずは顔を上げなかった。
+@text show id=TX13_002_0127 speaker=narration
+黒川の声がした方へ逃げ、そのまま戸口に近い床で膝をついている。
+@text show id=TX13_002_0128 speaker=narration
+鞄の紐だけを、左手で握り締めていた。
+@text show id=TX13_002_0129 speaker=CH_007
+……ごめ、なさい
+@text show id=TX13_002_0130 speaker=CH_001
+謝らなくていい。抜けられた。ちゃんと、抜けられたよ
+@text show id=TX13_002_0131 speaker=narration
+綾乃自身も、まだ呼吸が乱れていた。
+@text show id=TX13_002_0132 speaker=narration
+すずの肩へ手を置こうとして、いったん止める。
+@text show id=TX13_002_0133 speaker=narration
+触れてよいか確かめるように声を掛け、それからそっと背へ手を当てた。
+@char hide id=ALL
+@wait sync
+@char show id=CH_002 expression=威嚇
+@text show id=TX13_002_0134 speaker=narration
+俺は大庭を見ていた。
+@text show id=TX13_002_0135 speaker=narration
+黒川も彼から目を離していなかった。
+@text show id=TX13_002_0136 speaker=narration
+けれど、すずはまだ戸口に近すぎる。
+@text show id=TX13_002_0137 speaker=narration
+後ろの二号車には、崩れた床がある。
+@char hide id=ALL
+@text show id=TX13_002_0138 speaker=narration
+すずが立とうとした。
+@text show id=TX13_002_0139 speaker=narration
+片足がうまく伸びず、身体が後ろへ揺れた。
+@text show id=TX13_002_0140 speaker=narration
+綾乃が支えたが、自分も立ち位置を変えきれない。
+@text show id=TX13_002_0141 speaker=narration
+俺はそちらへ足を向けた。
+@text show id=TX13_002_0142 speaker=narration
+戸口から離れた安全な座席まで、彼女を移さなければならなかった。
+@text show id=TX13_002_0143 speaker=CH_000
+宮野さん。そのままでいい。こっちへ、寄ろう
+@text show id=TX13_002_0144 speaker=narration
+俺がしゃがむと、すずはようやく顔を上げた。
+@text show id=TX13_002_0145 speaker=narration
+目の周りが赤かった。
+@text show id=TX13_002_0146 speaker=narration
+唇が動いたが、言葉にならない。
+@text show id=TX13_002_0147 speaker=narration
+黒川も一度、彼女の足元を見た。
+@text show id=TX13_002_0148 speaker=narration
+安全な座席を指し、そこへ移すよう綾乃へ伝えた。
+@text show id=TX13_002_0149 speaker=narration
+その一瞬だった。
+@text show id=TX13_002_0150 speaker=narration
+背後で、靴が床を蹴った。
+@scene end id=SC13_002
+@chapter end id=CH13
+
+@chapter start id=CH14 title="第十四章　届く手"
+@textbox hide
+@scene start id=SC14_001
+@chapter_title show chapter="第十四章" title="届く手"
+@wait sync
+@location show text="一号車後方／すず救出直後"
+@textbox show
+@text show id=TX14_001_0001 speaker=narration
+大庭が、低い姿勢のまま走った。
+@text show id=TX14_001_0002 speaker=narration
+黒川が腕を伸ばしたが、コートの端に触れただけだった。
+@text show id=TX14_001_0003 speaker=narration
+男は座席の張り出しを避け、すずの後ろの戸口へ向かった。
+@text show id=TX14_001_0004 speaker=narration
+俺は立ち上がろうとした。
+@text show id=TX14_001_0005 speaker=narration
+すずの身体が、その動きにつられて揺れた。
+@text show id=TX14_001_0006 speaker=narration
+まだ自分で座れていない。
+@text show id=TX14_001_0007 speaker=narration
+一瞬だけ、大庭を追う方へ重みを移しかけた。
+@text show id=TX14_001_0008 speaker=narration
+すずの指が、俺の袖を掴んだ。
+@text show id=TX14_001_0009 speaker=narration
+俺は彼女の背へ手を戻した。
+@text show id=TX14_001_0010 speaker=CH_000
+綾乃、こっちへ。宮野さんを、座席まで
+@text show id=TX14_001_0011 speaker=narration
+綾乃がすぐ肩を貸した。
+@text show id=TX14_001_0012 speaker=narration
+俺たちはすずを戸口から離し、一つ奥の座席の前へ移した。
+@text show id=TX14_001_0013 speaker=narration
+そこなら、後ろへ倒れても二号車へ落ちない。
+@text show id=TX14_001_0014 speaker=narration
+大庭の足音は、もう向こうにあった。
+@text show id=TX14_001_0015 speaker=narration
+二号車の花の中へ入っている。
+@text show id=TX14_001_0016 speaker=CH_003
+待て！
+@text show id=TX14_001_0017 speaker=narration
+黒川が戸口へ走った。
+@text show id=TX14_001_0018 speaker=narration
+俺もすずの手をゆっくり袖から外し、立ち上がった。
+@text show id=TX14_001_0019 speaker=CH_000
+ここにいて。ここから、動かなくていい
+@text show id=TX14_001_0020 speaker=narration
+すずは俺の顔を見た。
+@text show id=TX14_001_0021 speaker=narration
+頷いたかどうか確かめる間に、綾乃が彼女のそばへしゃがんだ。
+@text show id=TX14_001_0022 speaker=narration
+綾乃が俺へ顔を上げた。
+@char show id=CH_001 expression=決意
+@text show id=TX14_001_0023 speaker=CH_001
+私も、すぐ行く
+@char hide id=ALL
+@text show id=TX14_001_0024 speaker=narration
+その声を背で聞き、俺は黒川を追った。
+@scene end id=SC14_001
+@scene start id=SC14_002
+@bgm play file=B005.dat
+@ambient play file=A001.dat volume=0.5
+@location show text="一号車・二号車の連結部"
+@text show id=TX14_002_0001 speaker=narration
+大庭は、土砂の向こうへ渡っていた。
+@text show id=TX14_002_0002 speaker=narration
+俺が落ちた場所を大きく避け、車体の縁と残った骨組みを使っている。
+@text show id=TX14_002_0003 speaker=narration
+あの身軽さは、さっき初めて見せたものと同じだった。
+@text show id=TX14_002_0004 speaker=narration
+自分が助かるためなら、怖がって足を止める男ではない。
+@text show id=TX14_002_0005 speaker=narration
+向かっているのは、後ろだった。
+@text show id=TX14_002_0006 speaker=narration
+三号車、四号車、五号車。
+@text show id=TX14_002_0007 speaker=narration
+その先には、七号車に残った三人がいる。
+@text show id=TX14_002_0008 speaker=CH_000
+村瀬さんたちの方へ行く！
+@text show id=TX14_002_0009 speaker=narration
+黒川が振り返った。
+@text show id=TX14_002_0010 speaker=narration
+もう分かっていた顔だった。
+@text show id=TX14_002_0011 speaker=CH_003
+桐生さん！　後ろへ来る、逃げて！
+@text show id=TX14_002_0012 speaker=narration
+大声で呼んだ。
+@text show id=TX14_002_0013 speaker=narration
+返事はなかった。
+@text show id=TX14_002_0014 speaker=narration
+車両の損傷と距離、その間を満たす雨の音に遮られている。
+@text show id=TX14_002_0015 speaker=narration
+俺も呼んだ。
+@text show id=TX14_002_0016 speaker=narration
+村瀬の名を、沙耶の名を。
+@text show id=TX14_002_0017 speaker=narration
+向こうへ届いたか確かめられなかった。
+@text show id=TX14_002_0018 speaker=narration
+大庭が振り返った。
+@text show id=TX14_002_0019 speaker=narration
+こちらを見て、また走った。
+@text show id=TX14_002_0020 speaker=narration
+武器は失っている。
+@text show id=TX14_002_0021 speaker=narration
+だからこそ、新しく人を押さえようとするかもしれない。
+@text show id=TX14_002_0022 speaker=narration
+久我は動けない。
+@text show id=TX14_002_0023 speaker=narration
+村瀬も走れない。
+@text show id=TX14_002_0024 speaker=narration
+沙耶一人で、あの男を止められるとは思えなかった。
+@text show id=TX14_002_0025 speaker=narration
+黒川が足場へ手を掛けた。
+@text show id=TX14_002_0026 speaker=narration
+救出に使ったはしごを引き上げ、渡るために架け直す余裕もない。
+@text show id=TX14_002_0027 speaker=narration
+残った縁を使って、俺たちも渡るしかなかった。
+@text show id=TX14_002_0028 speaker=narration
+俺は扉枠を掴み、片足を二号車側へ出した。
+@text show id=TX14_002_0029 speaker=narration
+膝が痛んだ。
+@text show id=TX14_002_0030 speaker=narration
+構わず、身体を前へ送ろうとした。
+@text show id=TX14_002_0031 speaker=narration
+後ろから、手首を掴まれた。
+@char show id=CH_001 expression=決意
+@text show id=TX14_002_0032 speaker=CH_001
+直人、止まって！
+@text show id=TX14_002_0033 speaker=narration
+強い声だった。
+@text show id=TX14_002_0034 speaker=narration
+腕が引かれ、俺の足が手前へ戻った。
+@text show id=TX14_002_0035 speaker=narration
+振り返ると、綾乃が戸口へ身体を寄せていた。
+@text show id=TX14_002_0036 speaker=narration
+すずは一号車の座席側にいる。こちらを見て、動かずに待っていた。
+@text show id=TX14_002_0037 speaker=CH_000
+でも、後ろに——
+@text show id=TX14_002_0038 speaker=CH_001
+行かないで！　今、渡っちゃだめ！
+@text show id=TX14_002_0039 speaker=narration
+彼女の手が、痛いほど強かった。
+@text show id=TX14_002_0040 speaker=narration
+理由を説明する声ではなかった。
+@text show id=TX14_002_0041 speaker=narration
+間に合わなくなる前に止めようとしていた。
+@char hide id=ALL
+@bgm stop
+@effect play id=shake
+@text show id=TX14_002_0042 speaker=narration
+その時、足元が震えた。
+@bg show id=BG_016 effect=dust_weak
+@text show id=TX14_002_0043 speaker=narration
+細かな砂が、連結部の上から落ちてきた。
+@text show id=TX14_002_0044 speaker=narration
+一粒ではなかった。
+@text show id=TX14_002_0045 speaker=narration
+雨のように増え、靴のそばへ積もり始めた。
+@text show id=TX14_002_0046 speaker=narration
+黒川は二号車側の縁へ足を掛けかけていた。
+@text show id=TX14_002_0047 speaker=narration
+彼の手の先で、車体がゆっくりずれた。
+@text show id=TX14_002_0048 speaker=narration
+音がした。
+@se play file=S003.dat
+@text show id=TX14_002_0049 speaker=narration
+金属が無理に引き延ばされる、聞いたことのない音だった。
+@text show id=TX14_002_0050 speaker=narration
+俺は黒川のコートを掴んだ。
+@text show id=TX14_002_0051 speaker=CH_000
+黒川さん、戻って！
+@text show id=TX14_002_0052 speaker=narration
+黒川が振り返った。
+@text show id=TX14_002_0053 speaker=narration
+向こうの床を見た。
+@text show id=TX14_002_0054 speaker=narration
+花を押し上げるように、土砂の表面へ亀裂が走っていた。
+@bgm play file=B005.dat
+@text show id=TX14_002_0055 speaker=CH_000
+一号車へ！　ここ、崩れる！
+@text show id=TX14_002_0056 speaker=narration
+言い終わる前に、黒川が足を引いた。
+@text show id=TX14_002_0057 speaker=narration
+俺たちはもつれるように後ろへ下がった。
+@text show id=TX14_002_0058 speaker=narration
+綾乃が俺の手を離さず、戸口から車内へ引いた。
+@text show id=TX14_002_0059 speaker=narration
+一号車の床を踏んだ。
+@text show id=TX14_002_0060 speaker=narration
+黒川が入った。
+@text show id=TX14_002_0061 speaker=narration
+俺は振り返り、向こうの大庭へ叫んだ。
+@text show id=TX14_002_0062 speaker=CH_000
+大庭、戻れ！
+@text show id=TX14_002_0063 speaker=narration
+大庭がこちらを見た。
+@text show id=TX14_002_0064 speaker=narration
+三号車へ続く辺りにいた。
+@text show id=TX14_002_0065 speaker=narration
+声が聞こえたのか、足元の変化に気づいたのか、顔を下げた。
+@text show id=TX14_002_0066 speaker=narration
+次の瞬間、彼はさらに後ろへ走ろうとした。
+@text show id=TX14_002_0067 speaker=narration
+床が、その下で動いた。
+@effect play id=shake
+@se play file=S002.dat
+@text show id=TX14_002_0068 speaker=narration
+大きな音は、一つではなかった。
+@text show id=TX14_002_0069 speaker=narration
+外から地面ごと押してくるような低い響き。
+@se play file=S007.dat
+@text show id=TX14_002_0070 speaker=narration
+窓が砕ける音。
+@text show id=TX14_002_0071 speaker=narration
+座席や支柱が、まとめてねじ切られていく音。
+@bg show id=BG_016 image=collapse_progress effect=dust_medium
+@effect play id=shake
+@text show id=TX14_002_0072 speaker=narration
+二号車の車体が沈んだ。
+@text show id=TX14_002_0073 speaker=narration
+傾きの小さかった床が、目の前で角度を変えた。
+@text show id=TX14_002_0074 speaker=narration
+花が滑った。
+@text show id=TX14_002_0075 speaker=narration
+土が流れた。
+@text show id=TX14_002_0076 speaker=narration
+白と赤が、黒い濁りに巻き込まれた。
+@text show id=TX14_002_0077 speaker=CH_007
+いやっ……！
+@text show id=TX14_002_0078 speaker=narration
+背後ですずが叫んだ。
+@text show id=TX14_002_0079 speaker=narration
+黒川が彼女の側へ身体を寄せ、俺も一号車の手すりを掴んだ。
+@text show id=TX14_002_0080 speaker=narration
+その力に腕の傷が開いた気がしたが、離せなかった。
+@text show id=TX14_002_0081 speaker=narration
+連結部が、下へ引かれた。
+@text show id=TX14_002_0082 speaker=narration
+床の隙間が広がり、扉枠の向こうに雨の闇が現れた。
+@text show id=TX14_002_0083 speaker=narration
+大庭の姿が見えた。
+@text show id=TX14_002_0084 speaker=narration
+手を伸ばしていた。
+@text show id=TX14_002_0085 speaker=narration
+その手が何を掴んだのか、見届けられなかった。
+@text show id=TX14_002_0086 speaker=narration
+土砂と車体の影が、横から重なった。
+@text show id=TX14_002_0087 speaker=narration
+俺は名前を呼んだ。
+@text show id=TX14_002_0088 speaker=narration
+声は、崩れる音に消えた。
+@text show id=TX14_002_0089 speaker=narration
+四号車の水の明かりが、向こうで折れた。
+@text show id=TX14_002_0090 speaker=narration
+一瞬高くなり、次に低く沈んだ。
+@text show id=TX14_002_0091 speaker=narration
+五号車の黒い車体が、その向こうへ引かれていく。
+@text show id=TX14_002_0092 speaker=narration
+列車の真ん中が、切り取られるように消えていった。
+@effect play id=shake
+@text show id=TX14_002_0093 speaker=narration
+俺たちのいる一号車は、何度か大きく揺れた。
+@text show id=TX14_002_0094 speaker=narration
+それでも、足の下には床が残った。
+@text show id=TX14_002_0095 speaker=narration
+黒川がすずを座席の陰へ下げた。
+@text show id=TX14_002_0096 speaker=narration
+俺は後ろへ下がりながら、綾乃の腕の重みを感じていた。
+@bgm stop
+@wait sync
+@text show id=TX14_002_0097 speaker=narration
+やがて、音の中心が遠ざかった。
+@bg show id=BG_016 image=rear_broken effect=dust_weak
+@text show id=TX14_002_0098 speaker=narration
+なおも小さな物が落ちる音は続いていたが、車体全体を揺らす振動は弱くなった。
+@ambient play file=A001.dat volume=0.7
+@text show id=TX14_002_0099 speaker=narration
+雨が聞こえた。
+@text show id=TX14_002_0100 speaker=narration
+今までより、はっきりと。
+@scene end id=SC14_002
+@scene start id=SC14_003
+@char show id=CH_003 expression=真剣
+@location show text="一号車／中央車両の崩落後"
+@text show id=TX14_003_0001 speaker=CH_003
+宮野さん。俺を見て。怪我してない？
+@text show id=TX14_003_0002 speaker=narration
+黒川の声で、俺は振り返った。
+@text show id=TX14_003_0003 speaker=narration
+すずは両耳を押さえていた。
+@text show id=TX14_003_0004 speaker=narration
+何度か呼ばれて、ようやく顔を上げた。
+@text show id=TX14_003_0005 speaker=CH_007
+……はい。分から、ない。でも
+@text show id=TX14_003_0006 speaker=CH_003
+今はそれでいい。動かないで
+@text show id=TX14_003_0007 speaker=narration
+黒川が俺を見た。
+@text show id=TX14_003_0008 speaker=narration
+俺は頷いた。
+@text show id=TX14_003_0009 speaker=narration
+頭も打っていない。腕も脚も動く。
+@text show id=TX14_003_0010 speaker=narration
+自分のことを確かめ終えるより先に、向こうを見た。
+@text show id=TX14_003_0011 speaker=CH_000
+後ろ……
+@char hide id=ALL
+@text show id=TX14_003_0012 speaker=narration
+戸口の前には、もう二号車がなかった。
+@text show id=TX14_003_0013 speaker=narration
+裂けた連結部と、その先の大きな空間。
+@bg show id=BG_016 image=rear_broken
+@text show id=TX14_003_0014 speaker=narration
+中央の車体が流れ落ちたため、さっきまで壁に隠れていた遠い方が、雨の向こうに見えた。
+@text show id=TX14_003_0015 speaker=narration
+斜めに残った六号車。
+@text show id=TX14_003_0016 speaker=narration
+その後ろ、七号車の窓の明かり。
+@text show id=TX14_003_0017 speaker=CH_003
+桐生さん！
+@text show id=TX14_003_0018 speaker=narration
+黒川が叫んだ。
+@text show id=TX14_003_0019 speaker=narration
+今度は、遮る車体がなかった。
+@text show id=TX14_003_0020 speaker=narration
+ライトを大きく振る。
+@text show id=TX14_003_0021 speaker=narration
+俺も携帯を上げた。
+@text show id=TX14_003_0022 speaker=narration
+明かりが、一度動いた。
+@text show id=TX14_003_0023 speaker=narration
+六号車側の連結部に、人が見えた。
+@text show id=TX14_003_0024 speaker=narration
+沙耶だった。
+@text show id=TX14_003_0025 speaker=narration
+すぐ隣で、村瀬が片側をかばいながら立っていた。
+@text show id=TX14_003_0026 speaker=CH_005
+こちら、三人！　います！
+@text show id=TX14_003_0027 speaker=narration
+途切れた声が、雨を越えてきた。
+@text show id=TX14_003_0028 speaker=narration
+はっきりした文章ではなかったが、三人、という音は聞き取れた。
+@text show id=TX14_003_0029 speaker=narration
+村瀬が片手を高く上げた。
+@text show id=TX14_003_0030 speaker=narration
+その後ろから、久我のものらしい大きな声がした。
+@text show id=TX14_003_0031 speaker=narration
+俺は何度も手を振った。
+@text show id=TX14_003_0032 speaker=narration
+黒川も叫び返した。
+@text show id=TX14_003_0033 speaker=CH_003
+こっちも無事です！　そこから動かないで！
+@text show id=TX14_003_0034 speaker=narration
+村瀬の手が、もう一度動いた。
+@text show id=TX14_003_0035 speaker=narration
+今は近づけない。
+@text show id=TX14_003_0036 speaker=narration
+けれど、生きている。
+@text show id=TX14_003_0037 speaker=narration
+沙耶も、村瀬も、久我も、向こう側に残っている。
+@wait beat
+@text show id=TX14_003_0038 speaker=narration
+膝から力が抜けた。
+@text show id=TX14_003_0039 speaker=narration
+俺はその場へしゃがみ込みかけ、手すりへもたれた。
+@text show id=TX14_003_0040 speaker=narration
+黒川が長く息を吐いた。
+@text show id=TX14_003_0041 speaker=narration
+すずの泣く声が、座席の側から聞こえた。
+@text show id=TX14_003_0042 speaker=narration
+間に合った。
+@text show id=TX14_003_0043 speaker=narration
+追い続けていたら、俺たちも向こうへ沈んでいた。
+@text show id=TX14_003_0044 speaker=narration
+俺は自分の手首を見た。
+@text show id=TX14_003_0045 speaker=narration
+握られた所が、まだ熱い。
+@text show id=TX14_003_0046 speaker=narration
+綾乃が止めてくれた。
+@text show id=TX14_003_0047 speaker=narration
+その一瞬で、俺も黒川を引き戻せた。
+@text show id=TX14_003_0048 speaker=CH_000
+綾乃——
+@text show id=TX14_003_0049 speaker=narration
+彼女の方へ向き直った。
+@text show id=TX14_003_0050 speaker=narration
+さっきまで、そこにいた。
+@text show id=TX14_003_0051 speaker=narration
+戸口の内側、俺のすぐ隣。
+@text show id=TX14_003_0052 speaker=narration
+誰もいなかった。
+@wait beat
+@scene end id=SC14_003
+@chapter end id=CH14
+
+@chapter start id=CH15 title="第十五章　朝"
+@textbox hide
+@scene start id=SC15_001
+@bg hide
+@wait sync
+@bg show id=BG_017 transition=fade duration_ms=1000
+@chapter_title show chapter="第十五章" title="朝"
+@wait sync
+@location show text="一号車／崩落の後"
+@textbox show
+@text show id=TX15_001_0001 speaker=narration
+俺は反対側を見た。
+@text show id=TX15_001_0002 speaker=narration
+座席の向こう。運転台の前。すずが座っている場所の隣。
+@text show id=TX15_001_0003 speaker=narration
+どこにも、アイボリーのコートが見えない。
+@text show id=TX15_001_0004 speaker=CH_000
+綾乃？
+@text show id=TX15_001_0005 speaker=narration
+返事はなかった。
+@text show id=TX15_001_0006 speaker=narration
+身体を起こし、車内を見渡した。
+@text show id=TX15_001_0007 speaker=narration
+隠れる所などほとんどない。
+@text show id=TX15_001_0008 speaker=narration
+運転台へ行ったのかと思い、一歩出た。
+@char show id=CH_003 expression=真剣
+@text show id=TX15_001_0009 speaker=CH_003
+相沢君
+@text show id=TX15_001_0010 speaker=narration
+黒川も、俺が見た場所を見ていた。
+@text show id=TX15_001_0011 speaker=narration
+すずが顔を上げた。
+@text show id=TX15_001_0012 speaker=CH_007
+水城、さん……？
+@text show id=TX15_001_0013 speaker=narration
+二人にも見えないのだと分かった。
+@text show id=TX15_001_0014 speaker=narration
+それでも、名前を呼ぶのをやめられなかった。
+@text show id=TX15_001_0015 speaker=CH_000
+綾乃。……どこ
+@char hide id=ALL
+@wait sync
+@bg show id=BG_015
+@text show id=TX15_001_0016 speaker=narration
+運転台の入口まで歩いた。
+@text show id=TX15_001_0017 speaker=narration
+窓の反射に自分が映り、息をのんだ。
+@text show id=TX15_001_0018 speaker=narration
+隣に誰かいるように見えただけだった。
+@text show id=TX15_001_0019 speaker=narration
+俺の後ろには、黒川とすずがいた。
+@bg show id=BG_017
+@text show id=TX15_001_0020 speaker=narration
+戻った。
+@text show id=TX15_001_0021 speaker=narration
+彼女が立っていた場所にしゃがんだ。
+@text show id=TX15_001_0022 speaker=narration
+落ちた髪飾りも、赤いストールも、なかった。
+@text show id=TX15_001_0023 speaker=narration
+鞄もない。
+@text show id=TX15_001_0024 speaker=narration
+二号車で俺が拾い、彼女へ返した鞄まで、なくなっていた。
+@text show id=TX15_001_0025 speaker=narration
+崩れた方へ近づこうとすると、黒川が腕を添えた。
+@text show id=TX15_001_0026 speaker=narration
+強く止めたわけではなかった。
+@text show id=TX15_001_0027 speaker=narration
+俺が下を覗く間、身体が前へ出すぎないように支えていた。
+@bg show id=BG_016 image=rear_broken
+@text show id=TX15_001_0028 speaker=narration
+雨に煙る空間があった。
+@text show id=TX15_001_0029 speaker=narration
+さっき沈んだ車体の一部が、遠い下で黒く重なっている。
+@text show id=TX15_001_0030 speaker=narration
+それ以上は、見えない。
+@text show id=TX15_001_0031 speaker=narration
+綾乃は、ここに戻っていた。
+@text show id=TX15_001_0032 speaker=narration
+俺の手を引いて、一号車へ入った。
+@text show id=TX15_001_0033 speaker=narration
+その手を握り返した感触もある。
+@text show id=TX15_001_0034 speaker=narration
+いつ離した。
+@text show id=TX15_001_0035 speaker=narration
+思い返そうとした。
+@text show id=TX15_001_0036 speaker=narration
+黒川を引いた時か。すずの声を聞いた時か。
+@text show id=TX15_001_0037 speaker=narration
+音が大きすぎて、どこで自分が何をしたか、順番が崩れている。
+@text show id=TX15_001_0038 speaker=narration
+最後に見た顔が、どの瞬間のものかさえ定まらなかった。
+@text show id=TX15_001_0039 speaker=narration
+綾乃の声を待った。
+@text show id=TX15_001_0040 speaker=narration
+何も聞こえなかった。
+@text show id=TX15_001_0041 speaker=narration
+俺の方を見て、名前を呼んでほしかった。
+@text show id=TX15_001_0042 speaker=narration
+黒川が俺の顔を見た。
+@text show id=TX15_001_0043 speaker=narration
+答えは言わなかった。
+@text show id=TX15_001_0044 speaker=narration
+すずも、何が起きたのか尋ねなかった。
+@text show id=TX15_001_0045 speaker=narration
+尋ねられても、俺には説明できない。
+@text show id=TX15_001_0046 speaker=narration
+さっきまで、いた。
+@text show id=TX15_001_0047 speaker=narration
+今は、いない。
+@text show id=TX15_001_0048 speaker=narration
+それだけが、どうしても変わらなかった。
+@bg show id=BG_017
+@text show id=TX15_001_0049 speaker=narration
+俺は座席へ腰を下ろした。
+@text show id=TX15_001_0050 speaker=narration
+腕が痛み、膝が熱を持っていた。
+@text show id=TX15_001_0051 speaker=narration
+けれど、どこを押さえれば楽になるのか分からない痛みが、胸の奥へ広がっていた。
+@text show id=TX15_001_0052 speaker=narration
+綾乃に、何を聞いただろう。
+@text show id=TX15_001_0053 speaker=narration
+二十七歳になった彼女に。
+@text show id=TX15_001_0054 speaker=narration
+パン屋。
+@text show id=TX15_001_0055 speaker=narration
+仕事帰りに、小さな店へ寄る。
+@text show id=TX15_001_0056 speaker=narration
+クリームの入った丸いパンが好きで、翌朝の分まで買って、時々夜のうちに食べてしまう。
+@text show id=TX15_001_0057 speaker=narration
+それを話した時、少し恥ずかしそうに笑っていた。
+@text show id=TX15_001_0058 speaker=narration
+今度、寄ってみる？
+@text show id=TX15_001_0059 speaker=narration
+俺は、案内してと言った。
+@text show id=TX15_001_0060 speaker=narration
+売り切れる前に、早めに行こうと。
+@text show id=TX15_001_0061 speaker=CH_000
+……店の、名前
+@text show id=TX15_001_0062 speaker=narration
+声が漏れた。
+@text show id=TX15_001_0063 speaker=narration
+黒川が顔を上げた。
+@bgm play file=B016.dat
+@text show id=TX15_001_0064 speaker=CH_000
+聞かなかった
+@wait beat
+@text show id=TX15_001_0065 speaker=narration
+次に会う時、彼女が教えてくれると思っていた。
+@text show id=TX15_001_0066 speaker=narration
+一緒に歩けば分かると思っていた。
+@text show id=TX15_001_0067 speaker=narration
+行きたいと言えば行けるくらいの、近い未来だった。
+@text show id=TX15_001_0068 speaker=narration
+場所を聞いていない。
+@text show id=TX15_001_0069 speaker=narration
+連絡先も、まだ知らない。
+@text show id=TX15_001_0070 speaker=narration
+綾乃がどこから帰ってきて、何時にその店へ寄るのかも。
+@text show id=TX15_001_0071 speaker=narration
+俺の知らない十五年があった。
+@text show id=TX15_001_0072 speaker=narration
+その話を、今度はちゃんと聞きたかった。
+@text show id=TX15_001_0073 speaker=narration
+ここから出た後も、彼女と話すつもりだった。
+@text show id=TX15_001_0074 speaker=narration
+息を吸おうとした。
+@text show id=TX15_001_0075 speaker=narration
+喉が勝手に閉じた。
+@text show id=TX15_001_0076 speaker=narration
+もう一度吸うと、変な音がした。
+@text show id=TX15_001_0077 speaker=CH_000
+……あ、やの
+@text show id=TX15_001_0078 speaker=narration
+目の前が滲んだ。
+@text show id=TX15_001_0079 speaker=narration
+手の甲で拭いたら、傷が頬へ当たった。
+@text show id=TX15_001_0080 speaker=narration
+痛かった。
+@text show id=TX15_001_0081 speaker=narration
+痛いのに、今はそれも止め方が分からなかった。
+@text show id=TX15_001_0082 speaker=narration
+十二歳の時、好きだった。
+@text show id=TX15_001_0083 speaker=narration
+綾乃も、そうだったと言ってくれた。
+@text show id=TX15_001_0084 speaker=narration
+その子が死んだことを、俺は忘れていた。
+@text show id=TX15_001_0085 speaker=narration
+ずっと泣かなかった。
+@text show id=TX15_001_0086 speaker=narration
+泣かずに暮らせたのではない。
+@text show id=TX15_001_0087 speaker=narration
+何を失ったのかさえ、分からなくなっていた。
+@text show id=TX15_001_0088 speaker=narration
+今夜、ようやく会えた。
+@text show id=TX15_001_0089 speaker=narration
+昔の少女を思い出すだけでなく、今の彼女にも会えた。
+@text show id=TX15_001_0090 speaker=narration
+パンの端までクリームが入っていることを、嬉しそうに話す人だった。
+@text show id=TX15_001_0091 speaker=narration
+その人が、もういない。
+@text show id=TX15_001_0092 speaker=CH_000
+会いたい……
+@text show id=TX15_001_0093 speaker=narration
+言うと、声が崩れた。
+@text show id=TX15_001_0094 speaker=narration
+堪えようと口を押さえたが、指の間から息が漏れた。
+@text show id=TX15_001_0095 speaker=narration
+肩が勝手に揺れた。
+@text show id=TX15_001_0096 speaker=CH_000
+綾乃……会いたいよ
+@wait beat
+@text show id=TX15_001_0097 speaker=narration
+まだ呼べば来る距離にいてほしかった。
+@text show id=TX15_001_0098 speaker=narration
+さっきの五号車で、前から名前を呼んでくれたように。
+@text show id=TX15_001_0099 speaker=narration
+何をそんなに困っているのかと、普通の顔で来てほしかった。
+@text show id=TX15_001_0100 speaker=narration
+俺は両手で顔を覆った。
+@text show id=TX15_001_0101 speaker=narration
+声を小さくできなかった。
+@text show id=TX15_001_0102 speaker=narration
+息を継ぐたびに、また声が出た。
+@text show id=TX15_001_0103 speaker=narration
+喉が痛くなるまで泣いた。
+@text show id=TX15_001_0104 speaker=narration
+身体を丸めても、胸の中にあるものは小さくならなかった。
+@text show id=TX15_001_0105 speaker=narration
+膝に落ちる水が、雨なのか自分の涙なのか、もう分からなかった。
+@text show id=TX15_001_0106 speaker=narration
+黒川は何も言わなかった。
+@text show id=TX15_001_0107 speaker=narration
+すずも、泣かないでとは言わなかった。
+@text show id=TX15_001_0108 speaker=narration
+どれくらい時間が経ったか、分からない。
+@text show id=TX15_001_0109 speaker=narration
+俺が顔を上げられない間に、向かいの座席が鳴った。
+@text show id=TX15_001_0110 speaker=narration
+布の張りがたわみ、ばねが小さく軋んだ。
+@text show id=TX15_001_0111 speaker=narration
+隙間から見ると、黒川が座っていた。
+@text show id=TX15_001_0112 speaker=narration
+その重みで、座面が沈んでいる。
+@text show id=TX15_001_0113 speaker=narration
+肘を膝へ置き、手を組み、ただそこにいた。
+@text show id=TX15_001_0114 speaker=narration
+すずは少し離れた座席にいた。
+@text show id=TX15_001_0115 speaker=narration
+落とした鞄を膝へ戻し、ぬいぐるみを片手で包んでいる。
+@text show id=TX15_001_0116 speaker=narration
+何度か口を開きかけ、そのたびに閉じた。
+@text show id=TX15_001_0117 speaker=narration
+言葉を探すのをやめても、席を立たなかった。
+@text show id=TX15_001_0118 speaker=narration
+俺は泣き止んだのではなかった。
+@text show id=TX15_001_0119 speaker=narration
+声が出なくなり、息が少しずつ普通の長さへ戻っていった。
+@text show id=TX15_001_0120 speaker=narration
+涙はまだ落ちた。
+@text show id=TX15_001_0121 speaker=narration
+拭くための手を上げるのが億劫で、しばらくそのままにした。
+@ambient play file=A001.dat volume=0.3
+@text show id=TX15_001_0122 speaker=narration
+窓を流れる雨が、細くなっていた。
+@text show id=TX15_001_0123 speaker=narration
+ガラスの向こうに、黒一色ではない所ができている。
+@text show id=TX15_001_0124 speaker=narration
+黒川が外を見た。
+@text show id=TX15_001_0125 speaker=narration
+俺も、同じ方を見た。
+@bg show id=BG_017 filter=cool
+@text show id=TX15_001_0126 speaker=narration
+雨の奥が、薄く青かった。
+@scene end id=SC15_001
+@scene start id=SC15_002
+@textbox hide
+@bgm stop
+@ambient stop
+@bg hide
+@wait sync
+@bg show id=BG_017 filter=bright transition=fade duration_ms=1000
+@bgm play file=B017.dat
+@ambient play file=A002.dat volume=0.3
+@wait sync
+@location show text="一号車／明け方"
+@textbox show
+@text show id=TX15_002_0001 speaker=narration
+光は、少しずつ車内へ入ってきた。
+@text show id=TX15_002_0002 speaker=narration
+照明とは違う色が、座席の端へ触れた。
+@text show id=TX15_002_0003 speaker=narration
+すずの鞄も、俺の濡れた袖も、夜の中で見た時より普通の物に見えた。
+@text show id=TX15_002_0004 speaker=narration
+外から風が入り、頬に残った涙を冷やした。
+@text show id=TX15_002_0005 speaker=narration
+どこかで水滴が落ちている。
+@text show id=TX15_002_0006 speaker=narration
+崩れる音は、もうしなかった。
+@text show id=TX15_002_0007 speaker=narration
+遠い七号車の側で、明かりが一度動いた。
+@text show id=TX15_002_0008 speaker=narration
+黒川が立ち、こちらからもライトを振った。
+@text show id=TX15_002_0009 speaker=narration
+少し待つと、向こうの明かりがもう一度返った。
+@text show id=TX15_002_0010 speaker=narration
+俺は、それを見ていた。
+@text show id=TX15_002_0011 speaker=narration
+今も、向こうで待っている人がいる。
+@se play file=S008.dat
+@text show id=TX15_002_0012 speaker=narration
+ポケットの中で、小さく震えた。
+@text show id=TX15_002_0013 speaker=narration
+最初は、身体の震えが戻ったのかと思った。
+@text show id=TX15_002_0014 speaker=narration
+もう一度振動して、携帯だと分かった。
+@text show id=TX15_002_0015 speaker=narration
+画面を出した。
+@text show id=TX15_002_0016 speaker=narration
+電波の印が、一つ、ついていた。
+@wait beat
+@text show id=TX15_002_0017 speaker=narration
+消えそうに薄いものではない。ただ小さな線が、そこにあった。
+@text show id=TX15_002_0018 speaker=CH_000
+……つながる、かも
+@text show id=TX15_002_0019 speaker=narration
+黒川が振り返った。
+@text show id=TX15_002_0020 speaker=narration
+すずも携帯を取り出した。鞄についた二つのぬいぐるみを握り、画面へ顔を寄せた。
+@text show id=TX15_Z002_0001 speaker=CH_007
+友達に、送れるかな……
+@text show id=TX15_002_0021 speaker=narration
+すずは息を吐き、ほんの少し顔を上げた。黒川も携帯を耳に当て、外へ連絡を試し始めた。
+@text show id=TX15_002_0022 speaker=narration
+俺の画面には、夜の初めに書いた文章が残っていた。
+@text show id=TX15_002_0023 speaker=narration
+『雨で遅れてる。先に寝てて』
+@text show id=TX15_002_0024 speaker=narration
+その下を、指で押した。
+@text show id=TX15_002_0025 speaker=narration
+母の名前が見える。
+@text show id=TX15_002_0026 speaker=narration
+何と書くか、長い説明を考えかけて、やめた。
+@text show id=TX15_002_0027 speaker=narration
+写真の中の古い定期券。
+@text show id=TX15_002_0028 speaker=narration
+病室で、何度も同じ答えを言わせた母の顔。
+@text show id=TX15_002_0029 speaker=narration
+今は、一人で頭の中へ押し込めておくより、声に出して聞きたいことがあった。
+@text show id=TX15_002_0030 speaker=narration
+指先はまだ動かしにくかった。
+@text show id=TX15_002_0031 speaker=narration
+一文字間違え、消して、もう一度打った。
+@text show id=TX15_002_0032 speaker=narration
+『帰ったら、話したいことがある』
+@wait beat
+@text show id=TX15_002_0033 speaker=narration
+句点をつけるか迷い、そのままにした。
+@text show id=TX15_002_0034 speaker=narration
+画面から顔を上げると、窓の向こうが明るくなっていた。
+@text show id=TX15_002_0035 speaker=narration
+後方へ目を凝らすと、七号車のもっと先、八号車の横に濡れたホームの端が見えた。
+@text show id=TX15_Z002_0002 speaker=narration
+中央の車両がなくなり、雨が細くなった今、乗ってきた場所まで見通せた。その床に、白い光が落ちていた。
+@text show id=TX15_002_0036 speaker=narration
+柱の影が、少しずつ短くなっていく。
+@text show id=TX15_002_0037 speaker=narration
+すずが眩しそうに目を細めた。
+@text show id=TX15_002_0038 speaker=narration
+黒川は電話の相手へ、列車が途中で切れ、後ろの車両に負傷者がいると伝えていた。
+@text show id=TX15_Z002_0003 speaker=narration
+受話口から、駅の名前を聞き返す声がした。黒川は答え、もう一度、救助を頼んだ。
+@text show id=TX15_002_0039 speaker=narration
+俺は携帯を両手で持ち直した。
+@text show id=TX15_002_0040 speaker=narration
+綾乃のいない座席にも、同じ光が差していた。
+@text show id=TX15_002_0041 speaker=narration
+目を逸らさず、見た。
+@text show id=TX15_002_0042 speaker=narration
+十三番線に、朝が来ていた。
+@wait beat
+@scene end id=SC15_002
+@chapter end id=CH15
+@ending reach id=END_A
+

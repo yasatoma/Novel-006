@@ -1,0 +1,30 @@
+export function createGameState() {
+  return {
+    currentChapterId: null,
+    currentSceneId: null,
+    currentCommandIndex: 0,
+    currentTextId: null,
+    flags: {},
+    unlockedMemoIds: [],
+    unlockedCharacterIds: [],
+    visibleCharacters: {},
+    currentBackground: null,
+    currentBackgroundImage: "base",
+    currentBackgroundFilter: "normal",
+    currentBackgroundEffect: "none",
+    currentBackgroundEffectLayer: "background",
+    currentComparison: null,
+    currentBackgroundEffects: [],
+    currentBgm: null,
+    currentBgmVolume: 1,
+    currentAmbient: null,
+    currentAmbientVolume: 1,
+    currentLocationText: null,
+    currentOverlay: null,
+    backlog: [],
+    trail: [],
+    currentChoiceId: null,
+    reachedEndingIds: [],
+    rubySeenByChapter: {}
+  };
+}
